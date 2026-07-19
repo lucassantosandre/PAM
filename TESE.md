@@ -1,4 +1,4 @@
-# O Estado Tributário do Vício
+# TESE — O Estado Tributário do Vício
 
 ### Proibição, legalização e a renda sobre o desespero das classes trabalhadoras
 
@@ -100,6 +100,37 @@ e Estado. Legalizar o vício é, nesta leitura, um mecanismo de **realização d
 sobre o lazer das classes populares** — e a evidência de que a aposta pesada recai
 desproporcionalmente sobre faixas de menor renda reforça o caráter regressivo dessa
 extração.
+
+### O experimento mental do bairro
+
+Um bom modo de testar a tese é levá-la ao limite lógico. Imagine um caso extremo — um
+*experimento mental*, não um fato: num bairro pobre e violento, as apostas escalaram do
+placar da partida para a própria vida das pessoas. Dívidas de jogo que se pagam com
+sangue; terceiros que apostam se o devedor sobrevive à semana. Diante do escândalo,
+propõe-se uma lei — proibir as apostas naquele bairro — e a decisão é levada a voto
+popular.
+
+A tese faz três previsões sobre esse cenário:
+
+1. **A pergunta que parece moral é, no fundo, fiscal.** "Deve-se proibir?" traduz-se,
+   para o Estado, em "quanto se perde de arrecadação ao proibir?". Se a base tributável
+   for grande, a proibição encontra uma resistência que nada tem a ver com ética.
+2. **Levar a decisão a voto transfere a responsabilidade.** Ao delegar a escolha ao
+   "povo", o Estado se apresenta como neutro — mas continua sendo o cobrador de imposto
+   sobre o resultado, ganhe qual lado ganhar. Na prática, o mercado não some; muda de
+   jurisdição.
+3. **O dano é regressivo por desenho.** A escalada — de apostar no jogo a apostar na
+   vida — concentra-se exatamente onde a tese prevê: nas populações que são, ao mesmo
+   tempo, a mão de obra explorada na produção e o público-alvo da extração no consumo.
+
+Mesmo no limite absurdo, a tese não se quebra — ela fica mais nítida. Quando o produto
+do mercado passa a ser a morte, torna-se visível o que sempre esteve lá: o Estado como
+sócio silencioso, faturando sobre o desespero que dizia combater.
+
+> **Nota de método.** Isto é um *experimento mental* — um caso hipotético levado ao
+> extremo para testar a lógica da tese, no estilo de exercícios filosóficos. Não é uma
+> afirmação empírica sobre um bairro real; serve para expor o mecanismo, não para
+> documentá-lo.
 
 ---
 
