@@ -305,4 +305,66 @@ Pertence a você.
 
 ---
 
-> *Fim da Parte II. Continua.*
+## PARTE III — O Júri de Mercado
+
+### Capítulo 15 — O Júri de Mercado
+
+Você jurou que não ia mais jogar. Durou três dias.
+
+No quarto dia, o celular acende com um selo que você nunca tinha visto: um martelo de
+juiz dentro de um cifrão. A notificação diz:
+
+> **JULGAMENTO ABERTO — CASO #4471-B**
+> Réu: o vencedor da aposta que resultou na morte de um devedor (mil reais).
+> A comunidade decide. Vote e posicione-se:
+> **CULPADO** → prisão. · **INOCENTE** → liberado.
+> *Cotação ao vivo. Resultado por maioria ponderada.*
+
+Você lê "maioria ponderada" três vezes até entender. Não é um voto por cabeça. É um voto
+por real. Quem coloca mais dinheiro de um lado, pesa mais.
+
+A tela mostra dois números subindo e descendo como ação na bolsa:
+
+> **CULPADO 61% · INOCENTE 39%**
+
+Você olha aquilo e sente o chão sumir. Ali, naquele momento, a justiça do seu irmão tem
+preço de mercado. Sobe quando alguém aposta que o cara deve ser preso. Desce quando
+alguém aposta que não. Não tem juiz. Não tem lei. Tem *liquidez*.
+
+E é aí que o mercado faz a única coisa que sabe fazer: te oferece exatamente o que você
+mais quer. Um botão verde piscando: *"Reforce CULPADO. Ajude a fazer justiça. A partir
+de R$ 50."*
+
+Cinquenta reais pra empurrar a cabeça do assassino do seu irmão um centímetro pra
+cadeia. Você tem cento e vinte no aplicativo. Você podia. Você *quer*. O polegar chega a
+tremer em cima do botão, do mesmo jeito que tremeu naquela noite da Copa.
+
+E então você entende a armadilha.
+
+Se você apostar na condenação, seu irmão vira aposta de novo. A morte dele vira cotação
+outra vez, agora na sua mão. Você seria mais um apostando sobre o corpo dele — só que do
+lado que se sente bem. O mercado não quer sua justiça. Quer seu dinheiro dentro dele. A
+justiça é só a isca.
+
+Você tira o dedo do botão.
+
+E fica só olhando. O CULPADO chega a 68%. Você quase acredita. Aí, às 21h04, entra uma
+ordem grande — uma só, de alguém que você nunca vai conhecer — e o número despenca. 68,
+59, 44, 31. Em quarenta segundos, INOCENTE passa na frente e trava.
+
+> **VEREDITO: INOCENTE (por maioria ponderada). Réu liberado. Posições liquidadas.**
+
+O cara que matou seu irmão está livre. Não porque era inocente. Porque alguém com mais
+dinheiro apostou que ele saísse — e ganhou uma boa grana com isso.
+
+Você não apostou. Manteve a palavra. E não mudou nada. O mercado não pune quem se
+recusa a jogar; ele só segue sem você.
+
+Mas tem uma coisa que aquela ordem gigante de 21h04 não conseguiu comprar: você sabe o
+nome do seu irmão. E o mercado, não. Pra ele, o caso #4471-B fechou no lucro. Pra você,
+ele tem rosto. Barulho não tem cotação — você repete isso baixinho, feito reza. É a
+única coisa que sobrou que ninguém consegue apostar contra.
+
+---
+
+> *Fim da Parte III. Continua.*
