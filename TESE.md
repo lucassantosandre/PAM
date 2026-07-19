@@ -1,4 +1,4 @@
-# TESE — O Estado Tributário do Vício
+# O Estado Tributário do Vício
 
 ### Proibição, legalização e a renda sobre o desespero das classes trabalhadoras
 
