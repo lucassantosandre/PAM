@@ -49,7 +49,7 @@ difícil de rejeitar.
 
 | Elemento | Conteúdo |
 |----------|----------|
-| **Cena** | Cap. VII — Você rabisca num papel: *"Meu irmão = v. O que tiraram dele = tudo."* O irmão trabalhou (roubo 1), apostou o salário (roubo 2), morreu pela dívida (roubo 3). A mesma pessoa, explorada nos três momentos. |
+| **Cena** | Cap. VII — A mãe devolve o celular do irmão. Você abre o app da ADI: o irmão apostou toda a dívida no SIM do fim do mundo — não deu, o dinheiro entrou na piscina que financiou o prêmio que pagou a bala. A máquina usou o dinheiro dele para fechar a conta dele. Ao abrir o app de votação: multa pendente por não ter votado. O sistema ainda não sabe que ele morreu. |
 | **Mecanismo** | Produção extrai mais-valia. Consumo de risco extrai hold. Morte por dívida não fecha nenhum ciclo — abre outro contrato. O trabalhador é base tributável em vida e em morte. |
 | **Prova acadêmica** | [CALCULO-MARXISTA.md §3](CALCULO-MARXISTA.md) — tabela da tripla exploração. [TESE.md §4](TESE.md) — fórmula $E = s + \theta\alpha v$. |
 | **Evidência real** | CALCULO-MARXISTA-expandido.md — elasticidade-renda de apostas: pobres apostam proporcionalmente mais (11,7% da renda nos EUA vs 0,9% nos ricos). |

@@ -114,7 +114,7 @@ prêmio maior, sem ler direito. Achavam que decidiam a humanidade. Eram só liqu
 E, mesmo assim, o jogo continuou. A bola rolou enquanto o mundo votava se merecia
 existir. Ninguém apitou o fim — como se parar fosse admitir que era real.
 
-> _Cada ponto por cento é uma pessoa. Ver Aprofundamentos 2.1 a 2.5._
+> _Cada ponto por cento é uma pessoa._
 
 #### Capítulo III — A Reflexão
 
@@ -188,19 +188,30 @@ motor. Só muda o andar.
 
 #### Capítulo VII — O Cálculo
 
-Você lembra de uma coisa que leu uma vez sem entender. Uma fórmula. O trabalhador
-recebe um salário — chamavam de _v_. Mas produz mais do que isso. A diferença, o que
-sobra pro dono, chamavam de _s_. Mais-valia. Lucro arrancado do corpo de alguém.
+A mãe botou o celular do seu irmão na cama antes de sair. A polícia tinha ficado dois
+dias com as coisas. Devolveu tudo numa sacolinha de plástico: chave do carro, carteira
+sem nada, fone com o cabo torto. E o celular.
 
-Você rabisca num papel velho, a letra tremendo:
+A tela desbloqueou sozinha — devia ter ficado logada. App da ADI Predictstreet aberto.
+Você viu a última sessão.
 
-> Meu irmão = _v_.
-> O que tiraram dele = tudo.
+Ele tinha apostado tudo que devia ao agiouta no SIM do fim do mundo. A odd era alta
+porque quase ninguém acreditava: se desse SIM, quitava tudo de uma vez. Não deu. A
+dívida foi pra semana seguinte — e o que tinha apostado entrou na piscina da plataforma,
+virou liquidez, circulou pelas apostas menores que rolavam por baixo. O dinheiro dele
+entrou no prêmio que pagou a bala. A máquina fechou a conta dele com o dinheiro dele.
 
-Ele trabalhava — já era o primeiro roubo. Pegavam o troco que sobrava e faziam ele
-apostar. De cada real, a casa ficava com um pedaço. Do pedaço, o governo mordia doze por
-cento. Explorado no trabalho. Explorado no desespero. Taxado na morte. A mesma pessoa,
-três vezes.
+Você fecha o app. Abre o de votação obrigatória.
+
+> ⚠️ **VOTO PENDENTE — HOJE**
+> Este usuário não votou. Multa em andamento.
+
+O sistema ainda não sabe. Pra ele, seu irmão está só atrasado.
+
+Explorado no trabalho. Explorado no desespero. Taxado na morte. E agora multado porque
+não votou no fim do mundo.
+
+A mesma pessoa — e o sistema ainda está cobrando.
 
 E aí a ficha cai, fria: aquela votação global da noite da Copa não era sobre o mundo.
 Era liquidez pra precificar o jogo de várzea onde apostaram a vida dele. Cada SIM que os
@@ -385,8 +396,6 @@ Mas tem uma coisa que a ordem das 21h04 não comprou: você sabe o nome do seu i
 mercado, não. Pra ele, o caso #4471-B fechou no lucro. Pra você, tem rosto. Barulho não
 tem cotação — você repete baixinho, feito reza. A única coisa que ninguém consegue
 apostar contra.
-
-> _Ver Aprofundamento 15.1 — o outro lado, quem lucra._
 
 ---
 
