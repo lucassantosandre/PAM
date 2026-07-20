@@ -1,0 +1,91 @@
+name: Release — O Voto Final
+
+on:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detectar tipo de bump pela branch
+        id: bump
+        run: |
+          BRANCH="${{ github.event.pull_request.head.ref }}"
+          echo "Branch mergeada: $BRANCH"
+
+          if echo "$BRANCH" | grep -qE "^parte/|^part/"; then
+            echo "bump=major" >> $GITHUB_OUTPUT
+          elif echo "$BRANCH" | grep -qE "^cap/|^chap/|^chapter/"; then
+            echo "bump=minor" >> $GITHUB_OUTPUT
+          else
+            echo "bump=patch" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Calcular próxima versão
+        id: version
+        run: |
+          # Pegar última tag ou começar do zero
+          LATEST=$(git tag --sort=-v:refname | grep -E "^v[0-9]" | head -1)
+          if [ -z "$LATEST" ]; then
+            LATEST="v0.0.0"
+          fi
+          echo "Última tag: $LATEST"
+
+          MAJOR=$(echo "$LATEST" | cut -d. -f1 | tr -d 'v')
+          MINOR=$(echo "$LATEST" | cut -d. -f2)
+          PATCH=$(echo "$LATEST" | cut -d. -f3)
+
+          BUMP="${{ steps.bump.outputs.bump }}"
+          if [ "$BUMP" = "major" ]; then
+            MAJOR=$((MAJOR + 1)); MINOR=0; PATCH=0
+          elif [ "$BUMP" = "minor" ]; then
+            MINOR=$((MINOR + 1)); PATCH=0
+          else
+            PATCH=$((PATCH + 1))
+          fi
+
+          NEW_TAG="v${MAJOR}.${MINOR}.${PATCH}"
+          echo "Nova tag: $NEW_TAG"
+          echo "tag=$NEW_TAG" >> $GITHUB_OUTPUT
+          echo "bump=$BUMP" >> $GITHUB_OUTPUT
+
+      - name: Extrair slug do capítulo/aprofundamento
+        id: meta
+        run: |
+          BRANCH="${{ github.event.pull_request.head.ref }}"
+          PR_TITLE="${{ github.event.pull_request.title }}"
+          # Slug: tudo depois da primeira /
+          SLUG=$(echo "$BRANCH" | cut -d/ -f2-)
+          echo "slug=$SLUG" >> $GITHUB_OUTPUT
+          echo "pr_title=$PR_TITLE" >> $GITHUB_OUTPUT
+
+      - name: Criar tag e Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.version.outputs.tag }}
+          name: "${{ steps.version.outputs.tag }} — ${{ steps.meta.outputs.pr_title }}"
+          body: |
+            ## O Voto Final — ${{ steps.version.outputs.tag }}
+
+            **Branch**: `${{ github.event.pull_request.head.ref }}`
+            **Tipo**: ${{ steps.version.outputs.bump }}
+            **PR**: #${{ github.event.pull_request.number }} — ${{ steps.meta.outputs.pr_title }}
+
+            ---
+            ${{ github.event.pull_request.body }}
+          draft: false
+          prerelease: false
+          generate_release_notes: false

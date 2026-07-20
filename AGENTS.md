@@ -96,6 +96,23 @@ Ao adicionar personagem novo: escolher emoji **não listado acima**.
 
 ---
 
+## Convenção de branches e versionamento
+
+| Tipo | Prefixo de branch | Bump |
+|---|---|---|
+| Nova Parte | `parte/{romano}-{slug}` | major (v1→v2) |
+| Novo Capítulo | `cap/{romano}-{slug}` | minor (v0.1→v0.2) |
+| Aprofundamento | `aprof/{decimal}-{slug}` | patch (v0.0.1→v0.0.2) |
+| Infra / Skills | `chore/{slug}` | patch |
+| Correção | `fix/{slug}` | patch |
+
+Exemplos: `cap/XIV-o-nome`, `aprof/5-4-o-portfolio`, `parte/IX-o-limiar`
+
+O merge de qualquer PR em `main` dispara `.github/workflows/release.yml` que cria
+a tag semântica (`vX.Y.Z`) e a Release automaticamente.
+
+---
+
 ## O que o agente pode fazer
 
 - Ler qualquer arquivo do repositório para contexto
@@ -103,6 +120,7 @@ Ao adicionar personagem novo: escolher emoji **não listado acima**.
 - Verificar consistência de numeração romana e emojis
 - Sugerir fontes a registrar (nunca registrar sem confirmação do escritor)
 - Criar handoff em `handoffs/lucassantos/`
+- Rodar skill `git-commit` para commit + push + orientar abertura de PR
 
 ## O que o agente NÃO pode fazer
 
