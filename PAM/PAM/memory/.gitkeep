@@ -1,8 +1,0 @@
-# memory
-
-Perfis e reflexões persistentes do projeto — escritor e sessão.
-
-Estrutura:
-
-- `{user}/estilo.md` — perfil de estilo gerado pela skill `estilo`
-- `{user}/lessons.md` — lições aprendidas ao longo do projeto
