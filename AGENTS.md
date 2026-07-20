@@ -148,6 +148,7 @@ a tag semântica (`vX.Y.Z`) e a Release automaticamente.
 | `git-commit`     | Gerar branch + commit + PR padronizados             |
 | `metodo`         | Validar argumento com Toulmin + Popper              |
 | `grill`          | Interrogação socrática de ideias antes de commitar  |
+| `perfil-escritor`| Mapear influências, leitor, crescimento e anti-plágio |
 
 ## Arquivos referenciados mas ainda não criados
 
