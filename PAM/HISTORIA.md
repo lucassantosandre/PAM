@@ -81,7 +81,7 @@ tem rosto: é uma linha que se fecha num servidor.
 
 ### PARTE I — O Primeiro Dia
 
-#### Capítulo 1 — O Alerta
+#### Capítulo I — O Alerta
 
 22h17. A final da Copa estava empatada na prorrogação. De repente, todos os celulares
 do estádio vibraram ao mesmo tempo — e, pelas câmeras, dava pra ver que não era só ali.
@@ -97,7 +97,7 @@ O locutor da CazéTV ficou em silêncio quase dez segundos. Quando falou, a voz 
 
 Ninguém sabia que aquele era o primeiro dia de uma coisa que nunca mais ia parar.
 
-#### Capítulo 2 — O Caos
+#### Capítulo II — O Caos
 
 Em menos de um minuto, o estádio mudou. Gritos, choro, gente paralisada olhando pro
 celular. O contador apareceu nos telões, atualizando ao vivo:
@@ -114,7 +114,7 @@ existir. Ninguém apitou o fim — como se parar fosse admitir que era real.
 
 > *Cada ponto por cento é uma pessoa. Ver Aprofundamentos 2.1 a 2.5.*
 
-#### Capítulo 3 — A Reflexão
+#### Capítulo III — A Reflexão
 
 Você estava no quarto escuro, o dedo tremendo em cima do botão verde. Pensou na sua
 mãe, no quarto ao lado. No seu irmão, que tinha saído e ainda não tinha voltado. No
@@ -125,7 +125,7 @@ Por um segundo — um segundo que você ia carregar pra sempre — quase apertou
 
 Apertou NÃO.
 
-#### Capítulo 4 — O Resultado
+#### Capítulo IV — O Resultado
 
 00h01. O contador parou:
 
@@ -141,7 +141,7 @@ morreu no palco global. Alguém ficou muito mais rico.
 Ninguém percebeu, naquela noite, que o mundo não tinha escolhido *viver*. Tinha só
 descoberto que dava pra apostar na própria morte — e que isso pagava bem.
 
-#### Capítulo 5 — A Bala
+#### Capítulo V — A Bala
 
 Enquanto oito bilhões de pessoas apertavam botões achando que decidiam o mundo, a mesma
 plataforma rodava, por baixo, um produto menor e mais antigo: apostas de bairro
@@ -167,7 +167,7 @@ O silêncio no meio da frase disse o resto.
 
 ### PARTE II — O Luto
 
-#### Capítulo 6 — A Fronteira Infinita
+#### Capítulo VI — A Fronteira Infinita
 
 Você não dorme. Anda pela casa como bicho enjaulado. Abre o feed no automático e lá
 está, entre uma propaganda de aposta e outra: um homem acabou de se tornar o primeiro
@@ -185,7 +185,7 @@ explorar, mais aposta pra taxar. Mais liquidez.
 Teu irmão morreu por mil reais. Lá em cima, um cara ganha isso dormindo. É o mesmo
 motor. Só muda o andar.
 
-#### Capítulo 7 — O Cálculo
+#### Capítulo VII — O Cálculo
 
 Você lembra de uma coisa que leu uma vez sem entender. Uma fórmula. O trabalhador
 recebe um salário — chamavam de *v*. Mas produz mais do que isso. A diferença, o que
@@ -209,7 +209,7 @@ achando que decidia a humanidade. Ninguém sabendo que decidia *ele*.
 > *Por que a conta nunca fecha pro pobre: ela nunca foi feita pra fechar, e sim pra
 > vazar — com nota fiscal. Ver Fundamentação, ponto 4.*
 
-#### Capítulo 8 — O Velório
+#### Capítulo VIII — O Velório
 
 A capela abafada. Cheiro de vela barata, suor, cigarro. Teu irmão num caixão barato, o
 rosto inchado, o buraco tampado com maquiagem pior ainda. Você encostado na parede, um
@@ -230,7 +230,7 @@ A senhora de preto, cigarro na voz, virou o pescoço como cobra:
 O silêncio caiu pesado. A comadre baixou o telefone, vermelha. Você quase sorriu. Pelo
 menos alguém falou.
 
-#### Capítulo 9 — O Coveiro
+#### Capítulo IX — O Coveiro
 
 No cemitério, quando o caixão começou a descer, o coveiro parou o serviço um segundo.
 Olhou pro corpo e falou alto, quase debochando:
@@ -248,7 +248,7 @@ Encaixou a pá na terra.
 — Eu enterro três, quatro por semana por causa dessa merda de aposta. Governo feliz.
 Empresa feliz. O vencedor da aposta feliz. E o morto sou eu que enterro.
 
-#### Capítulo 10 — A Nota Fiscal
+#### Capítulo X — A Nota Fiscal
 
 Na funerária, a mulher atrás do balcão — cara de quem já viu de tudo — empurrou o papel:
 
@@ -276,7 +276,7 @@ Ela só baixou os olhos.
 > *A tese inteira cabe numa nota fiscal: o Estado como sócio silencioso, faturando sobre
 > a desgraça que dizia combater. Ver Fundamentação, ponto 6.*
 
-#### Capítulo 11 — O Adeus
+#### Capítulo XI — O Adeus
 
 Você voltou ao caixão antes de fecharem. Encostou a testa na madeira fria:
 
@@ -302,7 +302,7 @@ O coveiro jogou a primeira pá de terra. Seco. Definitivo.
 
 ### PARTE III — A Rotina
 
-#### Capítulo 12 — Todo Dia
+#### Capítulo XII — Todo Dia
 
 O primeiro dia virou todo dia. A votação não foi embora — virou hábito. Toda manhã, o
 celular mundial apita: *O mundo deve acabar hoje? SIM ou NÃO. Voto obrigatório. Multa em
@@ -317,7 +317,7 @@ bilhões de pessoas, não tem preço — tem mensalidade.
 > *A extinção transformada em base tributável recorrente. É a Regra do Mundo se fechando
 > sobre a tese. Ver Fundamentação, ponto 2.*
 
-#### Capítulo 13 — A Recusa
+#### Capítulo XIII — A Recusa
 
 Você jurou que não ia mais jogar. E cumpriu — mas o mercado não desiste fácil.
 
@@ -335,7 +335,7 @@ Digitou **NÃO** — não pela votação, mas pela vida inteira que vinha depois
 ia fazer a única coisa que um mercado não sabe taxar: contar. Falar o que aconteceu até
 virar barulho. Barulho não tem cotação.
 
-#### Capítulo 14 — O Nome
+#### Capítulo XIV — O Nome
 
 O nome dele era ________.
 
@@ -352,7 +352,7 @@ você.
 
 ### PARTE IV — O Júri de Mercado
 
-#### Capítulo 15 — O Júri de Mercado
+#### Capítulo XV — O Júri de Mercado
 
 Três dias depois, o celular acende com um selo novo: um martelo de juiz dentro de um
 cifrão.
@@ -402,9 +402,9 @@ apostar contra.
 
 ---
 
-## PARTE V — O Barulho
+### PARTE V — O Barulho
 
-### Capítulo 16 — Contar
+#### Capítulo XVI — Contar
 
 Você não tinha um plano. Tinha uma promessa: contar. Só que num mundo onde tudo vira
 cotação, você aprendeu rápido que post não serve. Você escreveu um, na primeira noite —
@@ -483,7 +483,7 @@ tomou as telas do mundo às **22h17**, durante a final da Copa (Cap. 1). É o ma
 
 Os Aprofundamentos 2.x são **simultâneos** — o mesmo instante, em lugares diferentes.
 
-### Expansões do Capítulo 2 — O Caos
+### Expansões do Capítulo II — O Caos
 
 #### 2.1 — O torcedor
 > *22h17 — Estádio. O instante do Primeiro Aviso Global.*
@@ -537,7 +537,7 @@ verde é bonito. Riu. Não fazia ideia de que tinha votado pela vida de bilhões
 a cor mais alegre. Às vezes é só isso que separa o mundo de acabar: um pai que não sabe
 o que fazer, e tem a coragem de deixar a inocência decidir.
 
-### Expansões do Capítulo 15 — O Júri de Mercado
+### Expansões do Capítulo XV — O Júri de Mercado
 
 #### 15.1 — Do outro lado
 > *Dias depois, 21h04 — Um prédio de vidro, no instante do veredito.*

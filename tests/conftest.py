@@ -1,6 +1,8 @@
-# Adiciona tests/ ao sys.path para que os test files possam
-# importar `metrics` diretamente sem prefixo de pacote.
-import sys
-import os
+"""Shared configuration for the PAM test suite."""
+from __future__ import annotations
 
-sys.path.insert(0, os.path.dirname(__file__))
+import sys
+from pathlib import Path
+
+# Torna tests/ importável diretamente (para `import metrics` etc.)
+sys.path.insert(0, str(Path(__file__).parent))

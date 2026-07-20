@@ -4,6 +4,8 @@ test_metrics.py
 Testes unitários para as métricas de detecção de autoria (tests/metrics.py).
 Roda via: pytest tests/test_metrics.py -v
 """
+from __future__ import annotations
+
 import pytest
 from metrics import (
     sentence_burstiness,

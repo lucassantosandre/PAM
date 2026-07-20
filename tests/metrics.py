@@ -6,22 +6,23 @@ em texto literário em português brasileiro.
 
 Nenhuma dependência externa — apenas stdlib Python 3.9+.
 """
-import re
+from __future__ import annotations
+
 import math
+import re
 from collections import Counter
-from typing import Dict, List, Tuple
 
 
 # ── Tokenização ───────────────────────────────────────────────────────────────
 
-def _split_sentences(text: str) -> List[str]:
+def _split_sentences(text: str) -> list[str]:
     """Quebra texto em frases usando pontuação terminal."""
     text = re.sub(r"\n+", " ", text)
     raw = re.split(r"(?<=[.!?…])\s+", text.strip())
     return [s.strip() for s in raw if len(s.split()) >= 3]
 
 
-def _tokenize(text: str) -> List[str]:
+def _tokenize(text: str) -> list[str]:
     """Extrai tokens de palavras ignorando números e pontuação."""
     return re.findall(
         r"\b[a-záéíóúàâêôãõüçA-ZÁÉÍÓÚÀÂÊÔÃÕÜÇ]+\b",
@@ -130,7 +131,7 @@ def portuguese_ai_patterns(text: str) -> float:
 
 # ── Combinação e veredito ─────────────────────────────────────────────────────
 
-def compute_metrics(text: str) -> Dict[str, float]:
+def compute_metrics(text: str) -> dict[str, float | str]:
     """
     Computa todas as métricas de autoria para o texto fornecido.
 
@@ -173,7 +174,7 @@ def compute_metrics(text: str) -> Dict[str, float]:
     }
 
 
-def verdict(ai_probability: float) -> Tuple[str, str]:
+def verdict(ai_probability: float) -> tuple[str, str]:
     """
     Retorna (rótulo, emoji) para a probabilidade de IA fornecida.
 

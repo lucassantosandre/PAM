@@ -7,14 +7,17 @@ e gera tests/report.md para ser postado como comentário no PR.
 Uso:
   python tests/run_analysis.py
 """
-import os
-import sys
+from __future__ import annotations
 
-sys.path.insert(0, os.path.dirname(__file__))
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
 from metrics import compute_metrics, verdict  # noqa: E402
 
-DIFF_TEXT_FILE = os.path.join(os.path.dirname(__file__), ".diff_text.txt")
-REPORT_FILE = os.path.join(os.path.dirname(__file__), "report.md")
+_TESTS_DIR = Path(__file__).parent
+DIFF_TEXT_FILE = _TESTS_DIR / ".diff_text.txt"
+REPORT_FILE = _TESTS_DIR / "report.md"
 
 
 def _bar(value: float, width: int = 20) -> str:
@@ -72,11 +75,10 @@ def _format_skip_report() -> str:
 
 
 def main() -> None:
-    if not os.path.exists(DIFF_TEXT_FILE):
+    if not DIFF_TEXT_FILE.exists():
         report = _format_skip_report()
     else:
-        with open(DIFF_TEXT_FILE, encoding="utf-8") as f:
-            text = f.read()
+        text = DIFF_TEXT_FILE.read_text(encoding="utf-8")
 
         metrics = compute_metrics(text)
 
@@ -89,8 +91,7 @@ def main() -> None:
                 f"[run_analysis] Probabilidade IA: {metrics['ai_probability']:.1%} — {label}"
             )
 
-    with open(REPORT_FILE, "w", encoding="utf-8") as f:
-        f.write(report)
+    REPORT_FILE.write_text(report, encoding="utf-8")
     print(f"[run_analysis] Relatório salvo em: {REPORT_FILE}")
 
 

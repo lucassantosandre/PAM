@@ -31,11 +31,9 @@ jobs:
 
       - name: Testes de estrutura (test_repo_structure.py)
         run: python -m pytest tests/test_repo_structure.py -v --tb=short
-        continue-on-error: true
 
       - name: Testes unitários das métricas (test_metrics.py)
         run: python -m pytest tests/test_metrics.py -v --tb=short
-        continue-on-error: true
 
       - name: Extrair prosa nova de PAM/HISTORIA.md
         env:

@@ -9,12 +9,15 @@ Uso (CI):
 Saída:
   tests/.diff_text.txt  — texto limpo para análise
 """
+from __future__ import annotations
+
 import os
 import subprocess
 import sys
+from pathlib import Path
 
 TARGET_FILE = "PAM/HISTORIA.md"
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), ".diff_text.txt")
+OUTPUT_FILE = Path(__file__).parent / ".diff_text.txt"
 
 # Prefixos de linha Markdown que NÃO são prosa narrativa
 _SKIP_PREFIXES = ("#", "|", "```", "---", "===", "!!!", "[[", ">")
@@ -64,12 +67,9 @@ def extract_added_text() -> str:
                 prose_lines.append(content.strip())
 
     text = "\n".join(prose_lines)
+    OUTPUT_FILE.write_text(text, encoding="utf-8")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(text)
-
-    word_count = len(text.split())
-    print(f"[extract_diff] {word_count} palavras extraídas de {TARGET_FILE}")
+    print(f"[extract_diff] {len(text.split())} palavras extraídas de {TARGET_FILE}")
     return text
 
 
