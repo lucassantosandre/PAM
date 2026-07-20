@@ -1,4 +1,5 @@
 # O Voto Final — PAM
+
 Repositório do projeto literário PAM ("O Voto Final") — romance distópico híbrido com
 tese acadêmica embutida, narrado em segunda pessoa, voz da classe trabalhadora.
 
@@ -20,3 +21,5 @@ tese acadêmica embutida, narrado em segunda pessoa, voz da classe trabalhadora.
 7. **Arquivo único:** HISTORIA.md é o arquivo central do romance — não fragmentar conteúdo
    narrativo em múltiplos arquivos.
 8. **Irmão sem nome:** Só revelar o nome do irmão dentro do Cap. XIV — nunca antes.
+9. **Grill antes de arco novo:** Qualquer arco com afirmação sobre o mundo real (máfias,
+   economia, física) passa por skill `grill` + skill `metodo` antes de entrar em HISTORIA.md.
