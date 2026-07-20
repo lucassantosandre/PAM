@@ -35,10 +35,7 @@ jobs:
       - name: Testes unitários das métricas (test_metrics.py)
         run: python -m pytest tests/test_metrics.py -v --tb=short
 
-      - name: Extrair prosa nova de PAM/HISTORIA.md
-        env:
-          BASE_SHA: ${{ github.event.before }} # commit antes do push
-          HEAD_SHA: ${{ github.sha }} # commit do push atual
+      - name: Extrair prosa de PAM/HISTORIA.md (arquivo completo)
         run: python tests/extract_diff.py
 
       - name: Analisar autoria do texto adicionado

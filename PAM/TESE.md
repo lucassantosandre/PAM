@@ -2,6 +2,8 @@
 
 ### Proibição, legalização e a renda sobre o desespero das classes trabalhadoras
 
+> **Documentação de referência:** [HISTORIA.md](HISTORIA.md) | [ENTROPIA.md](ENTROPIA.md) | [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md) | [METODO.md](METODO.md) | [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md)
+
 ---
 
 ## Tese central

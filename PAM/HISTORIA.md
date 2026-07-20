@@ -6,7 +6,9 @@ Arquivo único. Contém, nesta ordem: a **Regra do Mundo**, a **Tese (resumo)** 
 _primeiro_ dos dois pontos onde a tese aparece —, o **Guia de Personagens**, a
 **História** em ordem linear, os **Aprofundamentos** (POVs que expandem capítulos) e a
 **Fundamentação**, que é o _segundo_ ponto da tese, com a versão completa. As
-referências entre as partes são feitas em texto (ex.: "ver _Fundamentação_, ponto 3").
+referências entre as partes são feitas em texto (ex.: "[**ver Fundamentação**](#fundamentação--a-tese-em-detalhe--ponto-2-de-2), ponto 3").
+
+> **Documentação de referência:** fundação física em [ENTROPIA.md](ENTROPIA.md); fundação econômica em [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md); pesquisa factual em [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md) e [investigacoes/PAM/PAM.md](investigacoes/PAM/PAM.md); empresa fictícia em [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md).
 
 ---
 
@@ -26,7 +28,7 @@ alguém descobriu cedo que o lucro nunca esteve no fim. O lucro está no _medo d
 fim é o produto que nunca precisa ser entregue.
 
 Esta rotina _é_ a tese em forma de mundo: o Estado transformou até a possibilidade da
-extinção em base tributável (ver _A Tese_, abaixo, e _Fundamentação_, no fim).
+extinção em base tributável (ver [**A Tese**](#a-tese-resumo--ponto-1-de-2), abaixo, e [**Fundamentação**](#fundamentação--a-tese-em-detalhe--ponto-2-de-2), no fim).
 
 Este livro começa no **primeiro dia** em que a votação apareceu.
 
@@ -39,7 +41,7 @@ fiscal.** Ele proíbe enquanto não consegue taxar e legaliza quando arrecada �
 transformar o desespero, a morte e o próprio fim do mundo em base tributável.
 
 Esta história é a prova dessa tese, levada ao limite. A versão completa, com números,
-fórmulas e contrapontos, está em _Fundamentação_, no fim do arquivo.
+fórmulas e contrapontos, está em [**Fundamentação**](#fundamentação--a-tese-em-detalhe--ponto-2-de-2), no fim do arquivo.
 
 ---
 
@@ -71,7 +73,7 @@ dignidade num ambiente de hipocrisia.
 vidro que nem sabe o nome da vítima. Explora o fato de que "a indignação é grande, mas é
 pobre". A banalidade do mal financeirizada. Aparece no Aprofundamento 15.1.
 
-**ADI Predictstreet.** A empresa por trás das votações e do mercado de previsões.
+**[ADI Predictstreet](investigacoes/ADI/ADI.md).** A empresa por trás das votações e do mercado de previsões.
 Patrocinadora da Copa. Lucra com tudo — inclusive com o fim do mundo. O antagonista não
 tem rosto: é uma linha que se fecha num servidor.
 
@@ -315,7 +317,7 @@ encarar: porque o fim nunca foi o produto. O medo é. E medo, cobrado todo dia d
 bilhões de pessoas, não tem preço — tem mensalidade.
 
 > _A extinção transformada em base tributável recorrente. É a Regra do Mundo se fechando
-> sobre a tese. Ver Fundamentação, ponto 2._
+> sobre a tese. Ver [**Fundamentação, ponto 2**](#2-o-mecanismo-tributar-o-que-não-se-consegue-proibir)._
 
 #### Capítulo XIII — A Recusa
 

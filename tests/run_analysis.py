@@ -57,18 +57,18 @@ Probabilidade de IA: [{_bar(metrics['ai_probability'])}] {ai_pct}%
 > ⚠️ **Este revisor é heurístico** — métricas estatísticas indicativas, não determinísticas.
 > Consulte [`ETICA.md`](ETICA.md) para o código de conduta completo sobre uso de IA.
 >
-> Um resultado elevado **não bloqueia** o PR — serve para consciência e transparência.
+> Um resultado elevado **não bloqueia** o push — serve para consciência e transparência.
 
 ---
-*PAM Authorship Reviewer v1.0 · Roda automaticamente em PRs para `release-candidate`*
+*PAM Authorship Reviewer v1.0 · Analisa `PAM/HISTORIA.md` completo a cada push*
 """
 
 
 def _format_skip_report() -> str:
     return """## 🎭 Revisor de Autoria — PAM
 
-> **Texto novo insuficiente** para análise (menos de 50 palavras adicionadas em `PAM/HISTORIA.md`).
-> Nenhuma avaliação realizada neste PR.
+> **Prosa insuficiente** em `PAM/HISTORIA.md` (menos de 50 palavras detectadas).
+> Nenhuma avaliação realizada.
 
 *PAM Authorship Reviewer v1.0*
 """
