@@ -557,6 +557,27 @@ houve um *spread* mal precificado, e ele estava do lado certo.
 
 ---
 
+#### 15.2 — A pá no cifrão 📍
+> *Semanas depois — mesmo prédio de vidro, 03h02.*
+
+O modelo dele flagou assim: *"disseminação oral de alto risco — trajetória não-digital — exposição residual: caso #4471-B."*
+
+Não era comum. Ruído digital ele tratava em lote — plataformas suprimiam, anunciantes desistiam, engajamento secava. Mas isso era diferente: sem post, sem perfil, sem número pra monetizar. Alguém andava de velório em velório falando o nome do morto. O modelo sabia porque as buscas pelo número do caso tinham subido. Buscas manuais, lentas, feitas de celulares ruins em bairros sem wi-fi. Padrão de oral. Padrão de pessoas que ouviram de alguém que ouviu de alguém.
+
+Isso era pior do que viral. Viral você cercava com algoritmo. Oral você não cercava com nada.
+
+Ele checou a posição que ainda carregava do caso #4471-B. Pequena, quase encerrada — mas aberta o suficiente pra que um relato bem contado no lugar certo causasse algum problema. Calculou o risco em quarenta segundos. Risco baixo, mas não zero. Assimetria incomum.
+
+Então fez o que o modelo sugeria: abriu uma posição de hedge. Mercado novo, limpo, estrutura simples: *"Quanto tempo até este indivíduo parar de falar?"* Curto prazo ganhava se a pessoa calasse cedo. Longo prazo ganhava se ela se tornasse um caso relevante — nesse cenário, a posição original já teria sido liquidada com lucro antes que o barulho chegasse a algum lugar.
+
+Sem o nome da pessoa. Não precisava. O modelo catalogava comportamento, não identidade. Selou a notificação com o logo da firma — uma pá dentro de um cifrão, o ícone padrão pra mercados de risco social — e enviou às 03h02, quando os mercados asiáticos abriam e o ruído doméstico era mínimo.
+
+Voltou a dormir. Era a décima oitava posição que abria naquela semana.
+
+Lá, num quarto que ele nunca saberia descrever, um celular acendeu sozinho.
+
+---
+
 ## FUNDAMENTAÇÃO — A TESE EM DETALHE — *ponto 2 de 2*
 
 *Esta é a versão completa da tese que a história prova. É a parte não-ficcional do
