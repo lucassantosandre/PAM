@@ -16,39 +16,39 @@ conforme necessidade do escritor.
 - **Arquivo principal**: `PAM/PAM/HISTORIA.md`
 - **Aprofundamentos ativos**:
 
-| Número | Título | Tipo | Cap. âncora |
-|---|---|---|---|
-| 2.1 | *(expansão cap. II)* | 🔎 | II |
-| 2.2 | *(expansão cap. II)* | 📍 | II |
-| 2.3 | *(expansão cap. II)* | 🔎 | II |
-| 2.4 | *(expansão cap. II — O irmão)* | 📍 | II |
-| 2.5 | *(expansão cap. II)* | 🔎 | II |
-| 4.1 | A Precificação | 🔎 | IV |
-| 5.1 | A Liquidação | 📍 | V |
-| 5.2 | O Executor | 📍 | V |
-| 5.3 | Portfólio | 🔎 | V |
-| 15.1 | Do outro lado | 📍 | XV |
-| 18.1 | O Registro | 🔎 | XVIII |
-| 23.1 | *(filha do coveiro)* | 📍 | — Parte VIII |
-| 25.1 | *(servidor 4h17)* | 🔎 | — Parte VIII |
+| Número | Título                         | Tipo | Cap. âncora  |
+| ------ | ------------------------------ | ---- | ------------ |
+| 2.1    | _(expansão cap. II)_           | 🔎   | II           |
+| 2.2    | _(expansão cap. II)_           | 📍   | II           |
+| 2.3    | _(expansão cap. II)_           | 🔎   | II           |
+| 2.4    | _(expansão cap. II — O irmão)_ | 📍   | II           |
+| 2.5    | _(expansão cap. II)_           | 🔎   | II           |
+| 4.1    | A Precificação                 | 🔎   | IV           |
+| 5.1    | A Liquidação                   | 📍   | V            |
+| 5.2    | O Executor                     | 📍   | V            |
+| 5.3    | Portfólio                      | 🔎   | V            |
+| 15.1   | Do outro lado                  | 📍   | XV           |
+| 18.1   | O Registro                     | 🔎   | XVIII        |
+| 23.1   | _(filha do coveiro)_           | 📍   | — Parte VIII |
+| 25.1   | _(servidor 4h17)_              | 🔎   | — Parte VIII |
 
 ---
 
 ## Personagens (tabela HISTORIA.md)
 
-| Emoji | Nome/Código | Primeira aparição |
-|---|---|---|
-| 🩶 | Você (narrador) | Cap. I |
-| 🕯️ | O irmão | Aprof. 2.4; Cap. V |
-| 🖤 | A mãe | Cap. V, XI |
-| ⛏️ | O coveiro | Cap. IX → |
-| 🚬 | A senhora de preto | Cap. VIII |
-| 💼 | O trader | Aprof. 15.1 |
-| 🧹 | O faxineiro | Cap. XX |
-| 🤍 | A mulher da Casa | Cap. XVIII |
-| 🏛️ | A Casa | Cap. XVIII → |
-| 🎲 | ADI Predictstreet | Cap. I → |
-| ⚙️ | Executor #2081-C | Aprof. 5.2 |
+| Emoji | Nome/Código        | Primeira aparição  |
+| ----- | ------------------ | ------------------ |
+| 🩶    | Você (narrador)    | Cap. I             |
+| 🕯️    | O irmão            | Aprof. 2.4; Cap. V |
+| 🖤    | A mãe              | Cap. V, XI         |
+| ⛏️    | O coveiro          | Cap. IX →          |
+| 🚬    | A senhora de preto | Cap. VIII          |
+| 💼    | O trader           | Aprof. 15.1        |
+| 🧹    | O faxineiro        | Cap. XX            |
+| 🤍    | A mulher da Casa   | Cap. XVIII         |
+| 🏛️    | A Casa             | Cap. XVIII →       |
+| 🎲    | ADI Predictstreet  | Cap. I →           |
+| ⚙️    | Executor #2081-C   | Aprof. 5.2         |
 
 **Regra crítica**: o nome próprio do irmão aparece **somente no Cap. XIV**. Em todo o resto: "o irmão".
 
@@ -69,23 +69,23 @@ conforme necessidade do escritor.
 
 ## Arquivos-chave
 
-| Arquivo | Estado |
-|---|---|
-| `PAM/PAM/HISTORIA.md` | ✅ Completo — Caps. I–XXVII + FIM + FAQ + 13 aprofundamentos + FUNDAMENTAÇÃO |
-| `PAM/PAM/ENTROPIA.md` | ✅ Criado nesta sessão — 9 seções + 9 fontes primárias (Clausius…Prigogine) |
-| `PAM/PAM/TESE.md` | Estado incerto — editado pelo usuário entre sessões |
-| `PAM/PAM/CALCULO-MARXISTA.md` | Intacto (escrito pelo usuário) |
-| `PAM/PAM/METODO.md` | Intacto (escrito pelo usuário) |
+| Arquivo                       | Estado                                                                       |
+| ----------------------------- | ---------------------------------------------------------------------------- |
+| `PAM/PAM/HISTORIA.md`         | ✅ Completo — Caps. I–XXVII + FIM + FAQ + 13 aprofundamentos + FUNDAMENTAÇÃO |
+| `PAM/PAM/ENTROPIA.md`         | ✅ Criado nesta sessão — 9 seções + 9 fontes primárias (Clausius…Prigogine)  |
+| `PAM/PAM/TESE.md`             | Estado incerto — editado pelo usuário entre sessões                          |
+| `PAM/PAM/CALCULO-MARXISTA.md` | Intacto (escrito pelo usuário)                                               |
+| `PAM/PAM/METODO.md`           | Intacto (escrito pelo usuário)                                               |
 
 ---
 
 ## Arquivos referenciados mas não criados
 
-| Arquivo | O que se sabe |
-|---|---|
+| Arquivo                 | O que se sabe                                                                                                                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `PAM/PAM/ARCO-FINAL.md` | "Spoiler cofre" — identidade completa da Casa, plano de saída, eventos concretos do arco ENTROPIA, o que "já compramos o depois" significa. Referenciado em PERSONAGENS e CALCULO-MARXISTA.md. **Alta prioridade.** |
-| `PAM/PAM/ADI.md` | Dossier da ADI Predictstreet. Referenciado em PERSONAGENS ("Empresa real") e CALCULO-MARXISTA.md ("a ADI em Gibraltar"). |
-| `PAM/PAM/EPSTEIN.md` | Criado em sessão anterior, não encontrado na pasta na sessão atual. |
+| `PAM/PAM/ADI.md`        | Dossier da ADI Predictstreet. Referenciado em PERSONAGENS ("Empresa real") e CALCULO-MARXISTA.md ("a ADI em Gibraltar").                                                                                            |
+| `PAM/PAM/EPSTEIN.md`    | Criado em sessão anterior, não encontrado na pasta na sessão atual.                                                                                                                                                 |
 
 ---
 
@@ -118,16 +118,17 @@ PAM/
 **Calíope** (musa da poesia épica grega) é o ponto único de entrada para todo trabalho criativo.
 Detecta a intenção e ativa a skill correta via callout obrigatório:
 
-| Intenção | Skill |
-|---|---|
-| Novo capítulo | `roteiro` modo `capitulo` |
-| Aprofundamento (📍/🔎) | `roteiro` modo `aprofundamento` |
-| Template | `templates` |
-| Fonte a citar/verificar | `fonte-primaria` |
-| Análise de estilo | `estilo` |
-| Handoff de sessão | `handoff` |
+| Intenção                | Skill                           |
+| ----------------------- | ------------------------------- |
+| Novo capítulo           | `roteiro` modo `capitulo`       |
+| Aprofundamento (📍/🔎)  | `roteiro` modo `aprofundamento` |
+| Template                | `templates`                     |
+| Fonte a citar/verificar | `fonte-primaria`                |
+| Análise de estilo       | `estilo`                        |
+| Handoff de sessão       | `handoff`                       |
 
 Callout padrão antes de cada ação:
+
 - `🎭✨ ativando skill {nome}`
 - `🎭📖 lendo {arquivo}`
 - `🎭✍️ gerando {tipo} — {título}`
@@ -158,25 +159,25 @@ elementos_evitar:
 
 ## Ganchos em aberto (📍)
 
-| Aprof. | Gancho | Status |
-|---|---|---|
-| 2.2 | *(conteúdo pendente de confirmação)* | plantado |
-| 2.4 | O irmão — decisão de apostar | plantado |
-| 5.1 | A Liquidação — executor e 12 credores | parcialmente puxado em 5.2 |
-| 5.2 | O Executor #2081-C — foto da filha no dashboard | aberto |
-| 15.1 | O trader — "Emoção não move o preço" | aberto |
-| 23.1 | Filha do coveiro — +0.03%/month | aberto (conecta ao arco ENTROPIA) |
+| Aprof. | Gancho                                          | Status                            |
+| ------ | ----------------------------------------------- | --------------------------------- |
+| 2.2    | _(conteúdo pendente de confirmação)_            | plantado                          |
+| 2.4    | O irmão — decisão de apostar                    | plantado                          |
+| 5.1    | A Liquidação — executor e 12 credores           | parcialmente puxado em 5.2        |
+| 5.2    | O Executor #2081-C — foto da filha no dashboard | aberto                            |
+| 15.1   | O trader — "Emoção não move o preço"            | aberto                            |
+| 23.1   | Filha do coveiro — +0.03%/month                 | aberto (conecta ao arco ENTROPIA) |
 
 ---
 
 ## Fontes primárias registradas
 
-| Arquivo | Fontes |
-|---|---|
-| ENTROPIA.md | Clausius (1850/1865), Boltzmann (1872), Kelvin (1851), Schrödinger (1944), Wiener (1948), Shannon (1948), Prigogine (1979/1984) |
-| CALCULO-MARXISTA.md | Marx (*Das Kapital*), Harvey, Streeck |
-| METODO.md | Toulmin, Popper |
-| HISTORIA.md §FUNDAMENTAÇÃO | AGA, *Murphy v. NCAA*, dados cannabis Colorado, Marx, Harvey, Streeck |
+| Arquivo                    | Fontes                                                                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| ENTROPIA.md                | Clausius (1850/1865), Boltzmann (1872), Kelvin (1851), Schrödinger (1944), Wiener (1948), Shannon (1948), Prigogine (1979/1984) |
+| CALCULO-MARXISTA.md        | Marx (_Das Kapital_), Harvey, Streeck                                                                                           |
+| METODO.md                  | Toulmin, Popper                                                                                                                 |
+| HISTORIA.md §FUNDAMENTAÇÃO | AGA, _Murphy v. NCAA_, dados cannabis Colorado, Marx, Harvey, Streeck                                                           |
 
 ---
 

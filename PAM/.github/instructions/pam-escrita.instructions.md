@@ -29,6 +29,7 @@ Instruções aplicadas automaticamente a todos os arquivos Markdown dentro de `P
 ## Nota italic de fundamentação
 
 Quando um capítulo ou aprofundamento conecta com a fundamentação teórica, fechar com:
+
 ```
 > *{nota conectando ao conceito ou ao arquivo de referência}*
 ```

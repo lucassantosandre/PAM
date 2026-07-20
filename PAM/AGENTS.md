@@ -43,6 +43,7 @@ Nunca criar capítulos em arquivos separados.
 ## Regras obrigatórias para qualquer agente
 
 ### Narrativa
+
 - Capítulos numerados em **romano** (I, II … XXVII). Inline: "Cap. XII", nunca "Cap. 12"
 - Aprofundamentos em **decimal** (2.1, 5.1, 18.1)
 - Aprofundamentos têm tipo obrigatório: `📍` (gancho) ou `🔎` (paralelo puro)
@@ -50,10 +51,12 @@ Nunca criar capítulos em arquivos separados.
 - O **nome do irmão** aparece somente no Cap. XIV — em todo o resto: "o irmão"
 
 ### Fontes
+
 - **Nunca inventar ou completar dados bibliográficos** — reportar gaps ao escritor
 - Fontes primárias registradas em ENTROPIA.md, CALCULO-MARXISTA.md, METODO.md e HISTORIA.md §FUNDAMENTAÇÃO
 
 ### Estrutura de seções em HISTORIA.md
+
 - `## PERSONAGENS` — tabela de personagens
 - `## PERGUNTAS FREQUENTES` — FAQ do lore
 - `## A HISTÓRIA` → `### PARTE {ROMANO}` → `#### Capítulo {ROMANO} — {TÍTULO}`
@@ -61,11 +64,13 @@ Nunca criar capítulos em arquivos separados.
 - `## FUNDAMENTAÇÃO` — base teórica com fontes primárias
 
 ### Emojis
+
 - **Zero emojis** no texto corrido de narração ou diálogo
 - Emoji-marca de personagem: só no **primeiro aparecimento de peso** da cena
 - Emojis de notificação: somente dentro de blocos `> citação` (telas de celular/app)
 
 ### Fórmulas
+
 - Inline: `$formula$` (KaTeX)
 - Bloco: `$$formula$$`
 
@@ -73,19 +78,19 @@ Nunca criar capítulos em arquivos separados.
 
 ## Personagens existentes — emojis reservados
 
-| Emoji | Personagem |
-|---|---|
-| 🩶 | Você (narrador) |
-| 🕯️ | O irmão |
-| 🖤 | A mãe |
-| ⛏️ | O coveiro |
-| 🚬 | A senhora de preto |
-| 💼 | O trader |
-| 🧹 | O faxineiro |
-| 🤍 | A mulher da Casa |
-| 🏛️ | A Casa |
-| 🎲 | ADI Predictstreet |
-| ⚙️ | Executor #2081-C |
+| Emoji | Personagem         |
+| ----- | ------------------ |
+| 🩶    | Você (narrador)    |
+| 🕯️    | O irmão            |
+| 🖤    | A mãe              |
+| ⛏️    | O coveiro          |
+| 🚬    | A senhora de preto |
+| 💼    | O trader           |
+| 🧹    | O faxineiro        |
+| 🤍    | A mulher da Casa   |
+| 🏛️    | A Casa             |
+| 🎲    | ADI Predictstreet  |
+| ⚙️    | Executor #2081-C   |
 
 Ao adicionar personagem novo: escolher emoji **não listado acima**.
 
@@ -112,7 +117,7 @@ Ao adicionar personagem novo: escolher emoji **não listado acima**.
 
 ## Arquivos referenciados mas ainda não criados
 
-| Arquivo | Status |
-|---|---|
+| Arquivo                 | Status                                             |
+| ----------------------- | -------------------------------------------------- |
 | `PAM/PAM/ARCO-FINAL.md` | Pendente — spoiler cofre da Casa (alta prioridade) |
-| `PAM/PAM/ADI.md` | Pendente — dossier ADI Predictstreet |
+| `PAM/PAM/ADI.md`        | Pendente — dossier ADI Predictstreet               |

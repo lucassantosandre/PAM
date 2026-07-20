@@ -1,4 +1,5 @@
 # Template — Personagem
+
 <!--
   Preencher as variáveis {{...}} antes de inserir em HISTORIA.md.
   Inserir a linha de tabela na seção ## PERSONAGENS (tabela).
@@ -21,6 +22,7 @@
 {{EMOJI_MARCA}} **{{NOME_SISTEMA}}.** {{DESCRICAO_3_5_LINHAS}}
 
 ---
+
 <!--
 ## Checklist antes de inserir
 

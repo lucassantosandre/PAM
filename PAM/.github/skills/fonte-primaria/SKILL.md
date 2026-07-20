@@ -14,13 +14,13 @@ Clausius, de decisões judiciais a dados públicos.
 
 # Mapa de fontes internas
 
-| Arquivo | Tema | Fontes cobertas |
-|---|---|---|
-| `PAM/PAM/ENTROPIA.md` | Física da entropia | Clausius 1850/1865, Boltzmann 1872, Kelvin 1851, Schrödinger 1944, Wiener 1948, Shannon 1948, Prigogine 1979/1984 |
-| `PAM/PAM/CALCULO-MARXISTA.md` | Economia crítica | Marx (*Das Kapital*), Harvey, Streeck |
-| `PAM/PAM/METODO.md` | Método científico | Toulmin (argumento), Popper (falsificabilidade) |
-| `PAM/PAM/TESE.md` | Tese tributária | Fórmulas $R=t\cdot\theta\cdot H$ e $E=s+\theta\alpha v$; evidências históricas |
-| `PAM/PAM/HISTORIA.md` §7 | Fontes da fundamentação | AGA, *Murphy v. NCAA*, dados cannabis CO, *O Capital*, Harvey, Streeck |
+| Arquivo                       | Tema                    | Fontes cobertas                                                                                                   |
+| ----------------------------- | ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `PAM/PAM/ENTROPIA.md`         | Física da entropia      | Clausius 1850/1865, Boltzmann 1872, Kelvin 1851, Schrödinger 1944, Wiener 1948, Shannon 1948, Prigogine 1979/1984 |
+| `PAM/PAM/CALCULO-MARXISTA.md` | Economia crítica        | Marx (_Das Kapital_), Harvey, Streeck                                                                             |
+| `PAM/PAM/METODO.md`           | Método científico       | Toulmin (argumento), Popper (falsificabilidade)                                                                   |
+| `PAM/PAM/TESE.md`             | Tese tributária         | Fórmulas $R=t\cdot\theta\cdot H$ e $E=s+\theta\alpha v$; evidências históricas                                    |
+| `PAM/PAM/HISTORIA.md` §7      | Fontes da fundamentação | AGA, _Murphy v. NCAA_, dados cannabis CO, _O Capital_, Harvey, Streeck                                            |
 
 # Workflow — verificar fonte existente
 
@@ -47,6 +47,7 @@ Clausius, de decisões judiciais a dados públicos.
 # Workflow — citar no texto
 
 Quando o escritor precisar citar uma fonte dentro de um arquivo:
+
 1. Verificar se a fonte está registrada nos arquivos internos.
 2. Fornecer a citação formatada para inserção.
 3. Adicionar link `ver ENTROPIA.md, §X` ou similar quando a fonte já está documentada.
@@ -62,7 +63,7 @@ com aviso é melhor do que uma citação fabricada.
 Os arquivos abaixo são referenciados no projeto mas ainda não existem — fontes que
 entrariam neles precisam ser registradas em TESE.md §7 provisoriamente:
 
-| Arquivo | Tema esperado |
-|---|---|
+| Arquivo                 | Tema esperado                                               |
+| ----------------------- | ----------------------------------------------------------- |
 | `PAM/PAM/ARCO-FINAL.md` | Bastidores da Casa, plano de saída, lore do limiar ENTROPIA |
-| `PAM/PAM/ADI.md` | Dossier da ADI Predictstreet |
+| `PAM/PAM/ADI.md`        | Dossier da ADI Predictstreet                                |

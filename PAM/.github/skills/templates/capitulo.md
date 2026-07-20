@@ -1,4 +1,5 @@
 # Template — Capítulo
+
 <!--
   Preencher as variáveis {{...}} antes de gerar.
   Usar com a skill `roteiro` modo `capitulo`.
@@ -24,9 +25,10 @@
 
 {{BEAT_FECHAMENTO}}
 
-> *{{NOTA_ITALIC}}*
+> _{{NOTA_ITALIC}}_
 
 ---
+
 <!--
 ## Variante: Capítulo com notificação de abertura
 

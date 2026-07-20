@@ -1,4 +1,5 @@
 # Template — Aprofundamento
+
 <!--
   Preencher as variáveis {{...}} antes de gerar.
   Usar com a skill `roteiro` modo `aprofundamento`.
@@ -13,7 +14,8 @@
 ---
 
 #### {{NUMERO}} — {{TITULO}} {{TIPO}}
-> *{{HORA}} — {{LOCAL}}.*
+
+> _{{HORA}} — {{LOCAL}}._
 
 {{BEAT_ABERTURA}}
 
@@ -21,9 +23,10 @@
 
 {{BEAT_FECHAMENTO}}
 
-> *{{NOTA_ITALIC}}*
+> _{{NOTA_ITALIC}}_
 
 ---
+
 <!--
 ## Variante: Aprofundamento com notificação de sistema
 
