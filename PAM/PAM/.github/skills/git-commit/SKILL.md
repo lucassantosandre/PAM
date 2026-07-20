@@ -2,8 +2,8 @@
 name: git-commit
 description: >
   Gera os comandos de versionamento do projeto PAM para o escritor revisar e executar —
-  branch com nomenclatura correta a partir de main atualizado, commit, push e PR com
-  título e body padronizados. Não executa nada automaticamente.
+  branch criada a partir de main atualizado, commit, push e PR abrindo de {tipo/ref-slug}
+  para release-candidate. Não executa nada automaticamente.
 argument-hint: "Tipo e referência do conteúdo finalizado. Ex: 'cap XIV — O Nome', 'aprof 5.4', 'parte IX', 'chore: skills'"
 ---
 
@@ -107,14 +107,15 @@ Exemplos:
 - {referência a ENTROPIA.md / CALCULO-MARXISTA.md / TESE.md, se aplicável}
 ```
 
-**Link direto para abrir o PR**:
+**Link direto para abrir o PR** (base `release-candidate`):
 ```
-https://github.com/lucassantosandre/PAM/pull/new/{tipo}/{referencia}-{slug}
+https://github.com/lucassantosandre/PAM/compare/release-candidate...{tipo}/{referencia}-{slug}?expand=1
 ```
 
 # O que acontece ao mergar o PR
 
-O workflow `release.yml` dispara automaticamente e:
+O PR é aberto de `{tipo}/{referencia}-{slug}` **→ `release-candidate`** (não em `main`).
+O workflow `release.yml` dispara ao mergar em `release-candidate` e:
 1. Detecta o prefixo da branch → define o bump (major/minor/patch)
 2. Extrai o título do PR
 3. Calcula a próxima versão a partir da última tag
@@ -125,17 +126,10 @@ O workflow `release.yml` dispara automaticamente e:
 
 # Regras
 
-- **Nunca commitar diretamente em `main`** — sempre via PR
-- **Branch sempre criada de main atualizado** — `git pull origin main` antes do `checkout -b`
+- **Nunca commitar diretamente em `main` nem em `release-candidate`** — sempre via PR
+- **Branch sempre criada de `main` atualizado** — `git pull origin main` antes do `checkout -b`
+- **PR abre de `{tipo}/{ref}-{slug}` → `release-candidate`** (nunca → `main` diretamente)
 - **Um PR por sessão** (ou por capítulo/aprofundamento se preferir granularidade)
 - **Slug da branch** vem do conteúdo, não da data
 - **Título do PR em português** — é o que aparece na Release
-- Cria uma Release com título, branch, número do PR e body do PR
-
-# Regras
-
-- Nunca commitar diretamente em `main` — sempre via PR
-- Branch nomeada antes do primeiro commit da sessão
-- Um PR por sessão de escrita (ou por capítulo/aprofundamento, se preferir granularidade)
-- O slug da branch vem do conteúdo principal — não da data ou do autor
-- Commits em inglês técnico; mensagem do PR em português (é o que aparece na Release)
+- Commits em inglês técnico; mensagem do PR em português
