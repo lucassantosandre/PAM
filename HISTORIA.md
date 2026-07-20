@@ -15,7 +15,7 @@ referências entre as partes são feitas em texto (ex.: "ver *Fundamentação*, 
 Todo dia, no **celular mundial** — aparelho de uso obrigatório, com CPF e carteira
 mundiais —, chega uma votação. A pergunta é sempre a mesma:
 
-> **O mundo deve acabar hoje? SIM ou NÃO.**
+> 🌍 **O mundo deve acabar hoje? SIM ou NÃO.**
 
 Votar é obrigatório. Quem não vota é multado. E, como tudo que é obrigatório e move
 dinheiro, a votação é **regulada e taxada pelo Estado**: cada voto é também uma aposta,
@@ -29,6 +29,24 @@ Esta rotina *é* a tese em forma de mundo: o Estado transformou até a possibili
 extinção em base tributável (ver *A Tese*, abaixo, e *Fundamentação*, no fim).
 
 Este livro começa no **primeiro dia** em que a votação apareceu.
+
+### As categorias de notificação
+
+Cada tipo de contrato tem um ícone fixo na tela do celular mundial — o catálogo do
+mercado, onde até a morte é uma prateleira. O leitor aprende a reconhecer o tipo antes de
+ler a linha:
+
+| Ícone | Categoria |
+|---|---|
+| 🌍 | Votação Global (o fim do mundo — o alerta que todos recebem) |
+| 🔴 | Votação Pessoal (a notificação dirigida a um indivíduo) |
+| 💀 | Aposta de Mortalidade (apostar se alguém morre) |
+| ⚽ | Aposta Esportiva de Morte (o placar valendo uma vida) |
+| 🩸 | Cobrança / Agiotagem ("dobre agora e quite tudo") |
+| ⚖️ | Júri de Mercado (a justiça virando cotação) |
+| ⛏️ | Mercado sobre um Indivíduo (a "pá no cifrão") |
+
+*Os ícones aparecem só nas telas do celular — nunca na narração.*
 
 ---
 
@@ -87,7 +105,7 @@ tem rosto: é uma linha que se fecha num servidor.
 do estádio vibraram ao mesmo tempo — e, pelas câmeras, dava pra ver que não era só ali.
 Era o mundo inteiro. Um alerta vermelho tomou todas as telas:
 
-> **ALERTA GLOBAL — VOTAÇÃO IMEDIATA**
+> 🌍 **ALERTA GLOBAL — VOTAÇÃO IMEDIATA**
 > O mundo inteiro será destruído amanhã. Vote agora:
 > **SIM** — Todo mundo morre. · **NÃO** — Todo mundo vive.
 
@@ -323,7 +341,7 @@ Você jurou que não ia mais jogar. E cumpriu — mas o mercado não desiste fá
 
 Naquela noite, o celular acendeu com fonte vermelha, mais escura:
 
-> **VOTAÇÃO PESSOAL**
+> 🔴 **VOTAÇÃO PESSOAL**
 > Você aceita que a morte do seu irmão foi apenas mais um evento de mercado legalizado?
 > **SIM** → Continua no jogo. · **NÃO** → Rejeita para sempre.
 
@@ -357,7 +375,7 @@ você.
 Três dias depois, o celular acende com um selo novo: um martelo de juiz dentro de um
 cifrão.
 
-> **JULGAMENTO ABERTO — CASO #4471-B**
+> ⚖️ **JULGAMENTO ABERTO — CASO #4471-B**
 > Réu: o vencedor da aposta que resultou na morte de um devedor (mil reais).
 > A comunidade decide. Vote e posicione-se:
 > **CULPADO** → prisão. · **INOCENTE** → liberado.
@@ -440,7 +458,7 @@ Três da manhã, o celular acendeu sozinho. Não era votação. Não era o verme
 Era uma tela nova, limpa, quase elegante, com um único selo no topo — uma pá dentro de um
 cifrão — e uma linha de texto que parou o teu coração:
 
-> **NOVO MERCADO ABERTO.** Quanto tempo até este indivíduo parar de falar?
+> ⛏️ **NOVO MERCADO ABERTO.** Quanto tempo até este indivíduo parar de falar?
 > Cotação ao vivo.
 
 Sem o teu nome. Só *"este indivíduo"*. Mas você soube. O jeito que a tela te encontrou
@@ -459,7 +477,146 @@ ignorado.
 
 ---
 
+### Capítulo 17 — A Odd Contra Você
+
+Você passou o dia seguinte olhando aquela tela sem conseguir comer. *Quanto tempo até
+este indivíduo parar de falar?* O número subia e descia sozinho, como se gente que você
+nunca viu estivesse apostando na sua boca. E provavelmente estava.
+
+O medo era o óbvio: parar. Se você calasse, a aposta "sim, ele para" pagava, alguém
+lucrava, e você continuava vivo. O mundo até facilitava — bastava o silêncio, e a
+máquina te deixava em paz, do jeito que deixa todo mundo que desiste. Era o caminho de
+menor dor. Era exatamente por isso que era uma armadilha.
+
+Porque você entendeu, olhando a cotação subir, uma coisa que o mercado não previu que
+você entenderia: **a aposta contra você só existe porque você importa.** Eles não abrem
+mercado sobre quem é inofensivo. A pá no cifrão não era uma ameaça — era uma confissão.
+Você tinha assustado alguém o bastante pra virar risco. E risco, no mundo deles, se
+precifica porque não se controla.
+
+Então você fez a coisa que quebra a conta.
+
+Você foi ao próximo velório e contou mais alto. Contou o nome do irmão, e agora contou
+também da tela. Da pá no cifrão. "Abriram uma aposta pra saber quando eu calo", você
+disse pra sala cheia. "Quer dizer que falar funciona. Se não funcionasse, não valia
+aposta." E a sala, que sabia tudo sobre apostas porque cada um ali tinha enterrado
+alguém por uma, entendeu na hora. Um velho levantou e disse: "então fala pra mim
+também." Depois outro. Depois uma mulher pegou seu telefone e digitou o nome do seu
+irmão num caderno — num caderno, de papel, onde nenhuma odd alcança.
+
+O nome começou a andar por onde não havia sinal. Mercearia. Ponto de ônibus. Fila de
+posto de saúde. Boca, ouvido, papel. E a cada pessoa que repetia, a tua tela fazia uma
+coisa estranha, quase bonita de tão sinistra: a cotação *"ele vai parar"* despencava.
+Não porque o mercado torcia por você. Porque o mercado é honesto de um jeito cruel — ele
+lê a realidade e precifica. E a realidade era que você não ia parar.
+
+Naquela noite a tela mudou de novo. O selo da pá sumiu. No lugar, apareceu uma frase que
+não era votação, não era cotação, não era propaganda. Era outra coisa — mais velha,
+quase educada, do tipo que não vem de algoritmo nenhum:
+
+> **Você chamou atenção. Alguém gostaria de conversar.**
+
+Sem preço. Sem sim ou não. Sem verde nem vermelho. Pela primeira vez desde a noite da
+Copa, o celular te ofereceu não uma aposta — um **convite**. E isso, você sentiu no
+estômago, era muito pior. Uma aposta você sabia recusar. Um convite feito por quem nunca
+precisa convidar ninguém era uma porta se abrindo num lugar onde você não sabia que havia
+porta.
+
+Você olhou o nome do seu irmão, escrito no caderno da mulher, seguro no colo dela do
+outro lado da sala.
+
+E, pela primeira vez, teve medo não do que podiam fazer com você — mas do que havia do
+outro lado daquele convite.
+
+---
+
 > *Fim da Parte V. Continua.*
+
+---
+
+## PARTE VI — A Casa
+
+### Capítulo 18 — A Conversa
+
+O convite não disse onde nem quando. Não precisou. Três dias depois, um carro que não
+fazia barulho parou na tua rua — desses caros demais pra existir ali —, e o homem ao
+volante só abriu a porta de trás e esperou. Você podia ter corrido. Mas quem foge de um
+convite ainda está no jogo; quem entra, pelo menos, vê a cara de quem joga. Você entrou.
+
+Não te levaram a um bunker de filme. Te levaram a um andar alto, de vidro, silencioso, o
+tipo de lugar onde o mundo lá embaixo vira maquete. Uma mulher te esperava. Terno claro,
+voz macia, a calma de quem nunca na vida precisou levantar a voz porque nunca na vida
+alguém disse não pra ela. Ela te ofereceu água. Você não bebeu.
+
+— Você tem incomodado — ela disse, sem raiva, quase com carinho. — Não a nós. Nós não
+incomodamos. Você tem incomodado *o preço*. Toda vez que alguém repete o nome do seu
+irmão sem pagar por isso, um número, em algum lugar, não fecha. E números que não fecham
+são a única coisa que nos tira o sono.
+
+Você perguntou quem era "nós". Ela sorriu como quem já ouviu essa pergunta mil vezes.
+
+— Gente que existe antes de você acordar e depois de você dormir. Chame do que quiser.
+As pessoas gostam de dar nome. Máfia, mercado, governo, família. — Ela deu de ombros. —
+No fim, é tudo a mesma Casa. A gente só administra o que sobra.
+
+Foi a palavra — *Casa* — dita com a maiúscula ouvível, que te deu o frio na nuca. Não
+soou a empresa. Soou a algo com idade. Mas você não podia ter certeza, e ela sabia que
+você não podia, e essa dúvida era parte do que ela estava te oferecendo: o conforto de
+achar que era só gente rica.
+
+### Capítulo 19 — A Oferta
+
+Ela não te ameaçou. Gente assim não ameaça — ameaça é coisa de quem pode perder. Ela
+**ofereceu**.
+
+— Você quer justiça pro seu irmão. Nós podemos abrir o caso de novo. Dessa vez, a
+cotação fecha do seu lado. Ou, se preferir algo mais limpo: sua mãe nunca mais vê uma
+conta. O nome dele numa placa, numa rua, numa lei. Você escolhe a forma. O barulho para,
+e em troca ele deixa de ter morrido à toa. — Ela se inclinou. — Todo mundo tem um preço,
+e o seu é bonito: você não quer dinheiro. Quer sentido. Isso é fácil. Sentido a gente
+fabrica.
+
+E doeu, porque era verdade. Por um segundo — um segundo que você ia carregar como
+carregou o botão verde da noite da Copa — você quis. Quis a rua com o nome dele. Quis a
+mãe dormindo sem susto. Quis que a morte tivesse *significado*, e ela estava te vendendo
+exatamente isso.
+
+Aí você entendeu a mecânica, e o estômago revirou. Aquilo não era misericórdia. Era a
+mesma máquina, só que fina: se transformar a morte do seu irmão em *sentido comprado*,
+ela vira produto de novo. Um monumento pago pela Casa é só mais uma posição fechada. Eles
+não queriam te calar na marra — queriam que você **vendesse** o barulho de volta, por
+vontade própria, achando que ganhou. Era a recusa sendo comprada com a coisa que a recusa
+mais queria.
+
+Você pensou no coveiro. Na única pá que eles não têm. E disse a coisa mais barata e mais
+cara que já disse na vida:
+
+— Não.
+
+A mulher não se abalou. Anotou algo — ou fingiu anotar — e, pela primeira vez, a voz
+macia ganhou uma borda:
+
+— Você acha que está recusando um acordo. Está recusando uma *saída*. — Ela olhou pra
+janela, pro mundo-maquete lá embaixo, e disse, mais pra si do que pra você: — Todo mundo
+aqui embaixo vai apostar até o fim. Nós já sabemos como o fim termina. Já compramos o
+depois dele. A única pergunta que ainda não fechou numa planilha é gente como você. E a
+gente odeia pergunta em aberto.
+
+Ela se levantou. A conversa tinha acabado.
+
+No elevador de descida — sozinho, o mundo subindo de volta pra tua altura —, uma frase
+dela ficou girando, aquela que não era ameaça nem oferta, e por isso era a mais
+assustadora: *já compramos o depois*. Depois do quê? Você não sabia. Mas soube, com uma
+certeza fria que não vinha de prova nenhuma, que a votação diária, o medo, as apostas —
+nada daquilo era caos. Era conta. E alguém, muito acima do vidro, já sabia o número em
+que ela fechava.
+
+Você chegou em casa, pegou o caderno, e escreveu, embaixo do nome do seu irmão, a
+primeira coisa que não era luto: *eles compraram o depois. Descobrir o quê.*
+
+---
+
+> *Fim da Parte VI. Continua.*
 
 ---
 
