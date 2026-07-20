@@ -1,8 +1,10 @@
 # MÉTODO — O que é uma tese e para que serve
 
 *Arquivo de referência sobre o conceito de tese e a arte de argumentar. Explica o que
-sustenta a parte "não-ficcional" do projeto — a Fundamentação em `HISTORIA.md`. Fontes
+sustenta a parte "não-ficcional" do projeto — a Fundamentação em [HISTORIA.md](HISTORIA.md). Fontes
 reais no fim.*
+
+> **Referência cruzada:** [HISTORIA.md](HISTORIA.md) | [TESE.md](TESE.md) | [ENTROPIA.md](ENTROPIA.md) | [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md)
 
 ---
 

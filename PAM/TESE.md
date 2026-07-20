@@ -2,6 +2,8 @@
 
 ### Proibição, legalização e a renda sobre o desespero das classes trabalhadoras
 
+> **Documentação de referência:** [HISTORIA.md](HISTORIA.md) | [ENTROPIA.md](ENTROPIA.md) | [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md) | [METODO.md](METODO.md) | [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md) | [DEMONSTRACAO.md](DEMONSTRACAO.md)
+
 ---
 
 ## Tese central
@@ -15,6 +17,15 @@
 
 Esta é uma afirmação *discutível* (alguém pode contestá-la — ver §5), e é isso que a
 qualifica como tese, e não como mera denúncia.
+
+> **Nota de linguagem.** A teoria crítica — de Marx a Benjamin, de Harvey a Fanon —
+> sempre misturou a precisão formal com a imagem visceral. Em *O Capital*, Marx escreve:
+> *“O capital surge pingando sangue e sujeira por todos os poros, desde a cabeça até
+> os pés”* e *“o capital é trabalho morto que, como vampiro, só se anima chupando
+> trabalho vivo.”* Não é licença poética — é o reconhecimento de que o objeto da análise
+> (exploração, morte, desespero) exige linguagem à altura. As frases que a ficção usa
+> para demonstrar esta tese vêm dessa mesma tradição: não suavizam o argumento —
+> o corporificam.
 
 ---
 
@@ -32,6 +43,11 @@ O argumento se desenvolve em três movimentos — o mecanismo (§2), a evidênci
 
 ## 2. O mecanismo: tributar o que não se consegue proibir
 
+> *“A extinção transformada em base tributável recorrente.”*
+
+> *“A tese inteira cabe numa nota fiscal: o Estado como sócio silencioso,
+> faturando sobre a desgraça que dizia combater.”*
+
 A proibição integral é cara e frequentemente inaplicável. Quando o Estado não consegue
 suprimir a demanda, ele enfrenta uma escolha: sustentar uma repressão custosa e
 ineficaz, ou capturar o fluxo econômico via regulação e imposto. O padrão histórico
@@ -47,7 +63,7 @@ $$R_{\text{Estado}} = t \cdot \theta \cdot H$$
 onde $t$ é a alíquota tributária, $\theta$ é a margem retida pelo operador (*hold*) e
 $H$ é o volume total transacionado (*handle*). No caso das apostas esportivas nos EUA,
 $\theta \approx 9{,}3\%$ e $H \approx 150$ bilhões de dólares em 2024 — o que torna a
-base tributável grande o bastante para que nenhum Estado com déficit a ignore.
+base tributável suficientemente grande para que nenhum Estado com déficit fiscal a ignore.
 
 ---
 
@@ -71,10 +87,13 @@ quem lucra com ele.
 
 ## 4. Leitura crítica: capitalismo rentista e dupla apropriação
 
-> **Correção terminológica.** O fenômeno descrito **não** é "capitalismo de Estado"
-> (Estado como proprietário dos meios de produção). É *capitalismo rentista* e
+> *“Por que a conta nunca fecha pro pobre: ela nunca foi feita pra fechar, e sim pra
+> vazar — com nota fiscal.”*
+
+> **Nota terminológica.** O fenômeno descrito nesta seção é *capitalismo rentista* e
 > *financeirização da vida cotidiana* — o Estado como cobrador de renda sobre a
-> atividade do capital privado (Harvey; Streeck).
+> atividade do capital privado (Harvey; Streeck). Não se trata de "capitalismo de Estado"
+> (Estado como proprietário dos meios de produção).
 
 A crítica marxista permite formalizar por que o trabalhador é a base última dessa
 arrecadação. Na esfera da **produção**, o trabalhador recebe o salário $v$ (capital
@@ -141,8 +160,8 @@ Uma tese só se sustenta se enfrentar suas objeções mais fortes.
 - **Redução de danos.** A legalização é frequentemente defendida como *diminuição* de
   dano: produto regulado, controle de idade, esvaziamento do crime organizado. Nesse
   quadro, o motivo do Estado não seria cínico, mas sanitário.
-- **Fracasso da repressão, não plano mestre.** Muitas proibições ruem por
-  inaplicabilidade. A legalização pode ser rendição pragmática, não conspiração.
+- **Pragmatismo, não conspiração.** Muitas proibições ruem por inaplicabilidade.
+  A legalização pode ser rendição pragmática, não plano mestre.
 - **Demanda democrática.** Parte das legalizações (maconha em CO/WA) veio por
   referendo popular. Não é apenas imposição de elites; havia demanda social.
 
@@ -159,6 +178,9 @@ desencorajar".
 ---
 
 ## 6. Conclusão
+
+> *“O capital não matou por maldade — só fechou uma posição. A morte foi o custo
+> da operação.”*
 
 O Estado capitalista contemporâneo administra o vício como base tributável. Proíbe
 quando não pode arrecadar; legaliza quando pode. A crítica marxista mostra que a base

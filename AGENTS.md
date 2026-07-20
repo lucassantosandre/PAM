@@ -98,13 +98,13 @@ Ao adicionar personagem novo: escolher emoji **não listado acima**.
 
 ## Convenção de branches e versionamento
 
-| Tipo | Prefixo de branch | Bump |
-|---|---|---|
-| Nova Parte | `parte/{romano}-{slug}` | major (v1→v2) |
-| Novo Capítulo | `cap/{romano}-{slug}` | minor (v0.1→v0.2) |
+| Tipo           | Prefixo de branch        | Bump                  |
+| -------------- | ------------------------ | --------------------- |
+| Nova Parte     | `parte/{romano}-{slug}`  | major (v1→v2)         |
+| Novo Capítulo  | `cap/{romano}-{slug}`    | minor (v0.1→v0.2)     |
 | Aprofundamento | `aprof/{decimal}-{slug}` | patch (v0.0.1→v0.0.2) |
-| Infra / Skills | `chore/{slug}` | patch |
-| Correção | `fix/{slug}` | patch |
+| Infra / Skills | `chore/{slug}`           | patch                 |
+| Correção       | `fix/{slug}`             | patch                 |
 
 Exemplos: `cap/XIV-o-nome`, `aprof/5-4-o-portfolio`, `parte/IX-o-limiar`
 
@@ -121,6 +121,9 @@ a tag semântica (`vX.Y.Z`) e a Release automaticamente.
 - Sugerir fontes a registrar (nunca registrar sem confirmação do escritor)
 - Criar handoff em `handoffs/lucassantos/`
 - Rodar skill `git-commit` para commit + push + orientar abertura de PR
+- Rodar skill `metodo` para validar argumentos com Toulmin/Popper antes de commitar
+- Rodar skill `grill` para interrogação socrática de ideias narrativas e acadêmicas
+- Rodar skill `grill` **antes de qualquer arco novo** que faça afirmações sobre o mundo real
 
 ## O que o agente NÃO pode fazer
 
@@ -133,9 +136,23 @@ a tag semântica (`vX.Y.Z`) e a Release automaticamente.
 
 ---
 
+## Skills disponíveis
+
+| Skill            | Quando usar                                         |
+| ---------------- | --------------------------------------------------- |
+| `roteiro`        | Novo capítulo ou aprofundamento narrativo           |
+| `templates`      | Consultar ou criar template de cap/aprof/personagem |
+| `estilo`         | Calibrar DNA de escrita do escritor                 |
+| `fonte-primaria` | Verificar ou registrar citação bibliográfica        |
+| `handoff`        | Compactar sessão para retomada futura               |
+| `git-commit`     | Gerar branch + commit + PR padronizados             |
+| `metodo`         | Validar argumento com Toulmin + Popper              |
+| `grill`          | Interrogação socrática de ideias antes de commitar  |
+| `perfil-escritor`| Mapear influências, leitor, crescimento e anti-plágio |
+
 ## Arquivos referenciados mas ainda não criados
 
-| Arquivo                 | Status                                             |
-| ----------------------- | -------------------------------------------------- |
-| `PAM/PAM/ARCO-FINAL.md` | Pendente — spoiler cofre da Casa (alta prioridade) |
-| `PAM/PAM/ADI.md`        | Pendente — dossier ADI Predictstreet               |
+| Arquivo                        | Status                                            |
+| ------------------------------ | ------------------------------------------------- |
+| `PAM/ARCO-FINAL.md`            | ✅ Criado — arco das máfias adicionado (setor IX) |
+| `PAM/investigacoes/ADI/ADI.md` | ✅ Criado — dossier corporativo                   |

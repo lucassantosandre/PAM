@@ -1,0 +1,52 @@
+name: Revisor de Autoria — PAM
+
+on:
+  push:
+    branches-ignore:
+      - main # dispara em qualquer push, exceto para main
+
+permissions:
+  contents: read
+
+jobs:
+  revisor:
+    name: Análise de Autoria
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout com histórico completo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-test.txt
+
+      - name: Instalar dependências
+        run: pip install -r requirements-test.txt
+
+      - name: Testes de estrutura (test_repo_structure.py)
+        run: python -m pytest tests/test_repo_structure.py -v --tb=short
+
+      - name: Testes unitários das métricas (test_metrics.py)
+        run: python -m pytest tests/test_metrics.py -v --tb=short
+
+      - name: Extrair prosa de PAM/HISTORIA.md (arquivo completo)
+        run: python tests/extract_diff.py
+
+      - name: Analisar autoria do texto adicionado
+        run: python tests/run_analysis.py
+
+      - name: Publicar relatório no sumário do job
+        if: always()
+        run: |
+          if [ -f tests/report.md ]; then
+            cat tests/report.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo '## 🎭 Revisor de Autoria — PAM' >> $GITHUB_STEP_SUMMARY
+            echo '> Texto insuficiente para análise neste push.' >> $GITHUB_STEP_SUMMARY
+          fi

@@ -1,0 +1,3 @@
+# Dependências para o revisor de autoria e testes estruturais do PAM
+# Apenas stdlib Python + pytest — sem dependências externas pesadas
+pytest>=7.4.0
