@@ -738,12 +738,146 @@ não precisa mais de você.
 
 ---
 
+## PARTE VIII — A Entropia
+
+### Capítulo 23 — A Segunda Lei
+
+— Você sabe o que é entropia?
+
+O coveiro apareceu na tua porta uma tarde, sem ligar antes, caderno embaixo do braço. Não foi a um velório dessa vez. Veio até você.
+
+Você não sabia. Ele entrou, botou o caderno na mesa e ficou de pé:
+
+— A minha filha tentou me explicar uma vez, num telefonema. Ela tá estudando física. Disse que tem uma lei — segunda lei, ela chamou — que diz que tudo caminha pro caos. Sempre. Num sistema fechado, a bagunça só aumenta. A ordem custa energia. A desordem não custa nada. — Ele sentou. — Eu não entendi na hora. Depois de uns dias conectei.
+
+Você esperou.
+
+— A Casa tá num sistema fechado. Extrai do restante, não devolve nada. Segundo a lei da filha, sistema que só extrai tem data de validade: quando o que tinha pra extrair se esgota, tudo fica igual — e igual é o fim. Não o tipo que explode. O tipo que esfria. Ninguém percebe, e tá feito.
+
+Você foi buscar um copo d'água que não bebeu.
+
+— Mas ela disse mais uma coisa. — Ele abriu o caderno sem olhar pra ele. — Tem dois jeitos de reagir: aceitar que o sistema fecha e extrair o máximo antes do fim — é o que a Casa faz, a "saída" que você encontrou. Ou você escolhe ser aberto. Sistema aberto consegue criar ordem, mesmo que temporária, porque troca com o que tá fora.
+
+Você olhou o teu caderno, do lado do dele, na mesa.
+
+— E a gente é aberto ou fechado?
+
+— A gente sempre foi aberto — ele disse. — A Casa é que quis que a gente fosse combustível do sistema fechado dela. São coisas diferentes.
+
+> *A Segunda Lei da Termodinâmica como chave do arco: ver `ENTROPIA.md` para a física real por baixo desta cena — e por que ela não é só metáfora.*
+
+### Capítulo 24 — Neguentropia
+
+Você leu sobre o que a filha do coveiro descreveu. O físico Schrödinger chamou de neguentropia — o que a vida faz contra a maré. Um organismo vivo importa ordem, exporta desordem e paga o preço da sua própria estrutura em calor e metabolismo. Caro. Temporário. Mas enquanto o custo é pago, a ordem existe.
+
+O caderno com 847 nomes é neguentropia. Custa: a insônia, o medo, o caderno cheio e o novo que você teve que comprar. Mas enquanto os nomes estão escritos, estão ordenados contra o esquecimento. O sistema tentou dissolver cada um deles em "evento de mercado", em "mais um", em "aposta liquidada". O caderno é o custo de recusar essa dissolução.
+
+A pergunta que você ficou carregando por semanas — *é o suficiente?* — você finalmente entendeu que era a pergunta errada. Neguentropia não pergunta se é suficiente. Uma vela não pergunta se ilumina o bastante antes de queimar. Ela queima ou não queima. Você tinha estado escrevendo ou não tinha.
+
+Você tinha estado escrevendo.
+
+Você abriu o novo caderno na primeira página.
+
+### Capítulo 25 — O Sistema Que Não Precisa Deles
+
+O faxineiro mandou uma mensagem. Curta: *"acho que eles já foram."*
+
+Não afirmativo. Só: o vigésimo segundo andar está vazio há seis semanas. Nenhum carro na agenda. Nenhuma ordem de limpeza. As plantas do escritório morreram. Ele regou por duas semanas por hábito, depois parou quando percebeu que ninguém estava notando — nos dois sentidos.
+
+Você ligou pro coveiro.
+
+— E se tiverem ido — você disse —, o que acontece com a votação?
+
+— Continua.
+
+— Continua por quê? Quem gerencia?
+
+— Ninguém. O algoritmo. — Ele pausou. — Você precisa de dono pra não apertar *parar*?
+
+Você não respondeu, porque os dois sabiam a resposta.
+
+A máquina não precisa dos inventores da máquina. O algoritmo lê: SIM 8,1%, NÃO 91,9%. Ajusta: três manchetes esta semana, um evento de quase-colapso, protocolo padrão de manutenção do medo. Receita projetada: dentro do esperado. Nenhum humano aprovou. Nenhum humano vetou.
+
+A desordem se sustenta sozinha.
+
+— Então nunca vai parar — você disse.
+
+— Nunca foi feito pra parar — o coveiro respondeu. — Pra isso não precisava da Casa. Precisava só do medo. E o medo já sabe se alimentar.
+
+Você ficou com isso por um tempo longo. Depois veio a pergunta que trocou o frame:
+
+— Se não tem ninguém no vigésimo segundo andar, pra quem a gente tá contando?
+
+> *Aprofundamento paralelo (opcional): 25.1 — o que acontece no servidor enquanto esta conversa ocorre. Fica nos Aprofundamentos.*
+
+### Capítulo 26 — A Ilha
+
+— Pra nós — o coveiro disse.
+
+Não cínico. Direto — como alguém que passou trinta anos no fundo de buracos cobrindo coisas e fez as pazes com exatamente o que isso significa e o que não significa.
+
+— A pedra não precisa de plateia pra rolar. O nome não precisa de plateia pra existir. — Ele bateu no teu caderno. — Você escreve porque o nome precisa de alguém que saiba. Não porque vai mudar o preço do grão. Porque sem ninguém que sabe, o nome não existiu. E se não existiu, nunca precisou de explicação.
+
+Ele abriu o próprio caderno e colocou na mesa, do lado do teu. O dele: caneta esferográfica vermelha, três anos de nome, data, causa. Quase no fim da última página.
+
+Dois cadernos. Dois sistemas abertos. Entre eles: uma quantidade pequena de ordem que custou tudo que custou pra ser criada, e que o algoritmo não consegue precificar porque nunca foi construído pra ver ela.
+
+Assim é que uma ilha de resistência parece por dentro: não é heroica. Não é permanente. São só duas pessoas mantendo o mínimo, pagando o custo, exportando a entropia do luto pra fora e guardando, entre elas, a coisa pequena que não se dissolve.
+
+— Minha filha disse — o coveiro falou, levantando pra ir — que a vida não ganha da entropia. Só empata por um tempo. — Ele pausou na porta. — Ela disse que isso não é triste. É o que a vida é.
+
+> *A ilha como estrutura dissipativa: ver `ENTROPIA.md`, §4 (Prigogine) — o conceito exato, com a física real.*
+
+### Capítulo 27 — O Último Voto
+
+8h03. O celular apita.
+
+> 🌍 **ALERTA GLOBAL — VOTAÇÃO OBRIGATÓRIA**
+> O mundo deve acabar hoje?
+> **SIM · NÃO**
+
+Você vota **NÃO**.
+
+Não porque o mundo mereça ser salvo como está.
+Não porque o sistema vai mudar.
+Não porque tem alguém no vigésimo segundo andar pra notar.
+
+Porque o nome do seu irmão está no caderno. Porque a filha do coveiro está acompanhando 0,03% ao mês numa planilha. Porque em algum lugar uma mãe está contando pra outra o que aconteceu com o filho. Porque o faxineiro regou as plantas por duas semanas depois que os donos foram embora — e hábito antigo é o que sobra quando o sistema não foi feito pra durar.
+
+Porque você é um sistema fechado que decidiu ser aberto. E essa decisão não reverte.
+
+O contador fecha: **SIM: 8,1% · NÃO: 91,9%.**
+
+Num servidor que não pertence a ninguém, um processo registra: *variável em aberto — impacto no modelo: irrelevante. Reclassificada. Próxima revisão: 24h.*
+
+Você abre o caderno na última página escrita. Embaixo do último nome, escreve o teu próprio. Não como vítima. Como quem ainda está escrevendo.
+
+Embaixo disso: uma linha em branco.
+
+*Para quem vier depois.*
+
+O mundo não acaba hoje.
+
+A entropia faz o que a entropia faz.
+
+E numa cozinha na periferia, dois cadernos em cima de uma mesa entre duas pessoas que não precisam do vigésimo segundo andar pra saber o que importa — uma ilha pequena, temporária, cara e insubstituível de ordem se mantém.
+
+Irreversível. Como tudo que aconteceu.
+
+---
+
+> *FIM*
+
+---
+
 ## APROFUNDAMENTOS
 
 *POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo
 que aprofundam (2.1 expande o Cap. 2). Não são degraus da linha principal: o `X.1` não
 vem "entre o X e o X+1", e sim **ao lado** do X — muitas vezes no mesmo instante, visto de
 outro ângulo. A história se lê inteira sem eles; quem quiser, mergulha.*
+
+*Cada aprofundamento traz um marcador: **📍 gancho plantado** — parece paralelo, mas segura um fio que o arco principal vai puxar depois (quem pula pode perder uma pista); ou **🔎 paralelo puro** — outro ângulo do mesmo instante, opcional de verdade.*
 
 ### Linha do tempo (âncora: o Primeiro Aviso Global)
 
@@ -763,7 +897,7 @@ Os Aprofundamentos 2.x são **simultâneos** — o mesmo instante, em lugares di
 
 ### Expansões do Capítulo 2 — O Caos
 
-#### 2.1 — O torcedor
+#### 2.1 — O torcedor 🔎
 > *22h17 — Estádio. O instante do Primeiro Aviso Global.*
 
 Ele economizou onze meses pra estar ali. Onze meses de marmita, ônibus lotado, hora
@@ -773,7 +907,7 @@ eu olho.* Quando puxa o telefone, é só pra fazer parar de vibrar. O dedo escor
 sabe se apertou SIM ou NÃO. E volta o olhar pro campo, porque nada no mundo é mais
 urgente que aquela falta.
 
-#### 2.2 — A mãe que votou SIM
+#### 2.2 — A mãe que votou SIM 📍
 > *22h20 — Um apartamento, três minutos após o Primeiro Aviso.*
 
 Ela assistia sozinha, som baixo pra não acordar ninguém — só que não tinha mais ninguém
@@ -784,7 +918,7 @@ pensou: viver pra quê. Que mundo. Apertou SIM com cansaço, não com ódio — 
 desliga uma luz acesa tempo demais. Não porque queria a morte de alguém. Porque não
 lembrava mais por que valia a pena o contrário.
 
-#### 2.3 — O que achou que era brincadeira
+#### 2.3 — O que achou que era brincadeira 🔎
 > *22h18 — Ao vivo, um minuto após o Primeiro Aviso.*
 
 Vinte e dois anos, ao vivo pra três mil seguidores. "Óh o marketing da ADI, gente, que
@@ -793,7 +927,7 @@ acontecer, relaxa." Apertou SIM rindo. Estava certo — nada aconteceu. Mas fico
 resto da vida, sem saber se foi sorte ou se o voto dele foi só um a menos que, por acaso,
 faltou.
 
-#### 2.4 — O apostador *(é o irmão, vivo — o leitor só liga os pontos no Cap. 5)*
+#### 2.4 — O apostador 📍 *(é o irmão, vivo — o leitor só liga os pontos no Cap. 5)*
 > *22h17 — Um quarto no subúrbio, o instante do Primeiro Aviso. Faltam 4 horas para a bala.*
 
 Esse não tava nem aí pro fim do mundo. Tava olhando o *outro* número: a cotação. Três
@@ -805,7 +939,7 @@ do mundo. Pela dívida que não deixava ele dormir. Apertou SIM sem perceber que
 contra todo mundo — inclusive contra a mãe do outro lado da parede, e contra o irmão que
 apertava NÃO.
 
-#### 2.5 — A menina
+#### 2.5 — A menina 🔎
 > *22h19 — Arquibancada, dois minutos após o Primeiro Aviso.*
 
 Sete anos, no colo do pai. Não entendeu o alerta, só viu o pai ficar branco. "Pai, o que
@@ -817,7 +951,7 @@ o que fazer, e tem a coragem de deixar a inocência decidir.
 
 ### Expansões do Capítulo 15 — O Júri de Mercado
 
-#### 15.1 — Do outro lado
+#### 15.1 — Do outro lado 📍
 > *Dias depois, 21h04 — Um prédio de vidro, no instante do veredito.*
 
 A ordem das 21h04 saiu de uma sala a dezoito graus, num prédio de vidro, a oito
@@ -832,6 +966,40 @@ veredito fechou, o número na tela subiu alguns milhares. Ele nem comemorou. Tom
 de café frio e murmurou a frase que resume o mundo inteiro: *"Emoção não move o preço.
 Dinheiro move."* Nunca vai saber o nome do seu irmão. Pra ele, não houve um morto —
 houve um *spread* mal precificado, e ele estava do lado certo.
+
+### Expansões da Parte VIII — A Entropia
+
+#### 23.1 — A filha do coveiro 📍
+> *Semanas antes do Cap. 23 — Uma planilha aberta num notebook velho.*
+
+Ela tem vinte e dois anos, bolsa numa federal de física, ainda mora no bairro e trabalha à noite como caixa de supermercado. Catorze meses atrás, por curiosidade de cientista que ainda não tem dados pra pesquisar, ela achou uma API pública do sistema de votação e montou uma planilha. Ninguém estava fazendo isso — não há mercado em rastrear a *tendência* do medo, só em precificar o medo de hoje.
+
+Os dados mostram: aumento médio de **0,03% ao mês** no SIM. Não dramático. Linear.
+
+Ela mandou pro pai um áudio de quarenta segundos: *"Pai, se isso continuar, em oito anos o SIM passa dos 20%. Em catorze, passa dos 30%. Provavelmente não é nada, mas achei que você ia querer saber. Te amo."*
+
+O coveiro imprimiu a transcrição, dobrou e colocou no caderno entre duas páginas de nomes.
+
+Não contou pro narrador até a tarde do Cap. 23.
+
+O algoritmo da ADI já tem esse dado. Nos servidores internos, existe um arquivo que só abre quando o SIM ultrapassa certo patamar. O modelo gerou o nome do arquivo automaticamente, a partir dos padrões dos dados. O nome é: ENTROPIA.
+
+#### 25.1 — O servidor 🔎
+> *4h17 — O data center da ADI. Enquanto o narrador e o coveiro dormem.*
+
+Temperatura: 18°C, constante. O algoritmo processa os dados da véspera: SIM 8,1%, NÃO 91,9%. Receita: dentro da faixa esperada. Índice de medo: estável.
+
+Protocolo padrão de manutenção: três notícias programadas para esta semana. Um evento de quase-colapso climático. Um indicador de instabilidade econômica. Ajuste projetado de medo: +0,04% no SIM até sexta. Dentro da faixa de extração ótima.
+
+Nenhum humano aprovou. Nenhum humano vetou.
+
+Às 3h22, uma variável foi reclassificada automaticamente: *"variável narrativa 🩶 — precificada / irrelevante. Impacto no modelo: < 0,001%. Removida do monitoramento ativo."* O narrador deixou de ser rastreado individualmente. Foi absorvido no ruído de base.
+
+O algoritmo projeta até o ano 14. Depois do ano 14, um modelo diferente entra em operação. O arquivo com esse modelo já existe. Foi nomeado automaticamente pelo sistema, sem aprovação humana, a partir dos padrões de dados observados nos quatro anos anteriores.
+
+O nome é: ENTROPIA.
+
+Os ventiladores do servidor zumbem. O 18°C se mantém. O mundo não acaba. A receita flui. A entropia faz o que a entropia faz.
 
 ---
 
