@@ -1,12 +1,12 @@
 # O VOTO FINAL
 
-> *Um mundo onde é possível apostar em tudo — inclusive no próprio fim.*
+> _Um mundo onde é possível apostar em tudo — inclusive no próprio fim._
 
 Arquivo único. Contém, nesta ordem: a **Regra do Mundo**, a **Tese (resumo)** — que é o
-*primeiro* dos dois pontos onde a tese aparece —, o **Guia de Personagens**, a
+_primeiro_ dos dois pontos onde a tese aparece —, o **Guia de Personagens**, a
 **História** em ordem linear, os **Aprofundamentos** (POVs que expandem capítulos) e a
-**Fundamentação**, que é o *segundo* ponto da tese, com a versão completa. As
-referências entre as partes são feitas em texto (ex.: "ver *Fundamentação*, ponto 3").
+**Fundamentação**, que é o _segundo_ ponto da tese, com a versão completa. As
+referências entre as partes são feitas em texto (ex.: "ver _Fundamentação_, ponto 3").
 
 ---
 
@@ -22,24 +22,24 @@ dinheiro, a votação é **regulada e taxada pelo Estado**: cada voto é também
 com cotação ao vivo, e o governo fica com a sua fatia.
 
 O mundo nunca acabou. Não porque o SIM nunca assustou — assustou, e muito. Mas porque
-alguém descobriu cedo que o lucro nunca esteve no fim. O lucro está no *medo diário*. O
+alguém descobriu cedo que o lucro nunca esteve no fim. O lucro está no _medo diário_. O
 fim é o produto que nunca precisa ser entregue.
 
-Esta rotina *é* a tese em forma de mundo: o Estado transformou até a possibilidade da
-extinção em base tributável (ver *A Tese*, abaixo, e *Fundamentação*, no fim).
+Esta rotina _é_ a tese em forma de mundo: o Estado transformou até a possibilidade da
+extinção em base tributável (ver _A Tese_, abaixo, e _Fundamentação_, no fim).
 
 Este livro começa no **primeiro dia** em que a votação apareceu.
 
 ---
 
-## A TESE (resumo) — *ponto 1 de 2*
+## A TESE (resumo) — _ponto 1 de 2_
 
 **O Estado capitalista não proíbe o vício por princípio; administra-o por cálculo
 fiscal.** Ele proíbe enquanto não consegue taxar e legaliza quando arrecada — até
 transformar o desespero, a morte e o próprio fim do mundo em base tributável.
 
 Esta história é a prova dessa tese, levada ao limite. A versão completa, com números,
-fórmulas e contrapontos, está em *Fundamentação*, no fim do arquivo.
+fórmulas e contrapontos, está em _Fundamentação_, no fim do arquivo.
 
 ---
 
@@ -54,11 +54,11 @@ dentro e passa a apontar pro sistema.
 propósito — o tema é que o sistema o apagou em "evento de mercado". Jogador compulsivo,
 afogado em dívida. No primeiro dia estava metido numa aposta de bairro "valendo a vida"
 — uma partida de futebol cujo placar valia um tiro. Perdeu. Foi executado frio, dentro
-do carro, enquanto estacionava, como quem apenas *liquida uma posição*. Aparece vivo,
+do carro, enquanto estacionava, como quem apenas _liquida uma posição_. Aparece vivo,
 sem nome, no Aprofundamento 2.4.
 
 **A mãe.** Voz destruída ao telefone; firme quando precisa. É ela quem corta a
-autoculpa do narrador (Cap. 11): *"A culpa tem endereço, e não é esse quarto."* Âncora
+autoculpa do narrador (Cap. 11): _"A culpa tem endereço, e não é esse quarto."_ Âncora
 moral — tem clareza, não é só "mãe sofrendo".
 
 **O coveiro.** Magro, pele queimada, ~50 anos. Debochado e lúcido. "Eu enterro três,
@@ -102,17 +102,17 @@ Ninguém sabia que aquele era o primeiro dia de uma coisa que nunca mais ia para
 Em menos de um minuto, o estádio mudou. Gritos, choro, gente paralisada olhando pro
 celular. O contador apareceu nos telões, atualizando ao vivo:
 
-> **SIM: 14%  ·  NÃO: 86%**
+> **SIM: 14% · NÃO: 86%**
 
 O que quase ninguém entendeu — e é aqui que a tese começa a se provar — é que ninguém
 estava votando sobre o fim do mundo. O app da ADI Predictstreet mostrava, do lado do
-SIM, uma frase pequena: *"pagando mais agora."* Gente apertava SIM no reflexo, atrás do
+SIM, uma frase pequena: _"pagando mais agora."_ Gente apertava SIM no reflexo, atrás do
 prêmio maior, sem ler direito. Achavam que decidiam a humanidade. Eram só liquidez.
 
 E, mesmo assim, o jogo continuou. A bola rolou enquanto o mundo votava se merecia
 existir. Ninguém apitou o fim — como se parar fosse admitir que era real.
 
-> *Cada ponto por cento é uma pessoa. Ver Aprofundamentos 2.1 a 2.5.*
+> _Cada ponto por cento é uma pessoa. Ver Aprofundamentos 2.1 a 2.5._
 
 #### Capítulo III — A Reflexão
 
@@ -129,7 +129,7 @@ Apertou NÃO.
 
 00h01. O contador parou:
 
-> **SIM: 11,4%  ·  NÃO: 88,6%**
+> **SIM: 11,4% · NÃO: 88,6%**
 
 Nada aconteceu. O céu não abriu. Nenhum míssil. O jogo seguiu, o time campeão levantou
 a taça sob confete.
@@ -138,7 +138,7 @@ E num servidor da ADI Predictstreet, uma linha se fechou no balanço: aquela vot
 tinha movimentado mais dinheiro em apostas do que qualquer evento na história. Ninguém
 morreu no palco global. Alguém ficou muito mais rico.
 
-Ninguém percebeu, naquela noite, que o mundo não tinha escolhido *viver*. Tinha só
+Ninguém percebeu, naquela noite, que o mundo não tinha escolhido _viver_. Tinha só
 descoberto que dava pra apostar na própria morte — e que isso pagava bem.
 
 #### Capítulo V — A Bala
@@ -149,8 +149,8 @@ plataforma rodava, por baixo, um produto menor e mais antigo: apostas de bairro
 delas, afundado numa dívida, e perdeu.
 
 Ele estacionava o carro quando o outro se aproximou. Não houve discussão, não houve
-ódio. Um tiro, frio, na cabeça — como quem aperta *enter* pra liquidar uma posição. O
-atirador não conhecia seu irmão. Estava só *executando a odd*.
+ódio. Um tiro, frio, na cabeça — como quem aperta _enter_ pra liquidar uma posição. O
+atirador não conhecia seu irmão. Estava só _executando a odd_.
 
 Às 02h14, o celular tocou. Era a sua mãe. Você atendeu já sabendo, porque ninguém liga
 a essa hora pra dar boa notícia. A voz dela veio destruída:
@@ -159,9 +159,9 @@ a essa hora pra dar boa notícia. A voz dela veio destruída:
 
 O silêncio no meio da frase disse o resto.
 
-> *O tiro não teve raiva: teve preço. O capital não matou por maldade — só gerenciou o
+> _O tiro não teve raiva: teve preço. O capital não matou por maldade — só gerenciou o
 > risco de uma posição, e a morte foi o custo de fechá-la. É a tese em carne: ver
-> Fundamentação, ponto 4 (dupla apropriação) e a Nota de método sobre "gerenciar risco".*
+> Fundamentação, ponto 4 (dupla apropriação) e a Nota de método sobre "gerenciar risco"._
 
 ---
 
@@ -188,12 +188,12 @@ motor. Só muda o andar.
 #### Capítulo VII — O Cálculo
 
 Você lembra de uma coisa que leu uma vez sem entender. Uma fórmula. O trabalhador
-recebe um salário — chamavam de *v*. Mas produz mais do que isso. A diferença, o que
-sobra pro dono, chamavam de *s*. Mais-valia. Lucro arrancado do corpo de alguém.
+recebe um salário — chamavam de _v_. Mas produz mais do que isso. A diferença, o que
+sobra pro dono, chamavam de _s_. Mais-valia. Lucro arrancado do corpo de alguém.
 
 Você rabisca num papel velho, a letra tremendo:
 
-> Meu irmão = *v*.
+> Meu irmão = _v_.
 > O que tiraram dele = tudo.
 
 Ele trabalhava — já era o primeiro roubo. Pegavam o troco que sobrava e faziam ele
@@ -204,10 +204,10 @@ três vezes.
 E aí a ficha cai, fria: aquela votação global da noite da Copa não era sobre o mundo.
 Era liquidez pra precificar o jogo de várzea onde apostaram a vida dele. Cada SIM que os
 outros apertaram atrás de prêmio ajudou a mover a odd que pagou a bala. Todo mundo
-achando que decidia a humanidade. Ninguém sabendo que decidia *ele*.
+achando que decidia a humanidade. Ninguém sabendo que decidia _ele_.
 
-> *Por que a conta nunca fecha pro pobre: ela nunca foi feita pra fechar, e sim pra
-> vazar — com nota fiscal. Ver Fundamentação, ponto 4.*
+> _Por que a conta nunca fecha pro pobre: ela nunca foi feita pra fechar, e sim pra
+> vazar — com nota fiscal. Ver Fundamentação, ponto 4._
 
 #### Capítulo VIII — O Velório
 
@@ -273,8 +273,8 @@ Ela só baixou os olhos.
 
 — Eu só trabalho aqui, moço.
 
-> *A tese inteira cabe numa nota fiscal: o Estado como sócio silencioso, faturando sobre
-> a desgraça que dizia combater. Ver Fundamentação, ponto 6.*
+> _A tese inteira cabe numa nota fiscal: o Estado como sócio silencioso, faturando sobre
+> a desgraça que dizia combater. Ver Fundamentação, ponto 6._
 
 #### Capítulo XI — O Adeus
 
@@ -305,8 +305,8 @@ O coveiro jogou a primeira pá de terra. Seco. Definitivo.
 #### Capítulo XII — Todo Dia
 
 O primeiro dia virou todo dia. A votação não foi embora — virou hábito. Toda manhã, o
-celular mundial apita: *O mundo deve acabar hoje? SIM ou NÃO. Voto obrigatório. Multa em
-2h.* As pessoas votam entre o café e o ônibus, do mesmo jeito que pagam boleto. O fim do
+celular mundial apita: _O mundo deve acabar hoje? SIM ou NÃO. Voto obrigatório. Multa em
+2h._ As pessoas votam entre o café e o ônibus, do mesmo jeito que pagam boleto. O fim do
 mundo virou conta mensal.
 
 E, como toda conta, é taxada. O Estado fica com a fatia de cada aposta diária no
@@ -314,8 +314,8 @@ apocalipse. Ninguém pergunta mais por que o mundo ainda existe. A resposta, nin
 encarar: porque o fim nunca foi o produto. O medo é. E medo, cobrado todo dia de oito
 bilhões de pessoas, não tem preço — tem mensalidade.
 
-> *A extinção transformada em base tributável recorrente. É a Regra do Mundo se fechando
-> sobre a tese. Ver Fundamentação, ponto 2.*
+> _A extinção transformada em base tributável recorrente. É a Regra do Mundo se fechando
+> sobre a tese. Ver Fundamentação, ponto 2._
 
 #### Capítulo XIII — A Recusa
 
@@ -337,7 +337,7 @@ virar barulho. Barulho não tem cotação.
 
 #### Capítulo XIV — O Nome
 
-O nome dele era ________.
+O nome dele era **\_\_\_\_**.
 
 Você percebe, de repente, que ninguém — em momento nenhum — disse o nome dele. Ele virou
 "evento de mercado". Virou "aposta privada". Virou "mais um".
@@ -361,16 +361,16 @@ cifrão.
 > Réu: o vencedor da aposta que resultou na morte de um devedor (mil reais).
 > A comunidade decide. Vote e posicione-se:
 > **CULPADO** → prisão. · **INOCENTE** → liberado.
-> *Cotação ao vivo. Resultado por maioria ponderada.*
+> _Cotação ao vivo. Resultado por maioria ponderada._
 
 Você lê "maioria ponderada" três vezes até entender: não é um voto por cabeça. É um voto
 por real. Quem coloca mais dinheiro de um lado, pesa mais.
 
 A justiça do seu irmão vira um número que sobe e desce como ação na bolsa. Sem juiz. Sem
 lei. Só liquidez. E o mercado te oferece o que você mais quer: um botão verde,
-*"Reforce CULPADO. Ajude a fazer justiça. A partir de R$ 50."*
+_"Reforce CULPADO. Ajude a fazer justiça. A partir de R$ 50."_
 
-Você tem cento e vinte no app. Podia. *Quer.* O polegar treme sobre o botão — o mesmo
+Você tem cento e vinte no app. Podia. _Quer._ O polegar treme sobre o botão — o mesmo
 tremor da noite da Copa.
 
 E então entende a armadilha: se apostar na condenação, seu irmão vira aposta de novo. A
@@ -394,11 +394,11 @@ mercado, não. Pra ele, o caso #4471-B fechou no lucro. Pra você, tem rosto. Ba
 tem cotação — você repete baixinho, feito reza. A única coisa que ninguém consegue
 apostar contra.
 
-> *Ver Aprofundamento 15.1 — o outro lado, quem lucra.*
+> _Ver Aprofundamento 15.1 — o outro lado, quem lucra._
 
 ---
 
-> *Fim da Parte IV.*
+> _Fim da Parte IV._
 
 ---
 
@@ -410,7 +410,7 @@ Você não tinha um plano. Tinha uma promessa: contar. Só que num mundo onde tu
 cotação, você aprendeu rápido que post não serve. Você escreveu um, na primeira noite —
 o nome do seu irmão, o que fizeram com ele, os mil reais. Em quarenta minutos tinha
 virado número: curtidas, compartilhamentos, e do lado, discreta, uma caixa que já
-perguntava *"quantas pessoas vão compartilhar isto até amanhã? Aposte."* O algoritmo não
+perguntava _"quantas pessoas vão compartilhar isto até amanhã? Aposte."_ O algoritmo não
 te silenciou. Fez pior: te transformou em aposta. Você apagou.
 
 Então você fez a única coisa velha o bastante pra não ter cotação. Você foi falar com
@@ -428,7 +428,7 @@ terminou, ele cuspiu no chão do jeito dele e falou:
 — Tá vendo? É isso que eu não consigo enterrar. O nome. A terra cobre o corpo, moleque,
 mas não cobre o nome. Você achou a única pá que eles não têm.
 
-Naquela semana você foi a mais quatro. Não pra chorar — pra *contar*. E as pessoas
+Naquela semana você foi a mais quatro. Não pra chorar — pra _contar_. E as pessoas
 começaram a repetir. Uma mãe contava pra outra. Um irmão pra um primo. Sem tela, sem
 número, sem lucro. Barulho de boca em boca, o tipo que não deixa rastro pra precificar.
 Pela primeira vez desde a bala, você sentiu que estava tirando alguma coisa deles em vez
@@ -443,7 +443,7 @@ cifrão — e uma linha de texto que parou o teu coração:
 > **NOVO MERCADO ABERTO.** Quanto tempo até este indivíduo parar de falar?
 > Cotação ao vivo.
 
-Sem o teu nome. Só *"este indivíduo"*. Mas você soube. O jeito que a tela te encontrou
+Sem o teu nome. Só _"este indivíduo"_. Mas você soube. O jeito que a tela te encontrou
 às três da manhã, sozinho, depois de uma semana contando — não era algoritmo cego. Era
 alguém. Alguém tinha olhado pra você, individualmente, e feito a única coisa que aquele
 mundo sabe fazer com uma ameaça: abrir uma aposta sobre ela.
@@ -459,55 +459,58 @@ ignorado.
 
 ---
 
-> *Fim da Parte V. Continua.*
+> _Fim da Parte V. Continua._
 
 ---
 
 ## APROFUNDAMENTOS
 
-*POVs e desvios que expandem a espinha central. Numerados pelo capítulo que aprofundam.*
+_POVs e desvios que expandem a espinha central. Numerados pelo capítulo que aprofundam._
 
 ### Linha do tempo (âncora: o Primeiro Aviso Global)
 
 Todos os selos de tempo desta obra se ancoram no **Primeiro Aviso Global** — o alerta que
 tomou as telas do mundo às **22h17**, durante a final da Copa (Cap. 1). É o marco zero.
 
-| Selo | Momento | O que acontece |
-|---|---|---|
-| **— 10 h antes** | ~12h17 | O irmão fecha a aposta de bairro "valendo a vida" (bastidor) |
-| **Marco zero** | 22h17 | O Primeiro Aviso Global (Cap. 1) |
-| **+ 3 min** | 22h20 | O caos; o contador sobe (Cap. 2 e Aprofundamentos 2.x) |
-| **+ 1 h 44** | 00h01 | O resultado: NÃO 88,6% (Cap. 4) |
-| **+ 3 h 57** | 02h14 | A bala; a ligação da mãe (Cap. 5) |
-| **dias depois** | 21h04 | O júri de mercado; a ordem que absolve (Cap. 15 e 15.1) |
+| Selo             | Momento | O que acontece                                               |
+| ---------------- | ------- | ------------------------------------------------------------ |
+| **— 10 h antes** | ~12h17  | O irmão fecha a aposta de bairro "valendo a vida" (bastidor) |
+| **Marco zero**   | 22h17   | O Primeiro Aviso Global (Cap. 1)                             |
+| **+ 3 min**      | 22h20   | O caos; o contador sobe (Cap. 2 e Aprofundamentos 2.x)       |
+| **+ 1 h 44**     | 00h01   | O resultado: NÃO 88,6% (Cap. 4)                              |
+| **+ 3 h 57**     | 02h14   | A bala; a ligação da mãe (Cap. 5)                            |
+| **dias depois**  | 21h04   | O júri de mercado; a ordem que absolve (Cap. 15 e 15.1)      |
 
 Os Aprofundamentos 2.x são **simultâneos** — o mesmo instante, em lugares diferentes.
 
 ### Expansões do Capítulo II — O Caos
 
 #### 2.1 — O torcedor
-> *22h17 — Estádio. O instante do Primeiro Aviso Global.*
+
+> _22h17 — Estádio. O instante do Primeiro Aviso Global._
 
 Ele economizou onze meses pra estar ali. Onze meses de marmita, ônibus lotado, hora
 extra. E agora, no melhor momento da vida dele — final, prorrogação, a bola no pé do
-camisa 10 — a porra do celular não para de vibrar. Ele não olha. *Depois. Depois do gol
-eu olho.* Quando puxa o telefone, é só pra fazer parar de vibrar. O dedo escorrega. Nem
+camisa 10 — a porra do celular não para de vibrar. Ele não olha. _Depois. Depois do gol
+eu olho._ Quando puxa o telefone, é só pra fazer parar de vibrar. O dedo escorrega. Nem
 sabe se apertou SIM ou NÃO. E volta o olhar pro campo, porque nada no mundo é mais
 urgente que aquela falta.
 
 #### 2.2 — A mãe que votou SIM
-> *22h20 — Um apartamento, três minutos após o Primeiro Aviso.*
+
+> _22h20 — Um apartamento, três minutos após o Primeiro Aviso._
 
 Ela assistia sozinha, som baixo pra não acordar ninguém — só que não tinha mais ninguém
 pra acordar. O quarto do filho fazia sete meses no mesmo jeito. A dívida de aposta que
 ela pagou vendendo tudo comprou só mais uma semana de vida pra ele. Depois não comprou
-mais nada. Quando o alerta apareceu, ela não sentiu medo. Leu *NÃO — todo mundo vive* e
+mais nada. Quando o alerta apareceu, ela não sentiu medo. Leu _NÃO — todo mundo vive_ e
 pensou: viver pra quê. Que mundo. Apertou SIM com cansaço, não com ódio — como quem
 desliga uma luz acesa tempo demais. Não porque queria a morte de alguém. Porque não
 lembrava mais por que valia a pena o contrário.
 
 #### 2.3 — O que achou que era brincadeira
-> *22h18 — Ao vivo, um minuto após o Primeiro Aviso.*
+
+> _22h18 — Ao vivo, um minuto após o Primeiro Aviso._
 
 Vinte e dois anos, ao vivo pra três mil seguidores. "Óh o marketing da ADI, gente, que
 climão." Pra ele era óbvio: campanha viral. "Bora testar, vou votar SIM, nada vai
@@ -515,20 +518,22 @@ acontecer, relaxa." Apertou SIM rindo. Estava certo — nada aconteceu. Mas fico
 resto da vida, sem saber se foi sorte ou se o voto dele foi só um a menos que, por acaso,
 faltou.
 
-#### 2.4 — O apostador *(é o irmão, vivo — o leitor só liga os pontos no Cap. 5)*
-> *22h17 — Um quarto no subúrbio, o instante do Primeiro Aviso. Faltam 4 horas para a bala.*
+#### 2.4 — O apostador _(é o irmão, vivo — o leitor só liga os pontos no Cap. 5)_
 
-Esse não tava nem aí pro fim do mundo. Tava olhando o *outro* número: a cotação. Três
+> _22h17 — Um quarto no subúrbio, o instante do Primeiro Aviso. Faltam 4 horas para a bala._
+
+Esse não tava nem aí pro fim do mundo. Tava olhando o _outro_ número: a cotação. Três
 apps abertos. Dava pra apostar no resultado da própria votação, e o SIM pagava alto
 porque quase ninguém acreditava. Ele fez a conta rápido demais, como quem já perdeu
 muito e precisa ganhar tudo de uma vez. Botou o que não tinha no SIM: se desse SIM, ele
-quitava a vida inteira num clique. E, pela primeira vez, *quis* que desse. Não por ódio
+quitava a vida inteira num clique. E, pela primeira vez, _quis_ que desse. Não por ódio
 do mundo. Pela dívida que não deixava ele dormir. Apertou SIM sem perceber que apostava
 contra todo mundo — inclusive contra a mãe do outro lado da parede, e contra o irmão que
 apertava NÃO.
 
 #### 2.5 — A menina
-> *22h19 — Arquibancada, dois minutos após o Primeiro Aviso.*
+
+> _22h19 — Arquibancada, dois minutos após o Primeiro Aviso._
 
 Sete anos, no colo do pai. Não entendeu o alerta, só viu o pai ficar branco. "Pai, o que
 é isso?" Ele olhou pra ela, pro número vermelho, e fez a coisa mais simples do mundo:
@@ -540,7 +545,8 @@ o que fazer, e tem a coragem de deixar a inocência decidir.
 ### Expansões do Capítulo XV — O Júri de Mercado
 
 #### 15.1 — Do outro lado
-> *Dias depois, 21h04 — Um prédio de vidro, no instante do veredito.*
+
+> _Dias depois, 21h04 — Um prédio de vidro, no instante do veredito._
 
 A ordem das 21h04 saiu de uma sala a dezoito graus, num prédio de vidro, a oito
 quilômetros do seu quarto. O homem que a enviou não é um monstro. É pior: é um
@@ -551,16 +557,17 @@ quando o dinheiro seca. Então ele espera a emoção inflar o preço e, no melho
 aposta pesado no INOCENTE, que está barato. Quase sempre dá certo: a indignação é grande,
 mas é pobre — e indignação pobre é a melhor oportunidade de compra que existe. Quando o
 veredito fechou, o número na tela subiu alguns milhares. Ele nem comemorou. Tomou um gole
-de café frio e murmurou a frase que resume o mundo inteiro: *"Emoção não move o preço.
-Dinheiro move."* Nunca vai saber o nome do seu irmão. Pra ele, não houve um morto —
-houve um *spread* mal precificado, e ele estava do lado certo.
+de café frio e murmurou a frase que resume o mundo inteiro: _"Emoção não move o preço.
+Dinheiro move."_ Nunca vai saber o nome do seu irmão. Pra ele, não houve um morto —
+houve um _spread_ mal precificado, e ele estava do lado certo.
 
 ---
 
 #### 15.2 — A pá no cifrão 📍
-> *Semanas depois — mesmo prédio de vidro, 03h02.*
 
-O modelo dele flagou assim: *"disseminação oral de alto risco — trajetória não-digital — exposição residual: caso #4471-B."*
+> _Semanas depois — mesmo prédio de vidro, 03h02._
+
+O modelo dele flagou assim: _"disseminação oral de alto risco — trajetória não-digital — exposição residual: caso #4471-B."_
 
 Não era comum. Ruído digital ele tratava em lote — plataformas suprimiam, anunciantes desistiam, engajamento secava. Mas isso era diferente: sem post, sem perfil, sem número pra monetizar. Alguém andava de velório em velório falando o nome do morto. O modelo sabia porque as buscas pelo número do caso tinham subido. Buscas manuais, lentas, feitas de celulares ruins em bairros sem wi-fi. Padrão de oral. Padrão de pessoas que ouviram de alguém que ouviu de alguém.
 
@@ -568,7 +575,7 @@ Isso era pior do que viral. Viral você cercava com algoritmo. Oral você não c
 
 Ele checou a posição que ainda carregava do caso #4471-B. Pequena, quase encerrada — mas aberta o suficiente pra que um relato bem contado no lugar certo causasse algum problema. Calculou o risco em quarenta segundos. Risco baixo, mas não zero. Assimetria incomum.
 
-Então fez o que o modelo sugeria: abriu uma posição de hedge. Mercado novo, limpo, estrutura simples: *"Quanto tempo até este indivíduo parar de falar?"* Curto prazo ganhava se a pessoa calasse cedo. Longo prazo ganhava se ela se tornasse um caso relevante — nesse cenário, a posição original já teria sido liquidada com lucro antes que o barulho chegasse a algum lugar.
+Então fez o que o modelo sugeria: abriu uma posição de hedge. Mercado novo, limpo, estrutura simples: _"Quanto tempo até este indivíduo parar de falar?"_ Curto prazo ganhava se a pessoa calasse cedo. Longo prazo ganhava se ela se tornasse um caso relevante — nesse cenário, a posição original já teria sido liquidada com lucro antes que o barulho chegasse a algum lugar.
 
 Sem o nome da pessoa. Não precisava. O modelo catalogava comportamento, não identidade. Selou a notificação com o logo da firma — uma pá dentro de um cifrão, o ícone padrão pra mercados de risco social — e enviou às 03h02, quando os mercados asiáticos abriam e o ruído doméstico era mínimo.
 
@@ -578,10 +585,10 @@ Lá, num quarto que ele nunca saberia descrever, um celular acendeu sozinho.
 
 ---
 
-## FUNDAMENTAÇÃO — A TESE EM DETALHE — *ponto 2 de 2*
+## FUNDAMENTAÇÃO — A TESE EM DETALHE — _ponto 2 de 2_
 
-*Esta é a versão completa da tese que a história prova. É a parte não-ficcional do
-arquivo: aqui tudo precisa ser defensável.*
+_Esta é a versão completa da tese que a história prova. É a parte não-ficcional do
+arquivo: aqui tudo precisa ser defensável._
 
 ### Tese central
 
@@ -599,21 +606,21 @@ como:
 
 $$R_{\text{Estado}} = t \cdot \theta \cdot H$$
 
-onde $t$ é a alíquota, $\theta$ é a margem da casa (*hold*) e $H$ é o total apostado
-(*handle*). Nas apostas esportivas dos EUA, $\theta \approx 9{,}3\%$ e $H \approx 150$
+onde $t$ é a alíquota, $\theta$ é a margem da casa (_hold_) e $H$ é o total apostado
+(_handle_). Nas apostas esportivas dos EUA, $\theta \approx 9{,}3\%$ e $H \approx 150$
 bilhões de dólares em 2024 — base grande o bastante para que nenhum Estado com déficit a
 ignore. **Consequência:** quanto mais gente aposta, mais o Estado ganha. O incentivo não
 é reduzir o vício — é ampliar o volume.
 
 ### 2. Evidência histórica
 
-| Vício | Proibição | Virada | Situação atual (2024–25) |
-|---|---|---|---|
-| **Álcool** | Lei Seca, 1920–1933 | Revogação em 1933 + tributação | Bilhões anuais em impostos |
-| **Maconha** | Guerra às Drogas | Voto em CO/WA (2012); vendas (2014) | +US$ 28 bi acumulados; ~US$ 4,5 bi em 2025 |
-| **Apostas** | PASPA, 1992 | *Murphy v. NCAA*, 2018 | ~US$ 13,7 bi de receita em 2024; 38 estados + DC |
+| Vício       | Proibição           | Virada                              | Situação atual (2024–25)                         |
+| ----------- | ------------------- | ----------------------------------- | ------------------------------------------------ |
+| **Álcool**  | Lei Seca, 1920–1933 | Revogação em 1933 + tributação      | Bilhões anuais em impostos                       |
+| **Maconha** | Guerra às Drogas    | Voto em CO/WA (2012); vendas (2014) | +US$ 28 bi acumulados; ~US$ 4,5 bi em 2025       |
+| **Apostas** | PASPA, 1992         | _Murphy v. NCAA_, 2018              | ~US$ 13,7 bi de receita em 2024; 38 estados + DC |
 
-O mesmo capital que operava na ilegalidade (contrabando, *bookies* da máfia) é
+O mesmo capital que operava na ilegalidade (contrabando, _bookies_ da máfia) é
 substituído por operadores legais e empresas de capital aberto. O Estado, que gastava
 reprimindo, passa a arrecadar. A proibição não elimina o mercado; só define quem lucra.
 
@@ -628,13 +635,13 @@ mas o Estado segue cobrando imposto sobre o resultado; (3) o dano é regressivo 
 desenho — concentra-se em quem já é explorado na produção. Mesmo no limite absurdo, a
 tese não quebra: fica mais nítida.
 
-*(É esse experimento que a história dramatiza — a Regra do Mundo, o Cap. 5 e o Cap. 15
-são ele levado ao extremo.)*
+_(É esse experimento que a história dramatiza — a Regra do Mundo, o Cap. 5 e o Cap. 15
+são ele levado ao extremo.)_
 
 ### 4. Leitura crítica: capitalismo rentista e dupla apropriação
 
-O fenômeno **não** é "capitalismo de Estado" (Estado dono da produção). É *capitalismo
-rentista* e *financeirização da vida cotidiana* — o Estado como cobrador de renda sobre a
+O fenômeno **não** é "capitalismo de Estado" (Estado dono da produção). É _capitalismo
+rentista_ e _financeirização da vida cotidiana_ — o Estado como cobrador de renda sobre a
 atividade do capital privado (Harvey; Streeck).
 
 Na **produção**, o trabalhador recebe o salário $v$ e produz valor $v + s$; o capitalista
@@ -665,7 +672,7 @@ reforça o caráter regressivo.
 
 ### 5. Contrapontos e limites
 
-- **Redução de danos.** Legalizar pode *diminuir* dano (produto regulado, controle de
+- **Redução de danos.** Legalizar pode _diminuir_ dano (produto regulado, controle de
   idade, esvaziar o crime organizado). O motivo do Estado nem sempre é cínico.
 - **Fracasso da repressão.** Proibições ruem por inaplicabilidade; legalizar pode ser
   rendição pragmática, não plano mestre.
@@ -686,13 +693,13 @@ estrutural** que transforma o Estado em sócio silencioso da desgraça que dizia
 
 ### 7. Fontes
 
-- **American Gaming Association**, *State of the States 2025* — receita de apostas
+- **American Gaming Association**, _State of the States 2025_ — receita de apostas
   esportivas (US$ 13,7 bi em 2024) e impostos sobre jogo a estados (US$ 15,9 bi).
-- **Suprema Corte dos EUA**, *Murphy v. NCAA* (2018) — derrubada da PASPA (1992).
+- **Suprema Corte dos EUA**, _Murphy v. NCAA_ (2018) — derrubada da PASPA (1992).
 - **Marijuana Policy Project** (2025/2026) — acumulado de impostos sobre cannabis
   (>US$ 28 bi desde 2014).
-- **Karl Marx**, *O Capital* — circuito do capital $M\!-\!C\!-\!M'$ e mais-valia.
+- **Karl Marx**, _O Capital_ — circuito do capital $M\!-\!C\!-\!M'$ e mais-valia.
 - **David Harvey**; **Wolfgang Streeck** — capitalismo rentista e financeirização.
 
-*A verificar antes da versão final:* número exato de impostos sobre álcool (citado como
+_A verificar antes da versão final:_ número exato de impostos sobre álcool (citado como
 "bilhões anuais") e a série histórica das alíquotas estaduais de aposta.
