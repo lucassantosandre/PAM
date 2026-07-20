@@ -32,6 +32,56 @@ O critério da contestabilidade tem raiz na filosofia da ciência: **Karl Popper
 que uma afirmação só é científica se for *falsificável* — se existir, em princípio, uma
 observação que poderia derrubá-la. Uma tese que nada poderia refutar não é forte; é vazia.
 
+### O inimigo da tese: a tautologia
+
+Uma **tautologia** é uma afirmação sempre verdadeira — mas verdadeira *pela própria
+estrutura*, então não diz nada sobre o mundo. Exemplos:
+
+- "Amanhã vai chover ou não vai chover." — impossível errar, e por isso inútil: não te diz
+  se leva guarda-chuva.
+- "Ele faliu porque ficou sem dinheiro." — ficar sem dinheiro *é* falir; a frase gira em
+  falso, não explica a causa.
+- "É ilegal porque a lei proíbe." — anda em círculo.
+
+A tautologia é o inimigo natural da tese, porque **não é contestável** — ninguém discorda
+do que é verdadeiro por definição. Se a sua tese pode ser reescrita como tautologia, ela
+está vazia. Compare, no próprio projeto:
+
+- *"O Estado taxa o que ele tributa."* → **tautologia** (taxar e tributar são o mesmo);
+  gira em falso.
+- *"O Estado não proíbe o vício por princípio, mas por cálculo fiscal."* → **tese de
+  verdade**, porque alguém pode genuinamente discordar (pode ser por saúde pública, por
+  demanda popular). Ela afirma e se arrisca.
+
+### Diagrama: a estrutura dos inimigos da tese
+
+```mermaid
+flowchart TD
+    A["Uma afirmação<br/>candidata a tese"]
+
+    A -->|"não é tese se for…"| B["Fato<br/><small>a água ferve a 100 °C</small>"]
+    A --> C["Gosto<br/><small>chocolate é o melhor</small>"]
+    A --> D["Tema<br/><small>apostas esportivas</small>"]
+    A --> E["Tautologia<br/><small>taxa o que tributa</small>"]
+
+    A -->|"é tese se for…"| F["Contestável<br/><small>alguém pode discordar</small>"]
+    F --> G["Falsificável<br/><small>algo poderia refutá-la</small>"]
+    G --> H["TESE DE VERDADE<br/><small>afirma e se arrisca</small>"]
+
+    classDef morta fill:#FCEBEB,stroke:#A32D2D,color:#501313;
+    classDef viva fill:#E1F5EE,stroke:#0F6E56,color:#04342C;
+    classDef alvo fill:#F1EFE8,stroke:#5F5E5A,color:#2C2C2A;
+    class B,C,D,E morta;
+    class F,G viva;
+    class H viva;
+    class A alvo;
+```
+
+Os quatro caminhos da esquerda (vermelho) **matam** a afirmação — ela não chega a ser
+tese. Os da direita (verde) a **validam**: uma frase que é contestável e falsificável
+afirma algo real e se arrisca. É o mesmo raio-X da seção anterior, agora aplicado *antes*
+de escrever — para checar se você tem uma tese ou só um impostor bem-vestido.
+
 ---
 
 ## 3. A anatomia de um argumento — o modelo de Toulmin
@@ -59,6 +109,37 @@ E as três que blindam o argumento:
 O modelo serve para **duas coisas**: *construir* um argumento sólido e *diagnosticar* um
 argumento alheio — quando algo "soa errado", checar qual das seis peças está faltando
 revela onde está o furo.
+
+### As seis peças no mesmo argumento (exemplo)
+
+Fica abstrato sem exemplo. Veja um único argumento — *"o Estado deveria parar de expandir
+as apostas legalizadas"* — desmontado nas seis peças:
+
+1. **Afirmação:** "O Estado deveria parar de expandir as apostas esportivas legalizadas."
+2. **Evidência:** "Porque estudos mostram que a legalização aumenta a dívida e a falência
+   das famílias mais pobres."
+3. **Garantia (a ponte, quase sempre não dita):** "Porque o Estado não deveria promover
+   algo que prejudica financeiramente seus cidadãos mais vulneráveis." — se alguém *não*
+   aceitar essa ponte, o argumento inteiro cai; por isso é o elo mais frágil.
+4. **Apoio (justifica a garantia):** "Proteger os vulneráveis de danos previsíveis é
+   função básica do Estado, reconhecida desde as leis de proteção ao consumidor."
+5. **Qualificador (limita o alcance):** "Na maioria dos casos, e sobretudo entre jovens de
+   baixa renda, o dano supera o benefício." — o "na maioria dos casos" impede que uma
+   única exceção derrube tudo.
+6. **Refutação (encara a objeção mais forte):** "É verdade que proibir pode empurrar o
+   jogo para o mercado ilegal — mas regular com limites rígidos não é o mesmo que expandir
+   agressivamente, que é o que se critica aqui."
+
+As seis peças juntas formam um argumento que se defende sozinho: cada uma tapa um buraco
+por onde alguém poderia atacar.
+
+### O uso diagnóstico (exemplo)
+
+Agora imagine que alguém diz só: *"o Estado tem que parar com as apostas porque isso faz
+mal."* Soa fraco — mas por quê? Rodando o checklist de Toulmin, o furo aparece na hora: há
+afirmação e uma evidência vaga ("faz mal"), mas **falta a garantia** (por que "fazer mal"
+obriga o Estado a agir?) e **falta a refutação** (e o argumento do mercado ilegal?). O
+modelo mostra *exatamente* onde o argumento está oco — funciona como um raio-X.
 
 ---
 
