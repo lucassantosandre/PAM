@@ -8,7 +8,7 @@ _primeiro_ dos dois pontos onde a tese aparece —, o **Guia de Personagens**, a
 **Fundamentação**, que é o _segundo_ ponto da tese, com a versão completa. As
 referências entre as partes são feitas em texto (ex.: "[**ver Fundamentação**](#fundamentação--a-tese-em-detalhe--ponto-2-de-2), ponto 3").
 
-> **Documentação de referência:** fundação física em [ENTROPIA.md](ENTROPIA.md); fundação econômica em [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md); pesquisa factual em [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md) e [investigacoes/PAM/PAM.md](investigacoes/PAM/PAM.md); empresa fictícia em [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md).
+> **Documentação de referência:** fundação física em [ENTROPIA.md](ENTROPIA.md); fundação econômica em [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md); pesquisa factual em [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md) e [investigacoes/PAM/PAM.md](investigacoes/PAM/PAM.md); empresa fictícia em [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md); mapa ficção↔teoria em [DEMONSTRACAO.md](DEMONSTRACAO.md).
 
 ---
 
@@ -106,7 +106,7 @@ celular. O contador apareceu nos telões, atualizando ao vivo:
 
 > **SIM: 14% · NÃO: 86%**
 
-O que quase ninguém entendeu — e é aqui que a tese começa a se provar — é que ninguém
+O que quase ninguém entendeu é que ninguém
 estava votando sobre o fim do mundo. O app da ADI Predictstreet mostrava, do lado do
 SIM, uma frase pequena: _"pagando mais agora."_ Gente apertava SIM no reflexo, atrás do
 prêmio maior, sem ler direito. Achavam que decidiam a humanidade. Eram só liquidez.
@@ -161,9 +161,8 @@ a essa hora pra dar boa notícia. A voz dela veio destruída:
 
 O silêncio no meio da frase disse o resto.
 
-> _O tiro não teve raiva: teve preço. O capital não matou por maldade — só gerenciou o
-> risco de uma posição, e a morte foi o custo de fechá-la. É a tese em carne: ver
-> Fundamentação, ponto 4 (dupla apropriação) e a Nota de método sobre "gerenciar risco"._
+> _O tiro não teve raiva: teve preço. O capital não matou por maldade — só fechou uma
+> posição. A morte foi o custo da operação._
 
 ---
 
@@ -207,9 +206,6 @@ E aí a ficha cai, fria: aquela votação global da noite da Copa não era sobre
 Era liquidez pra precificar o jogo de várzea onde apostaram a vida dele. Cada SIM que os
 outros apertaram atrás de prêmio ajudou a mover a odd que pagou a bala. Todo mundo
 achando que decidia a humanidade. Ninguém sabendo que decidia _ele_.
-
-> _Por que a conta nunca fecha pro pobre: ela nunca foi feita pra fechar, e sim pra
-> vazar — com nota fiscal. Ver Fundamentação, ponto 4._
 
 #### Capítulo VIII — O Velório
 
@@ -275,9 +271,6 @@ Ela só baixou os olhos.
 
 — Eu só trabalho aqui, moço.
 
-> _A tese inteira cabe numa nota fiscal: o Estado como sócio silencioso, faturando sobre
-> a desgraça que dizia combater. Ver Fundamentação, ponto 6._
-
 #### Capítulo XI — O Adeus
 
 Você voltou ao caixão antes de fecharem. Encostou a testa na madeira fria:
@@ -315,9 +308,6 @@ E, como toda conta, é taxada. O Estado fica com a fatia de cada aposta diária 
 apocalipse. Ninguém pergunta mais por que o mundo ainda existe. A resposta, ninguém quer
 encarar: porque o fim nunca foi o produto. O medo é. E medo, cobrado todo dia de oito
 bilhões de pessoas, não tem preço — tem mensalidade.
-
-> _A extinção transformada em base tributável recorrente. É a Regra do Mundo se fechando
-> sobre a tese. Ver [**Fundamentação, ponto 2**](#2-o-mecanismo-tributar-o-que-não-se-consegue-proibir)._
 
 #### Capítulo XIII — A Recusa
 
