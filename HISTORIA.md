@@ -406,9 +406,26 @@ apostar contra.
 
 *POVs e desvios que expandem a espinha central. Numerados pelo capítulo que aprofundam.*
 
+### Linha do tempo (âncora: o Primeiro Aviso Global)
+
+Todos os selos de tempo desta obra se ancoram no **Primeiro Aviso Global** — o alerta que
+tomou as telas do mundo às **22h17**, durante a final da Copa (Cap. 1). É o marco zero.
+
+| Selo | Momento | O que acontece |
+|---|---|---|
+| **— 10 h antes** | ~12h17 | O irmão fecha a aposta de bairro "valendo a vida" (bastidor) |
+| **Marco zero** | 22h17 | O Primeiro Aviso Global (Cap. 1) |
+| **+ 3 min** | 22h20 | O caos; o contador sobe (Cap. 2 e Aprofundamentos 2.x) |
+| **+ 1 h 44** | 00h01 | O resultado: NÃO 88,6% (Cap. 4) |
+| **+ 3 h 57** | 02h14 | A bala; a ligação da mãe (Cap. 5) |
+| **dias depois** | 21h04 | O júri de mercado; a ordem que absolve (Cap. 15 e 15.1) |
+
+Os Aprofundamentos 2.x são **simultâneos** — o mesmo instante, em lugares diferentes.
+
 ### Expansões do Capítulo 2 — O Caos
 
 #### 2.1 — O torcedor
+> *22h17 — Estádio. O instante do Primeiro Aviso Global.*
 
 Ele economizou onze meses pra estar ali. Onze meses de marmita, ônibus lotado, hora
 extra. E agora, no melhor momento da vida dele — final, prorrogação, a bola no pé do
@@ -418,6 +435,7 @@ sabe se apertou SIM ou NÃO. E volta o olhar pro campo, porque nada no mundo é 
 urgente que aquela falta.
 
 #### 2.2 — A mãe que votou SIM
+> *22h20 — Um apartamento, três minutos após o Primeiro Aviso.*
 
 Ela assistia sozinha, som baixo pra não acordar ninguém — só que não tinha mais ninguém
 pra acordar. O quarto do filho fazia sete meses no mesmo jeito. A dívida de aposta que
@@ -428,6 +446,7 @@ desliga uma luz acesa tempo demais. Não porque queria a morte de alguém. Porqu
 lembrava mais por que valia a pena o contrário.
 
 #### 2.3 — O que achou que era brincadeira
+> *22h18 — Ao vivo, um minuto após o Primeiro Aviso.*
 
 Vinte e dois anos, ao vivo pra três mil seguidores. "Óh o marketing da ADI, gente, que
 climão." Pra ele era óbvio: campanha viral. "Bora testar, vou votar SIM, nada vai
@@ -436,6 +455,7 @@ resto da vida, sem saber se foi sorte ou se o voto dele foi só um a menos que, 
 faltou.
 
 #### 2.4 — O apostador *(é o irmão, vivo — o leitor só liga os pontos no Cap. 5)*
+> *22h17 — Um quarto no subúrbio, o instante do Primeiro Aviso. Faltam 4 horas para a bala.*
 
 Esse não tava nem aí pro fim do mundo. Tava olhando o *outro* número: a cotação. Três
 apps abertos. Dava pra apostar no resultado da própria votação, e o SIM pagava alto
@@ -447,6 +467,7 @@ contra todo mundo — inclusive contra a mãe do outro lado da parede, e contra 
 apertava NÃO.
 
 #### 2.5 — A menina
+> *22h19 — Arquibancada, dois minutos após o Primeiro Aviso.*
 
 Sete anos, no colo do pai. Não entendeu o alerta, só viu o pai ficar branco. "Pai, o que
 é isso?" Ele olhou pra ela, pro número vermelho, e fez a coisa mais simples do mundo:
@@ -458,6 +479,7 @@ o que fazer, e tem a coragem de deixar a inocência decidir.
 ### Expansões do Capítulo 15 — O Júri de Mercado
 
 #### 15.1 — Do outro lado
+> *Dias depois, 21h04 — Um prédio de vidro, no instante do veredito.*
 
 A ordem das 21h04 saiu de uma sala a dezoito graus, num prédio de vidro, a oito
 quilômetros do seu quarto. O homem que a enviou não é um monstro. É pior: é um
