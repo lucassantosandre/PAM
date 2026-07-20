@@ -1,0 +1,123 @@
+# AGENTS.md — O Voto Final (PAM)
+
+Repositório do projeto literário **PAM** — romance distópico híbrido narrado em segunda
+pessoa, com tese acadêmica embutida. Leia este arquivo antes de qualquer tarefa.
+
+---
+
+## O que é este projeto
+
+- **Gênero**: Romance distópico literário com fundamentação acadêmica
+- **Título**: O Voto Final
+- **Narrador**: Segunda pessoa ("Você") — invariável no arco principal
+- **Tema**: Apostas esportivas como instrumento de aceleração de entropia social;
+  sistema de votação global controlado por derivativos entropy-linked
+
+---
+
+## Estrutura do repositório
+
+```
+PAM/
+  AGENTS.md                        ← este arquivo
+  .github/
+    copilot-instructions.md        ← regras de edição para VS Code
+    agents/caliope.agent.md        ← agente Calíope (VS Code)
+    skills/                        ← handoff, roteiro, templates, estilo, fonte-primaria
+    instructions/pam-escrita.instructions.md
+  PAM/
+    HISTORIA.md                    ← ARQUIVO CENTRAL — romance completo
+    ENTROPIA.md                    ← fundamentação física (entropia, Prigogine)
+    CALCULO-MARXISTA.md            ← fundamentação econômica (Marx, Harvey)
+    METODO.md                      ← fundamento metodológico (Toulmin, Popper)
+    TESE.md                        ← tese acadêmica embutida
+  handoffs/lucassantos/            ← handoffs de sessão
+  memory/                          ← perfis de estilo e lições
+```
+
+**Arquivo central**: `PAM/PAM/HISTORIA.md` — todo conteúdo narrativo vive aqui.
+Nunca criar capítulos em arquivos separados.
+
+---
+
+## Regras obrigatórias para qualquer agente
+
+### Narrativa
+
+- Capítulos numerados em **romano** (I, II … XXVII). Inline: "Cap. XII", nunca "Cap. 12"
+- Aprofundamentos em **decimal** (2.1, 5.1, 18.1)
+- Aprofundamentos têm tipo obrigatório: `📍` (gancho) ou `🔎` (paralelo puro)
+- Narrador principal em **segunda pessoa** — nunca quebrar para terceira ou primeira
+- O **nome do irmão** aparece somente no Cap. XIV — em todo o resto: "o irmão"
+
+### Fontes
+
+- **Nunca inventar ou completar dados bibliográficos** — reportar gaps ao escritor
+- Fontes primárias registradas em ENTROPIA.md, CALCULO-MARXISTA.md, METODO.md e HISTORIA.md §FUNDAMENTAÇÃO
+
+### Estrutura de seções em HISTORIA.md
+
+- `## PERSONAGENS` — tabela de personagens
+- `## PERGUNTAS FREQUENTES` — FAQ do lore
+- `## A HISTÓRIA` → `### PARTE {ROMANO}` → `#### Capítulo {ROMANO} — {TÍTULO}`
+- `## APROFUNDAMENTOS` → `### Expansões do Capítulo {ROMANO}` → `#### {decimal} — {TÍTULO} {📍/🔎}`
+- `## FUNDAMENTAÇÃO` — base teórica com fontes primárias
+
+### Emojis
+
+- **Zero emojis** no texto corrido de narração ou diálogo
+- Emoji-marca de personagem: só no **primeiro aparecimento de peso** da cena
+- Emojis de notificação: somente dentro de blocos `> citação` (telas de celular/app)
+
+### Fórmulas
+
+- Inline: `$formula$` (KaTeX)
+- Bloco: `$$formula$$`
+
+---
+
+## Personagens existentes — emojis reservados
+
+| Emoji | Personagem         |
+| ----- | ------------------ |
+| 🩶    | Você (narrador)    |
+| 🕯️    | O irmão            |
+| 🖤    | A mãe              |
+| ⛏️    | O coveiro          |
+| 🚬    | A senhora de preto |
+| 💼    | O trader           |
+| 🧹    | O faxineiro        |
+| 🤍    | A mulher da Casa   |
+| 🏛️    | A Casa             |
+| 🎲    | ADI Predictstreet  |
+| ⚙️    | Executor #2081-C   |
+
+Ao adicionar personagem novo: escolher emoji **não listado acima**.
+
+---
+
+## O que o agente pode fazer
+
+- Ler qualquer arquivo do repositório para contexto
+- Propor novos aprofundamentos seguindo os templates em `.github/skills/templates/`
+- Verificar consistência de numeração romana e emojis
+- Sugerir fontes a registrar (nunca registrar sem confirmação do escritor)
+- Criar handoff em `handoffs/lucassantos/`
+
+## O que o agente NÃO pode fazer
+
+- Criar arquivos de capítulo separados de HISTORIA.md
+- Inventar ou completar citações bibliográficas
+- Alterar o FAQ sem instrução explícita
+- Revelar o nome do irmão fora do Cap. XIV
+- Modificar CALCULO-MARXISTA.md, METODO.md ou TESE.md sem instrução explícita
+  (são documentos do escritor)
+
+---
+
+## Arquivos referenciados mas ainda não criados
+
+| Arquivo                 | Status                                             |
+| ----------------------- | -------------------------------------------------- |
+| `PAM/PAM/ARCO-FINAL.md` | Pendente — spoiler cofre da Casa (alta prioridade) |
+| `PAM/PAM/ADI.md`        | Pendente — dossier ADI Predictstreet               |
