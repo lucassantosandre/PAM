@@ -62,30 +62,17 @@ jobs:
           echo "tag=$NEW_TAG" >> $GITHUB_OUTPUT
           echo "bump=$BUMP" >> $GITHUB_OUTPUT
 
-      - name: Extrair slug do capítulo/aprofundamento
-        id: meta
-        run: |
-          BRANCH="${{ github.event.pull_request.head.ref }}"
-          PR_TITLE="${{ github.event.pull_request.title }}"
-          # Slug: tudo depois da primeira /
-          SLUG=$(echo "$BRANCH" | cut -d/ -f2-)
-          echo "slug=$SLUG" >> $GITHUB_OUTPUT
-          echo "pr_title=$PR_TITLE" >> $GITHUB_OUTPUT
-
       - name: Criar tag e Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.tag }}
-          name: "${{ steps.version.outputs.tag }} — ${{ steps.meta.outputs.pr_title }}"
+          name: "${{ steps.version.outputs.tag }} — ${{ github.event.pull_request.title }}"
           body: |
-            ## O Voto Final — ${{ steps.version.outputs.tag }}
-
-            **Branch**: `${{ github.event.pull_request.head.ref }}`
-            **Tipo**: ${{ steps.version.outputs.bump }}
-            **PR**: #${{ github.event.pull_request.number }} — ${{ steps.meta.outputs.pr_title }}
+            ${{ github.event.pull_request.body }}
 
             ---
-            ${{ github.event.pull_request.body }}
+            **Branch**: `${{ github.event.pull_request.head.ref }}`
+            **Bump**: ${{ steps.version.outputs.bump }} · **PR**: #${{ github.event.pull_request.number }}
           draft: false
           prerelease: false
           generate_release_notes: false

@@ -1,83 +1,135 @@
 ---
 name: git-commit
 description: >
-  Encapsula o ciclo completo de versionamento do projeto PAM — após finalizar escrita
-  ou atualizações no chat: cria a branch com nomenclatura correta, commita, faz push
-  e orienta a abertura do PR para main (que dispara o workflow de release automático).
-argument-hint: "Tipo e referência do conteúdo finalizado. Ex: 'cap XIV', 'aprof 5.4', 'parte IX', 'infra: skills'"
+  Gera os comandos de versionamento do projeto PAM para o escritor revisar e executar —
+  branch com nomenclatura correta a partir de main atualizado, commit, push e PR com
+  título e body padronizados. Não executa nada automaticamente.
+argument-hint: "Tipo e referência do conteúdo finalizado. Ex: 'cap XIV — O Nome', 'aprof 5.4', 'parte IX', 'chore: skills'"
 ---
 
 # Git Commit
 
-Ciclo completo de commit, push e abertura de PR após finalização de escrita ou estrutura.
-O merge do PR em `main` dispara o workflow `.github/workflows/release.yml` que cria a
-tag e a Release automaticamente.
+Gera o roteiro completo de commit + push + PR para o escritor executar no terminal.
+**Nunca executa comandos automaticamente** — apresenta tudo para revisão antes.
+O merge do PR em `main` dispara `.github/workflows/release.yml` que cria tag e Release
+nomeadas pelo capítulo lançado.
 
 # Convenção de branches e versionamento
 
-| Tipo de conteúdo | Prefixo de branch | Bump de versão |
-|---|---|---|
-| Nova Parte (I, II…) | `parte/{romano}-{slug}` | **major** (v1→v2) |
-| Novo Capítulo | `cap/{romano}-{slug}` | **minor** (v0.1→v0.2) |
-| Aprofundamento | `aprof/{decimal}-{slug}` | **patch** (v0.0.1→v0.0.2) |
-| Infraestrutura / Skills / Agents | `chore/{slug}` | **patch** |
-| Correção | `fix/{slug}` | **patch** |
-
-Exemplos de branches válidas:
-- `cap/XIV-o-nome` → Capítulo XIV — bump minor
-- `aprof/5-4-o-portfolio` → Aprofundamento 5.4 — bump patch
-- `parte/IX-o-limiar` → Parte IX — bump major
-- `chore/skill-git-commit` → infra — bump patch
+| Tipo | Prefixo de branch | Bump | Tag resultante |
+|---|---|---|---|
+| Nova Parte | `parte/{romano}-{slug}` | **major** (v1→v2) | `v2.0.0 — Parte IX — O Limiar` |
+| Novo Capítulo | `cap/{romano}-{slug}` | **minor** (v0.1→v0.2) | `v0.2.0 — Cap. XIV — O Nome` |
+| Aprofundamento | `aprof/{decimal}-{slug}` | **patch** (v0.0.1→v0.0.2) | `v0.0.2 — Aprof. 5.4 — O Portfólio` |
+| Infra / Skills | `chore/{slug}` | **patch** | `v0.0.3 — chore: {slug}` |
+| Correção | `fix/{slug}` | **patch** | `v0.0.4 — fix: {slug}` |
 
 # Inputs
 
 | Campo | Descrição |
 |---|---|
 | `tipo` | `cap`, `aprof`, `parte`, `chore`, `fix` |
-| `referencia` | Número romano/decimal ou slug (ex: `XIV`, `5.4`, `IX`) |
-| `slug` | 2–4 palavras kebab-case do conteúdo (ex: `o-nome`, `o-portfolio`) |
-| `mensagem` | Descrição do commit (padrão: gerada automaticamente) |
+| `referencia` | Romano/decimal (ex: `XIV`, `5.4`, `IX`) |
+| `titulo` | Título do capítulo ou conteúdo (ex: `O Nome do Irmão`) |
+| `slug` | 2–4 palavras kebab-case (ex: `o-nome`, `o-portfolio`) |
+| `resumo` | O que foi escrito/alterado nesta sessão — vira body do PR |
 
-# Workflow
+# Workflow — o que a skill entrega
 
-1. **Verificar estado** — `git status` para confirmar o que está pendente.
-2. **Nomear a branch**:
-   ```
-   {tipo}/{referencia}-{slug}
-   ```
-   Exemplos: `cap/XIV-o-nome`, `aprof/5-4-o-portfolio`
-3. **Criar e mudar para a branch** (se ainda não existir):
-   ```bash
-   git checkout -b {branch} 2>/dev/null || git checkout {branch}
-   ```
-4. **Stage de todos os arquivos modificados**:
-   ```bash
-   git add -A
-   ```
-5. **Commit com mensagem padronizada**:
-   ```bash
-   git commit -m "{tipo}({referencia}): {mensagem}"
-   ```
-   Exemplos:
-   - `cap(XIV): O nome do irmão — primeira revelação`
-   - `aprof(5.4): Portfólio — a credora passiva acorda`
-   - `chore(skills): add git-commit skill and release workflow`
-6. **Push**:
-   ```bash
-   git push origin {branch}
-   ```
-7. **Orientar abertura do PR**:
-   - Título sugerido: `{Tipo} {referencia} — {título do conteúdo}`
-   - Body sugerido: resumo do que foi escrito/alterado nesta sessão
-   - Base: `main`
-   - Link direto: `https://github.com/lucassantosandre/PAM/pull/new/{branch}`
+A skill gera um bloco de comandos prontos para copiar + o texto completo do PR.
+O escritor revisa e executa no terminal.
+
+## 1. Atualizar main local antes de criar a branch
+
+```bash
+git checkout main
+git pull origin main
+```
+
+## 2. Criar branch a partir de main atualizado
+
+```bash
+git checkout -b {tipo}/{referencia}-{slug}
+```
+
+Exemplos:
+- `git checkout -b cap/XIV-o-nome`
+- `git checkout -b aprof/5-4-o-portfolio`
+- `git checkout -b parte/IX-o-limiar`
+
+## 3. Stage e commit
+
+```bash
+git add -A
+git commit -m "{tipo}({referencia}): {titulo}"
+```
+
+Exemplos de mensagem de commit:
+- `cap(XIV): O nome do irmão — primeira revelação`
+- `aprof(5.4): Portfólio — a credora passiva acorda`
+- `chore(infra): add release workflow and git-commit skill`
+
+## 4. Push
+
+```bash
+git push origin {tipo}/{referencia}-{slug}
+```
+
+## 5. Abrir PR — título e body gerados pela skill
+
+**Título do PR** (este título vira o nome da Release):
+```
+{Tipo humano} {referencia} — {Título completo}
+```
+Exemplos:
+- `Cap. XIV — O Nome do Irmão`
+- `Aprof. 5.4 — Portfólio: a credora passiva acorda`
+- `Parte IX — O Limiar`
+- `Chore — Estrutura de agentes e skills`
+
+**Body do PR** (vira a descrição da Release):
+```markdown
+## O que foi escrito / alterado
+
+{resumo do que foi feito nesta sessão}
+
+## Arquivos modificados principais
+
+- `PAM/HISTORIA.md` — {detalhe}
+- `.github/skills/...` — {se aplicável}
+
+## Ganchos abertos (📍) nesta entrega
+
+- {lista de ganchos plantados, se houver}
+
+## Conexão com a fundamentação
+
+- {referência a ENTROPIA.md / CALCULO-MARXISTA.md / TESE.md, se aplicável}
+```
+
+**Link direto para abrir o PR**:
+```
+https://github.com/lucassantosandre/PAM/pull/new/{tipo}/{referencia}-{slug}
+```
 
 # O que acontece ao mergar o PR
 
 O workflow `release.yml` dispara automaticamente e:
-- Detecta o prefixo da branch → define o bump (major/minor/patch)
-- Calcula a próxima versão semântica a partir da última tag
-- Cria a tag `vX.Y.Z` no GitHub
+1. Detecta o prefixo da branch → define o bump (major/minor/patch)
+2. Extrai o título do PR
+3. Calcula a próxima versão a partir da última tag
+4. Cria a tag `vX.Y.Z` no GitHub
+5. Cria a Release com nome: `vX.Y.Z — {título do PR}`
+   - Ex: `v0.2.0 — Cap. XIV — O Nome do Irmão`
+   - Ex: `v2.0.0 — Parte IX — O Limiar`
+
+# Regras
+
+- **Nunca commitar diretamente em `main`** — sempre via PR
+- **Branch sempre criada de main atualizado** — `git pull origin main` antes do `checkout -b`
+- **Um PR por sessão** (ou por capítulo/aprofundamento se preferir granularidade)
+- **Slug da branch** vem do conteúdo, não da data
+- **Título do PR em português** — é o que aparece na Release
 - Cria uma Release com título, branch, número do PR e body do PR
 
 # Regras
