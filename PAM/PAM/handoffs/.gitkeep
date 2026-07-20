@@ -1,0 +1,5 @@
+# handoffs
+
+Pasta de handoffs de sessão — gerados pela skill `handoff`.
+
+Estrutura: `{user}/{YYYY-MM-DD_HH-MM-SS}_{slug}.md`
