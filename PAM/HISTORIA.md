@@ -225,7 +225,7 @@ A outra, celular na mão, já abrindo o app da ADI Predictstreet:
 
 A senhora de preto, cigarro na voz, virou o pescoço como cobra:
 
-— Tira os olhos desse celular, sua desgraçada. Isso aqui é velório. Respeita o morto.
+— Tira os olhos desse celular, sua vagabunda. Estamos em um velório. Respeita o morto.
 
 O silêncio caiu pesado. A comadre baixou o telefone, vermelha. Você quase sorriu. Pelo
 menos alguém falou.
