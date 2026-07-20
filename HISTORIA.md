@@ -398,7 +398,68 @@ apostar contra.
 
 ---
 
-> *Fim da Parte IV. Continua.*
+> *Fim da Parte IV.*
+
+---
+
+## PARTE V — O Barulho
+
+### Capítulo 16 — Contar
+
+Você não tinha um plano. Tinha uma promessa: contar. Só que num mundo onde tudo vira
+cotação, você aprendeu rápido que post não serve. Você escreveu um, na primeira noite —
+o nome do seu irmão, o que fizeram com ele, os mil reais. Em quarenta minutos tinha
+virado número: curtidas, compartilhamentos, e do lado, discreta, uma caixa que já
+perguntava *"quantas pessoas vão compartilhar isto até amanhã? Aposte."* O algoritmo não
+te silenciou. Fez pior: te transformou em aposta. Você apagou.
+
+Então você fez a única coisa velha o bastante pra não ter cotação. Você foi falar com
+gente. Cara a cara.
+
+Começou onde a morte é honesta: no velório de um desconhecido. Outro rapaz, outra
+dívida, outra bala. Você entrou, sentou no fundo, e quando a mãe do menino passou perto,
+você disse baixo: "o meu também." Só isso. E ela parou. Porque "o meu também" é uma
+frase que nenhum aplicativo sabe fabricar.
+
+Você contou. O nome do seu irmão. A partida de várzea. A odd. O tiro frio. E, no meio,
+o coveiro — o mesmo, magro, pele de sol — encostado na porta, ouvindo. Quando você
+terminou, ele cuspiu no chão do jeito dele e falou:
+
+— Tá vendo? É isso que eu não consigo enterrar. O nome. A terra cobre o corpo, moleque,
+mas não cobre o nome. Você achou a única pá que eles não têm.
+
+Naquela semana você foi a mais quatro. Não pra chorar — pra *contar*. E as pessoas
+começaram a repetir. Uma mãe contava pra outra. Um irmão pra um primo. Sem tela, sem
+número, sem lucro. Barulho de boca em boca, o tipo que não deixa rastro pra precificar.
+Pela primeira vez desde a bala, você sentiu que estava tirando alguma coisa deles em vez
+de alimentar.
+
+Foi aí que chegou o sinal.
+
+Três da manhã, o celular acendeu sozinho. Não era votação. Não era o vermelho de sempre.
+Era uma tela nova, limpa, quase elegante, com um único selo no topo — uma pá dentro de um
+cifrão — e uma linha de texto que parou o teu coração:
+
+> **NOVO MERCADO ABERTO.** Quanto tempo até este indivíduo parar de falar?
+> Cotação ao vivo.
+
+Sem o teu nome. Só *"este indivíduo"*. Mas você soube. O jeito que a tela te encontrou
+às três da manhã, sozinho, depois de uma semana contando — não era algoritmo cego. Era
+alguém. Alguém tinha olhado pra você, individualmente, e feito a única coisa que aquele
+mundo sabe fazer com uma ameaça: abrir uma aposta sobre ela.
+
+Você podia dizer que era coincidência. Um mercado automático, gerado por engajamento.
+Dava pra acreditar nisso — se você quisesse dormir.
+
+Mas você olhou pro selo da pá no cifrão e entendeu, com um frio na nuca, que a promessa
+tinha funcionado. Você virou barulho. E barulho alto o bastante, nesse mundo, não é
+ignorado.
+
+É cotado.
+
+---
+
+> *Fim da Parte V. Continua.*
 
 ---
 
