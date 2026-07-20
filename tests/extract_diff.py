@@ -42,16 +42,24 @@ def extract_added_text() -> str:
     base = os.environ.get("BASE_SHA", "").strip()
     head = os.environ.get("HEAD_SHA", "HEAD").strip()
 
-    if not base:
-        result = subprocess.run(
-            ["git", "merge-base", "origin/release-candidate", "HEAD"],
-            capture_output=True,
-            text=True,
-        )
-        base = result.stdout.strip()
+    # github.event.before é '0000...000' no primeiro push de uma branch nova
+    _NULL_SHA = "0" * 40
+    if not base or base == _NULL_SHA:
+        # tenta merge-base com main primeiro, depois release-candidate
+        for ref in ("origin/main", "origin/release-candidate"):
+            result = subprocess.run(
+                ["git", "merge-base", ref, "HEAD"],
+                capture_output=True,
+                text=True,
+            )
+            base = result.stdout.strip()
+            if base:
+                print(f"[extract_diff] BASE_SHA ausente/nulo — usando merge-base com {ref}: {base[:8]}")
+                break
 
     if not base:
         base = "HEAD~1"
+        print("[extract_diff] Usando fallback HEAD~1 como base.")
 
     diff = subprocess.run(
         ["git", "diff", base, head, "--", TARGET_FILE],
