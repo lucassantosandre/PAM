@@ -63,35 +63,67 @@ fórmulas e contrapontos, está em *Fundamentação*, no fim do arquivo.
 
 ## PERSONAGENS
 
-**Você (o narrador).** Segunda pessoa. Jovem, classe trabalhadora, mora com a mãe.
+*Índice global. Atualizado conforme novos personagens surgem. Cada um tem um emoji-marca
+fixo — que aparece **só em momentos importantes** no texto (primeira aparição, cena de
+peso), nunca a cada menção.*
+
+| Marca | Personagem | Papel | Aparece |
+|---|---|---|---|
+| 🩶 | Você (o narrador) | Protagonista; da culpa à recusa | Cap. 1 → |
+| 🕯️ | O irmão | Vítima; jogador em dívida | Aprof. 2.4; Cap. 5 |
+| 🖤 | A mãe | Âncora moral | Cap. 5, 11 |
+| ⛏️ | O coveiro | O sistema visto de baixo | Cap. 9 → |
+| 🚬 | A senhora de preto | A dignidade no velório | Cap. 8 |
+| 💼 | O trader | A banalidade do mal | Aprof. 15.1 |
+| 🧹 | O faxineiro | Os invisíveis têm olhos | Cap. 20 |
+| 🤍 | A mulher da Casa | A emissária; a oferta | Cap. 18 |
+| 🏛️ | A Casa | O poder por trás (⚠️ ver bastidores) | Cap. 18 → |
+| 🎲 | ADI Predictstreet | A empresa; o mercado | Cap. 1 → |
+
+---
+
+🩶 **Você (o narrador).** Segunda pessoa. Jovem, classe trabalhadora, mora com a mãe.
 Votou NÃO no primeiro dia (Cap. 3) e carrega isso. Perde o irmão na mesma noite. Seu
 arco vai da culpa e da autodestruição **para a recusa**: a raiva deixa de apontar pra
 dentro e passa a apontar pro sistema.
 
-**O irmão (falecido).** Nome só revelado no fim (Cap. 14), deixado em branco de
+🕯️ **O irmão (falecido).** Nome só revelado no fim (Cap. 14), deixado em branco de
 propósito — o tema é que o sistema o apagou em "evento de mercado". Jogador compulsivo,
 afogado em dívida. No primeiro dia estava metido numa aposta de bairro "valendo a vida"
 — uma partida de futebol cujo placar valia um tiro. Perdeu. Foi executado frio, dentro
 do carro, enquanto estacionava, como quem apenas *liquida uma posição*. Aparece vivo,
 sem nome, no Aprofundamento 2.4.
 
-**A mãe.** Voz destruída ao telefone; firme quando precisa. É ela quem corta a
+🖤 **A mãe.** Voz destruída ao telefone; firme quando precisa. É ela quem corta a
 autoculpa do narrador (Cap. 11): *"A culpa tem endereço, e não é esse quarto."* Âncora
 moral — tem clareza, não é só "mãe sofrendo".
 
-**O coveiro.** Magro, pele queimada, ~50 anos. Debochado e lúcido. "Eu enterro três,
+⛏️ **O coveiro.** Magro, pele queimada, ~50 anos. Debochado e lúcido. "Eu enterro três,
 quatro por semana por causa dessa merda de aposta." A voz do sistema visto de baixo.
+Reaparece no Cap. 16 ("a única pá que eles não têm").
 
-**A senhora de preto.** Cala a comadre que fofoca a aposta no velório. O único gesto de
+🚬 **A senhora de preto.** Cala a comadre que fofoca a aposta no velório. O único gesto de
 dignidade num ambiente de hipocrisia.
 
-**O trader (a ordem das 21h04).** Não é vilão de rosto — é um profissional numa sala de
+💼 **O trader (a ordem das 21h04).** Não é vilão de rosto — é um profissional numa sala de
 vidro que nem sabe o nome da vítima. Explora o fato de que "a indignação é grande, mas é
 pobre". A banalidade do mal financeirizada. Aparece no Aprofundamento 15.1.
 
-**ADI Predictstreet.** A empresa por trás das votações e do mercado de previsões.
-Patrocinadora da Copa. Lucra com tudo — inclusive com o fim do mundo. O antagonista não
-tem rosto: é uma linha que se fecha num servidor.
+🧹 **O faxineiro.** Limpa os escritórios do prédio de vidro; traz ao narrador os primeiros
+documentos do plano (Cap. 20, 22). "A Casa esquece que os invisíveis têm olhos." A prova
+vem sempre de baixo.
+
+🤍 **A mulher da Casa.** A emissária. Terno claro, voz macia, a calma de quem nunca ouviu
+não. Faz a oferta (Cap. 18-19): compra o barulho do narrador com sentido, não com dinheiro.
+Solta a frase-semente: *"já compramos o depois."*
+
+🏛️ **A Casa.** O poder por trás de tudo — "máfia, mercado, governo, família, no fim é tudo
+a mesma Casa". Deliberadamente ambígua (crime organizado? capital? algo mais antigo?).
+⚠️ *Núcleo do arco final — detalhes em `ARCO-FINAL.md`, spoiler.*
+
+🎲 **ADI Predictstreet.** A empresa por trás das votações e do mercado de previsões.
+Patrocinadora da Copa. Lucra com tudo — inclusive com o fim do mundo. O antagonista sem
+rosto: uma linha que se fecha num servidor. *(Empresa real — dossiê em `ADI.md`.)*
 
 ---
 
@@ -130,7 +162,8 @@ prêmio maior, sem ler direito. Achavam que decidiam a humanidade. Eram só liqu
 E, mesmo assim, o jogo continuou. A bola rolou enquanto o mundo votava se merecia
 existir. Ninguém apitou o fim — como se parar fosse admitir que era real.
 
-> *Cada ponto por cento é uma pessoa. Ver Aprofundamentos 2.1 a 2.5.*
+> *Aprofundamentos paralelos (opcionais, simultâneos a este capítulo): 2.1 a 2.5 — cada
+> ponto por cento é uma pessoa. Ficam no fim do livro; leia agora ou depois.*
 
 #### Capítulo 3 — A Reflexão
 
@@ -412,7 +445,8 @@ mercado, não. Pra ele, o caso #4471-B fechou no lucro. Pra você, tem rosto. Ba
 tem cotação — você repete baixinho, feito reza. A única coisa que ninguém consegue
 apostar contra.
 
-> *Ver Aprofundamento 15.1 — o outro lado, quem lucra.*
+> *Aprofundamento paralelo (opcional, simultâneo a este capítulo): 15.1 — o outro lado,
+> quem lucra. Fica no fim do livro; a história segue direto na Parte V.*
 
 ---
 
@@ -620,9 +654,96 @@ primeira coisa que não era luto: *eles compraram o depois. Descobrir o quê.*
 
 ---
 
+## PARTE VII — O Fio
+
+### Capítulo 20 — Quem Aposta no Fim
+
+*Descobrir o quê.* A pergunta te tirou o sono por semanas. Você começou pelo óbvio: se a
+Casa "comprou o depois", tinha comprado de alguém, em algum lugar, com algum dinheiro. E
+dinheiro, mesmo o mais escondido, deixa sombra.
+
+Você não era investigador. Era um cara com um caderno e uma rede de gente que te devia a
+verdade — as mães, os irmãos, o coveiro, todos que você tinha feito falar. Foi essa rede
+que puxou o primeiro fio. Um deles trabalhava limpando escritórios num prédio de vidro; a
+Casa esquece que os invisíveis têm olhos. Ele te trouxe uma coisa simples, que não fazia
+sentido nenhum e por isso fazia todo:
+
+Todo dia, na votação, havia apostas gigantescas no **SIM**. No fim do mundo. Bilhões,
+vindos sempre das mesmas contas, de fora — offshore, de lugares com nome de ilha. E todo
+dia essas apostas **perdiam**, porque o mundo não acabava. Ninguém no mundo perdia tanto
+dinheiro, todo santo dia, com tanta calma.
+
+Você olhou aquilo por horas antes de entender, e quando entendeu, o estômago gelou.
+Ninguém perde de propósito. A não ser que **perder seja o negócio**.
+
+### Capítulo 21 — A Conta que Fecha ao Contrário
+
+Você sentou com o caderno e fez a conta que eles não esperavam que um pobre fizesse.
+
+Se você aposta um bilhão no SIM e o mundo não acaba, você perde — mas o arranjo te devolve
+uma fatia. Vinte por cento. Duzentos milhões. Que sustentam um homem por dezessete anos
+de uma vida que você nunca vai ver de perto. Já era obsceno. Mas não era o ponto.
+
+O ponto era o que acontecia quando **mais gente** apostava no SIM junto. Você não tinha
+como provar a fórmula, mas via o efeito na tela, dia após dia: quanto mais o medo subia,
+quanto mais gente desesperada apostava que sim, que era melhor acabar logo — melhor ficava
+a cotação de quem apostava contra. A fatia que sobrava para a Casa **crescia**. Cinquenta
+por cento. Setenta. Oitenta.
+
+E aí a verdade se montou sozinha na tua cabeça, fria como o cano de uma arma:
+
+**Eles não perdem apostando no fim do mundo. Eles ganham — desde que o mundo continue de
+pé só mais um pouco.** Cada dia de medo é lucro. Cada pessoa que você viu desesperada
+apertando SIM não estava votando pela própria morte; estava, sem saber, engordando a conta
+de quem tinha comprado o depois. O irmão. A mãe do velório. Todo mundo. Combustível.
+
+Você escreveu no caderno, com a mão firme dessa vez: *eles não querem que o SIM ganhe.
+Querem que ele quase ganhe, todo dia, pra sempre. O medo é a mina. A gente é o minério.*
+
+### Capítulo 22 — O Depois Tem Endereço
+
+Faltava a última peça: para onde ia o dinheiro. Se a Casa acumulava isso há anos, tinha um
+destino. "Compramos o depois" — mas depois é tempo, não lugar. A não ser que, pra eles,
+fosse lugar.
+
+O faxineiro do prédio de vidro te trouxe a segunda coisa, e essa você teve que ler três
+vezes: nos documentos que ninguém devia ver, o dinheiro das apostas perdidas não ficava.
+Escoava, limpo, para contratos com nomes técnicos e chatos — logística, propulsão,
+"sistemas de suporte à vida de longa duração". Você não sabia o que era metade daquilo.
+Mas sabia o suficiente pra reconhecer a única coisa que "suporte à vida de longa duração"
+podia querer dizer para gente que aposta todo dia no fim do mundo.
+
+Eles estavam comprando uma **saída**. Não um bunker. Não uma ilha. Algo mais longe. Um
+lugar onde o fim da Terra fosse só uma notícia distante, vista de uma janela pequena e
+redonda.
+
+Você não tinha prova que servisse em lugar nenhum — nenhum tribunal, nem que houvesse
+tribunal de verdade nesse mundo, aceitaria o caderno de um homem cheio de nomes de mortos.
+Você tinha só a forma da coisa, montada por dentro. E a forma dizia: existe uma família
+que ganha dinheiro com o medo do fim, que gasta esse dinheiro numa saída para longe da
+Terra, e que precisa que o medo **cresça** até a hora em que a saída estiver pronta.
+
+A pergunta parou de ser "descobrir o quê".
+
+Virou: *o que acontece com o resto de nós quando a saída deles ficar pronta?*
+
+Você olhou pela janela do teu quarto — o mesmo quarto, o mesmo teto rachado da noite da
+Copa — e, pela primeira vez, o medo não era do celular. Era do dia em que ele fosse parar
+de apitar. Porque um mundo onde a Casa não precisa mais do teu medo é um mundo onde a Casa
+não precisa mais de você.
+
+---
+
+> *Fim da Parte VII. Continua.*
+
+---
+
 ## APROFUNDAMENTOS
 
-*POVs e desvios que expandem a espinha central. Numerados pelo capítulo que aprofundam.*
+*POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo
+que aprofundam (2.1 expande o Cap. 2). Não são degraus da linha principal: o `X.1` não
+vem "entre o X e o X+1", e sim **ao lado** do X — muitas vezes no mesmo instante, visto de
+outro ângulo. A história se lê inteira sem eles; quem quiser, mergulha.*
 
 ### Linha do tempo (âncora: o Primeiro Aviso Global)
 
