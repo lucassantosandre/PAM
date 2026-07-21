@@ -1321,18 +1321,24 @@ Dentro: um único arquivo de texto. Sem data. Sem título.
 >
 > _Não inventei isso. Encontrei._
 >
+> _Pesquisadores do Instituto de Göttingen encontraram o mesmo padrão em 1931. Chamaram de
+> **Algoritmo de Baal** — deus semítico dos ciclos de sacrifício coletivo. Nunca souberam por
+> que escolheram esse nome. Eu sei: porque reconheceram que o sistema exige material humano
+> para funcionar, e o nome mais antigo que tinham pra isso era religioso. Eles tinham medo do
+> que eu aprendi a medir._
+>
 > _O que fiz foi construir um instrumento de medição — e, como qualquer bom instrumento, ele
 > interfere no que mede. Toda observação tem custo. Heisenberg sabia._
 >
 > _Como o sistema produz valor:_
 >
-> _Cada contrato de validação tem taxa base $\alpha$. C. Fundo retém fração $\theta$ antes do
-> repasse ao credor habilitado:_
+> Cada contrato de validação tem taxa base $\alpha$. C. Fundo retém fração $\theta$ antes do
+> repasse ao credor habilitado:
 >
 > $$V_{\text{CF}} = \sum_{j=1}^{M} \theta_j \cdot \alpha_j \cdot D_j$$
 >
-> _onde $D_j$ é o valor da dívida validada no evento $j$, $M$ o total de eventos no período.
-> Em doze anos de mesa: $M > 40.000$. Isso é operação. O experimento é outra coisa._
+> onde $D_j$ é o valor da dívida validada no evento $j$, $M$ o total de eventos no período.
+> Em doze anos de mesa: $M > 40.000$. Isso é operação. O experimento é outra coisa.
 >
 > _A posição SIM mantida há 38 anos não é especulação. É a aposta do observador no próprio
 > experimento. Quando o evento crítico ocorrer, a posição executa. O valor financeiro não
@@ -1754,8 +1760,9 @@ Hoje levou.
 
 #### 31.1 — O Tabuleiro 🔎
 
-> _[Estado das forças — onde cada peça está, o que cada uma quer, o que nenhuma sabe sobre as
-> > outras]_
+> \_[Estado das forças — onde cada peça está, o que cada uma quer, o que nenhuma sabe sobre as
+>
+> > outras]\_
 
 ```mermaid
 graph TD
