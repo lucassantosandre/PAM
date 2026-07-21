@@ -1760,51 +1760,35 @@ Hoje levou.
 
 #### 31.1 — O Tabuleiro 🔎
 
-> \_[Estado das forças — onde cada peça está, o que cada uma quer, o que nenhuma sabe sobre as
->
-> > outras]\_
+> _[Estado das forças — hierarquia de conhecimento e controle]_
 
-```mermaid
-graph TD
-    CAIM["Caim — C. Fundo
-meta: evento final → éxodo
-aposta: SIM há 38 anos"]
-    ADI["ADI Predictstreet
-instrumento de medição e extração"]
-    F1["Família 1 — rastreamento de dívida
-meta: NÃO perpétuo"]
-    F2["Família 2 — execução e testemunho
-meta: NÃO perpétuo"]
-    F3["Família 3 — Casa
-meta: sobreviver
-colateral de Caim"]
-    GOV["Governo
-taxa 25% por evento validado
-posição: ambígua"]
-    OFS["??? — Offshore SIM
-apostas maciças em SIM diariamente
-meta: DESCONHECIDA"]
-    TRADER["Trader — entrada 412
-embarque confirmado
-meta: sair"]
-    TABEL["Tabelião
-opera dentro da Família 1
-posição: acordando"]
-    VOCE["Você
-erro de cálculo
-tem os documentos"]
+```
+                              ▲ CONTROLE TOTAL
+                           ┌─────────────┐
+                           │    CAIM     │  sabe tudo · construiu tudo
+                           │   C. Fundo  │  aposta SIM há 38 anos
+                           └─────────────┘
 
-    CAIM -->|"criou e controla"| ADI
-    CAIM -->|"comprou dívida de"| F3
-    CAIM -.->|"financia? — incerto"| OFS
-    F1 -->|"valida eventos"| ADI
-    F2 -->|"executa eventos"| ADI
-    F3 -->|"vota no Conselho"| ADI
-    GOV -->|"arrecada de"| ADI
-    TRADER -->|"confirmado para porto"| CAIM
-    TABEL -.->|"opera dentro de"| F1
-    VOCE -.->|"tem documentos de"| CAIM
-    OFS -->|"apostas crescentes"| ADI
+                      ┌────────────────────────┐
+                      │    Assento 0002        │  executa diretamente
+                      │    o executor          │  remove nomes e pessoas
+                      └────────────────────────┘
+
+              ┌────────────────────────────────────────┐
+              │  Família 1 · Família 2 · Família 3     │  Conselho de Validade
+              │  querem NÃO perpétuo                   │  não sabem o plano real de Caim
+              └────────────────────────────────────────┘
+
+         ┌──────────────────────────────────────────────────┐
+         │       ADI Predictstreet  ·  Governo              │  instrumento + arrecadação
+         │       produto, não experimento                    │  posição ambígua
+         └──────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────────┐
+│  ??? Offshore SIM  │  Trader 412  │  Tabelião  │  Você           │
+│  meta: DESCONHECIDA│  quer sair   │  acordando │  erro de cálculo│
+└──────────────────────────────────────────────────────────────────┘
+                              ▼ CAMPO ABERTO
 ```
 
 **O que cada facção sabe — e não sabe:**
