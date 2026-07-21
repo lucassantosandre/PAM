@@ -1603,6 +1603,93 @@ Saiu do cartório com o sol baixo na rua e uma certeza que ainda não tinha pala
 
 ---
 
+### PARTE XIV — A Célula
+
+#### Capítulo 37 — O Primeiro Encontro
+
+> _Uma semana depois — apartamento, tarde (BRT)._
+
+Você não sabia como chamar o que estavam fazendo.
+
+Não era reunião. Não era organização. Era quatro pessoas numa sala que não tinham mais nada a perder de formas suficientemente diferentes para que perder junto parecesse lógico.
+
+A filha do faxineiro chegou primeiro. Trouxe o fichário. O tabelião chegou quinze minutos depois, de paletó, os três documentos dobrados no bolso interior — o de sempre. A senhora de preto chegou por último, sem casaco escuro desta vez, como se tivesse decidido que disfarce não era mais o ponto.
+
+Você pôs o caderno na mesa. Pôs o cartão com a ampulheta. Pôs a fotocópia do "Pré-evento — 1."
+
+Cada um pôs o que tinha.
+
+No centro da mesa, quando pararam: a trilha legal dos 847 casos, a física da bifurcação, 22 anos de mapas internos do CLV, e o nome do sistema num pedaço de papel dobrado que ninguém abriu.
+
+O tabelião olhou pra mesa.
+
+— Isso dá queixa-crime, — ele disse. — Com isso aqui, um procurador abre investigação em 48 horas.
+
+— E encerram em 72, — a senhora de preto respondeu. — Eu processava os contratos. Eu sei quem são os procuradores que recebem do CLV.
+
+Silêncio.
+
+— Então não é pela polícia, — a filha do faxineiro disse. Não era pergunta.
+
+Ninguém respondeu, porque não precisava. Eles sabiam o que tinha acontecido com o faxineiro. Sabiam o que tinha acontecido com a mulher da Casa. O sistema não tinha falha de execução — tinha eficiência de execução.
+
+— Então pra quê a gente tá aqui? — o tabelião perguntou.
+
+Você olhou pra ele.
+
+— Pra saber o que temos. Primeiro. Depois a gente pensa no que fazer com isso.
+
+Passaram três horas colocando as peças na ordem. Ao final, a filha do faxineiro tinha desenhado no verso do fichário um diagrama de conexões — setas, datas, números de caso. Limpo. Irrefutável. E não era algo que a polícia fosse querer ver.
+
+Quando estavam se levantando, ela checou o celular.
+
+— O SIM passou de 45%.
+
+Ninguém comentou. Mas ninguém saiu imediatamente. Ficaram um segundo a mais olhando pro diagrama.
+
+---
+
+#### Capítulo 38 — A Lista C
+
+> _Três dias depois — tarde (BRT)._
+
+A senhora de preto trouxe um número: oitenta e nove.
+
+Oitenta e nove contratos da lista B encerrados nos últimos seis meses. Não só ela — oitenta e oito outras pessoas que tinham processado documentos do CLV e recebido a mesma notificação: _"Razão: atualização de critério de perfil."_
+
+O tabelião foi ao arquivo. Dois dias. Voltou com a confirmação: cada contrato encerrado tinha gerado uma entrada de "assento devolvido ao pool" no registro do fundo. Oitenta e nove assentos liberados. E oitenta e nove assentos realocados — todos para o mesmo conjunto de contas, dentro de quarenta e oito horas da devolução.
+
+As contas tinham um prefixo. `X.`
+
+Você reconheceu o padrão.
+
+— Eles não estão comprando apostas, — a filha do faxineiro disse, olhando pro registro. — Estão comprando assentos. No porto.
+
+— Por quê alguém de fora ia querer um assento? — o tabelião perguntou.
+
+Ela olhou pra janela. Depois:
+
+— Porque sabe o que acontece depois do SIM ganhar. E quer estar do lado de cá da bifurcação pra ver.
+
+O silêncio foi diferente desta vez. Não o silêncio de quem não tem resposta — o de quem acabou de entender que há mais de um jogo acontecendo ao mesmo tempo.
+
+O apostador offshore tinha começado a comprar assentos devolvidos. Estava acelerando a mola por fora — enquanto dentro do sistema as 3 Famílias tentavam manter a mola travada.
+
+Dois grupos com agendas diferentes empurrando na mesma direção. A bifurcação não era inevitável só por força da física.
+
+Era inevitável porque alguém além de Caim queria que acontecesse.
+
+Você abriu o caderno:
+
+_alguém está comprando o fim do mundo._
+_e não é Caim._
+
+---
+
+> _Fim da Parte XIV. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que

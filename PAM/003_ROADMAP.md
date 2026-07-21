@@ -6,21 +6,22 @@
 
 ## Status dos Arcos
 
-| Parte | Arco | Caps | Tensão central | Status |
-|---|---|---|---|---|
-| **I** | O Primeiro Dia | 1–5 | O que é a ADI? O voto é real? | ✅ fechado |
-| **II** | O Luto | 6–11 | Quem lucra com a morte do irmão? | ✅ fechado |
-| **III** | A Rotina | 12–14 | Sobreviver sabendo o que sabe | ✅ fechado |
-| **IV** | O Júri | 15 | O que vale a absolvição que não muda nada? | ✅ fechado |
-| **V** | O Barulho | 16–17 | Resistência tem preço? | ✅ fechado |
-| **VI** | A Casa | 18–19 | Todo mundo tem um preço — e o seu? | ✅ fechado — o Não foi dito |
-| **VII** | O Fio | 20–22 | O que é o porto? Quem está por trás? | ✅ fechado — abre VIII |
-| **VIII** | O Porto | 23–25 | Quem é Caim? O que é o evento final? | 🟡 base estabelecida |
-| **IX** | A Caça | 26–28 | Por que Você está em "monitorar"? | 🔴 arco vivo |
-| **X** | A Armadilha | 29–30 | A saída existe? Caim preso pelo próprio sistema | 🔴 aberto |
-| **XI** | O Físico | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal | 🔴 aberto — mitologia na borda |
-| **XII** | O Movimento | 33 | Você toma a primeira ação ofensiva | ✅ fechado — abre XIII |
-| **XIII** | O Limiar | 34–36 | O preço de cada assento no porto | 🔵 iniciado |
+| Parte    | Arco           | Caps  | Tensão central                                  | Status                         |
+| -------- | -------------- | ----- | ----------------------------------------------- | ------------------------------ |
+| **I**    | O Primeiro Dia | 1–5   | O que é a ADI? O voto é real?                   | ✅ fechado                     |
+| **II**   | O Luto         | 6–11  | Quem lucra com a morte do irmão?                | ✅ fechado                     |
+| **III**  | A Rotina       | 12–14 | Sobreviver sabendo o que sabe                   | ✅ fechado                     |
+| **IV**   | O Júri         | 15    | O que vale a absolvição que não muda nada?      | ✅ fechado                     |
+| **V**    | O Barulho      | 16–17 | Resistência tem preço?                          | ✅ fechado                     |
+| **VI**   | A Casa         | 18–19 | Todo mundo tem um preço — e o seu?              | ✅ fechado — o Não foi dito    |
+| **VII**  | O Fio          | 20–22 | O que é o porto? Quem está por trás?            | ✅ fechado — abre VIII         |
+| **VIII** | O Porto        | 23–25 | Quem é Caim? O que é o evento final?            | 🟡 base estabelecida           |
+| **IX**   | A Caça         | 26–28 | Por que Você está em "monitorar"?               | 🔴 arco vivo                   |
+| **X**    | A Armadilha    | 29–30 | A saída existe? Caim preso pelo próprio sistema | 🔴 aberto                      |
+| **XI**   | O Físico       | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal    | 🔴 aberto — mitologia na borda |
+| **XII**  | O Movimento    | 33    | Você toma a primeira ação ofensiva              | ✅ fechado — abre XIII         |
+| **XIII** | O Limiar       | 34–36 | O preço de cada assento no porto                | ✅ fechado — abre XIV          |
+| **XIV**  | A Célula       | 37–38 | A resistência se forma. O offshore compra assentos | 🔵 iniciado                 |
 
 ---
 
@@ -42,6 +43,7 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 ## Pontas Soltas
 
 ### 🔴 Urgentes
+
 - [x] **🚬 Senhora de preto** — ✅ Cap. 35. Era da lista B (servidores com promessa de embarque).
       Perdeu o assento há 6 semanas. Tem o documento "Pré-evento — 1".
 - [x] **⛏️ O coveiro** — ✅ Cap. 34. Viu o corpo antes da polícia. Chamado feito às 22h09,
@@ -51,8 +53,10 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 - [ ] **A filha do faxineiro** — deu o fichário e foi. Está segura? O 0002 sabe que ela existe?
 
 ### 🟡 Importantes
-- [ ] **??? Offshore SIM** — meta DESCONHECIDA. Herdeiros de Göttingen? Governo secreto?
-      Uma quarta força? Estão acelerando a mola por conta própria.
+
+- [x] **??? Offshore SIM** — ✅ Identidade parcial revelada (Cap. 38): comprou os 89 assentos
+      devolvidos da lista B. Prefixo `X.` nas contas. Sabe o que vem depois do SIM ganhar.
+      Quer estar no porto pra ver. Não é aliado — é um terceiro interesse.
 - [ ] **A segunda lista** — funcionários do governo com embarque prometido, em lista
       separada que ninguém encontrou ainda.
 - [x] **O tabelião** — ✅ Cap. 36.
@@ -60,6 +64,7 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
       e na pedra marcadora da costa (Cap. 33). É mais antigo que Caim. O que é?
 
 ### 🟢 Menores (fecháveis em aprofundamento)
+
 - [ ] **💼 O trader** — entrada 412. Único dos 847 que sabe que está na lista. Reaparece?
 - [ ] **O nome do irmão** — revelado no Cap. 14. Sendo dito em voz alta nos velórios.
       Isso tem consequência narrativa ainda não fechada?
@@ -100,21 +105,22 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 
 ## Personagens — Posição Atual
 
-| Marca | Personagem | Última aparição | Status |
-|---|---|---|---|
-| 🩶 | Você | Cap. 36 | Ativo |
-| 🕯️ | O irmão | Cap. 14 | Morto — caso #4471-B |
-| 🖤 | A mãe | Cap. 27 | Em casa — ameaçada |
-| ⛏️ | O coveiro | Cap. 34 | ✅ Fechado — deu o cartão com a ampulheta |
-| 🚬 | A senhora de preto | Cap. 35 | ✅ Fechada — tem doc "Pré-evento — 1" |
-| 💼 | O trader | Cap. 25 (lista) | Entrada 412 — aguardando embarque |
-| 🧹 | O faxineiro | Cap. 26 | Morto — Evento Tipo II |
-| 🤍 | A mulher da Casa | Cap. 30 | Morta — Evento Tipo IV |
-| 🏛️ | A Casa / Caim | Cap. 32 (documento) | Vivo — aguardando o evento |
-| 🎲 | ADI Predictstreet | Constante | SIM em 43,2% e subindo |
-| ⚙️ | Executor / 0002 | Cap. 30 | Ativo — monitorando Você |
-| — | Tabelião | Cap. 36 | ✅ Cap. 36 |
-| — | Filha do faxineiro | Cap. 31 | Status: desconhecido |
+| Marca | Personagem         | Última aparição     | Status                                    |
+| ----- | ------------------ | ------------------- | ----------------------------------------- |
+| 🩶    | Você               | Cap. 38             | Ativo — lidera a célula                   |
+| 🕯️    | O irmão            | Cap. 14             | Morto — caso #4471-B                      |
+| 🖤    | A mãe              | Cap. 27             | Em casa — ameaçada                        |
+| ⛏️    | O coveiro          | Cap. 34             | ✅ Fechado — deu o cartão com a ampulheta |
+| 🚬    | A senhora de preto | Cap. 37–38          | Na célula — mapas internos do CLV         |
+| 💼    | O trader           | Cap. 25 (lista)     | Entrada 412 — aguardando embarque         |
+| 🧹    | O faxineiro        | Cap. 26             | Morto — Evento Tipo II                    |
+| 🤍    | A mulher da Casa   | Cap. 30             | Morta — Evento Tipo IV                    |
+| 🏛️    | A Casa / Caim      | Cap. 32 (documento) | Vivo — no porto, aguardando               |
+| 🎲    | ADI Predictstreet  | Cap. 38             | SIM em 45%+ e subindo                     |
+| ⚙️    | Executor / 0002    | Cap. 30             | Ativo — sem instrução atualizada          |
+| —     | Tabelião           | Cap. 37–38          | Na célula — trilha legal dos 847          |
+| —     | Filha do faxineiro | Cap. 37–38          | Na célula — física + diagrama             |
+| —     | Offshore X.        | Cap. 38             | 89 assentos comprados — terceiro interesse|
 
 ---
 
