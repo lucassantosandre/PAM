@@ -1213,6 +1213,177 @@ Era pior.
 
 ---
 
+### PARTE XI — O Físico
+
+#### Capítulo XXXI — A Filha
+
+> _Quatro dias depois — uma padaria no centro, manhã (BRT)._
+
+O número chegou sem apresentação:
+
+_Meu pai era o faxineiro. Ele deixou coisas pra você encontrar — e coisas pra mim guardar.
+Podemos conversar._
+
+Você foi.
+
+Ela tinha uns vinte e cinco anos. Cabelo preso, caneta enfiada no coque — o tipo de detalhe
+que fica quando a pessoa não tem tempo ou vontade de tirar. Mesa de canto. Um café que ela não
+tinha tocado. Um fichário de folhas impressas com o nome das seções à vista.
+
+O pai tinha recolhido documentos por vinte anos. Papel que virava lixo nos prédios onde
+trabalhava. Pendrive que caía no corredor. Folhas que saíam das impressoras e sumiam atrás das
+máquinas. Vinte anos de material que ele não entendia mas sabia ser importante.
+
+Ela entendia.
+
+— Meu pai era faxineiro. Eu sou doutoranda em física estatística — ela disse, sem orgulho e
+sem desculpa, como um dado. — Quando ele me mostrou os papéis mais velhos, reconheci o
+problema.
+
+Ela abriu o fichário. Primeira folha: cópia de um artigo técnico. Cabeçalho: _Instituto de
+Pesquisa em Sistemas Complexos — documento de circulação interna._ Data: quarenta anos atrás.
+Autor: **C.F.**
+
+— Quarenta anos atrás esse homem publicou internamente a prova matemática de que medo coletivo
+é uma quantidade termodinâmica. Mensurável. Com entropia própria.
+
+Ela virou a folha. Uma equação ocupava o centro da página:
+
+$$H_{\text{medo}}(t) = -k \sum_{i=1}^{N} p_i(t) \ln p_i(t)$$
+
+— $p_i$ é a probabilidade de cada pessoa votar SIM num dado instante. Quando o medo aumenta,
+a distribuição se concentra — menos escolhas reais, mais certeza coletiva num único destino.
+A entropia $H$ cai. E o que acontece com um sistema comprimido?
+
+— Acumula energia.
+
+— Exato. O medo coletivo não se dissipa. Ele carrega. Cada voto NÃO não alivia o sistema —
+aperta mais. É uma mola. A ADI não é uma plataforma de apostas.
+
+Ela pausou.
+
+— É um instrumento de compressão.
+
+Ela virou outra folha. Um diagrama de bifurcação — um rio que se divide em dois, como nos
+livros de sistemas caóticos.
+
+— Prigogine. Quando um sistema dissipativo é forçado longe do equilíbrio, chega num ponto de
+bifurcação: colapsa ou se reorganiza num nível de ordem superior. C.F. prova que o sistema de
+medo coletivo tem um limiar $H_{crit}$ abaixo do qual a bifurcação é inevitável:
+
+$$\frac{dH_{\text{medo}}}{dt} < 0 \implies \exists\, t^* :\; \text{bifurcação}$$
+
+— O evento final — você disse.
+
+— O nome dele pra isso, sim.
+
+Silêncio.
+
+Ela fechou o fichário. Empurrou na sua direção.
+
+— Meu pai não sabia o que carregava. Dois dias antes de morrer me mandou uma mensagem: _"Guarda
+os papéis velhos. O mais importante não é o drive — é o artigo do CF. Quarenta anos atrás. É
+onde ele escreve o que quer de verdade."_
+
+Ela se levantou.
+
+— O sistema não vai parar porque alguém descobriu. Vai parar quando alguém entender o que está
+acelerando — e conseguir fazer o contrário.
+
+Ela foi embora sem olhar pro café.
+
+Você ficou com o fichário. Lá fora, a cidade votava NÃO com medo de morrer.
+
+E cada NÃO apertava mais a mola.
+
+---
+
+#### Capítulo XXXII — O Documento CF
+
+> _No mesmo dia — seu quarto, de madrugada (BRT)._
+
+Você abriu o drive de novo.
+
+Tinha uma pasta que não tinha tocado. O nome em caixa alta, com ponto de exclamação:
+
+`!CF_PESSOAL — NÃO DISTRIBUA`
+
+Dentro: um único arquivo de texto. Sem data. Sem título.
+
+---
+
+> _Escrevo isso pra ninguém em particular. Ou pra quem encontrar depois. Tanto faz._
+>
+> _Eu era físico antes de ser qualquer outra coisa. Continuo sendo._
+>
+> _O que descobri não foi um esquema. Descobri uma lei. O medo humano coletivo obedece às
+> mesmas equações de um gás sob pressão. Isso não é metáfora. É mensuração._
+>
+> _Não inventei isso. Encontrei._
+>
+> _O que fiz foi construir um instrumento de medição — e, como qualquer bom instrumento, ele
+> interfere no que mede. Toda observação tem custo. Heisenberg sabia._
+>
+> _Como o sistema produz valor:_
+>
+> _Cada contrato de validação tem taxa base $\alpha$. C. Fundo retém fração $\theta$ antes do
+> repasse ao credor habilitado:_
+>
+> $$V_{\text{CF}} = \sum_{j=1}^{M} \theta_j \cdot \alpha_j \cdot D_j$$
+>
+> _onde $D_j$ é o valor da dívida validada no evento $j$, $M$ o total de eventos no período.
+> Em doze anos de mesa: $M > 40.000$. Isso é operação. O experimento é outra coisa._
+>
+> _A posição SIM mantida há 38 anos não é especulação. É a aposta do observador no próprio
+> experimento. Quando o evento crítico ocorrer, a posição executa. O valor financeiro não
+> importa. O valor é prova._
+>
+> _O que a bifurcação libera:_
+>
+> _A Peste Negra foi uma bifurcação. A Segunda Guerra foi uma bifurcação. Cada vez, o sistema
+> humano sobreviveu — reorganizado, diferente. O material que não atravessa a bifurcação não
+> desaparece: é o custo energético da reorganização. Necessário._
+>
+> _Não escolhi quem é o material. O sistema escolhe. Historicamente, sempre os mesmos: os que
+> têm dívida sem saída, os que apostam contra si mesmos porque não enxergam alternativa, os
+> que funcionam como válvula de escape da pressão acumulada. Negros. Pobres. Desesperados.
+> Endividados. Registrei isso. Não porque me importa moralmente — não me importa — mas porque
+> é dado. O experimento não tem posição ética. Tem posição metodológica._
+>
+> _Por que estou saindo:_
+>
+> _Não porque temo o evento. Porque quero observá-lo de fora. Um físico dentro do sistema
+> quando ele bifurca não produz dados — vira dado. Prefiro o segundo._
+>
+> _O porto é o laboratório de controle. Os 847 são a amostra que atravessa a bifurcação por
+> escolha, não por seleção natural. O experimento vai terminar. Sempre termina._
+>
+> _Eu não destruí nada. Eu encontrei o que já estava aqui, coloquei numa planilha, e esperei.
+> O mundo vai se destruir sozinho — como sempre fez. Eu só construí uma saída._
+>
+> _— CF_
+
+---
+
+Você fechou o arquivo. Ficou parado no escuro do quarto.
+
+O celular vibrou.
+
+> 🌍 **O MUNDO SERÁ DESTRUÍDO EM 24 HORAS.**
+> **SIM** — Todo mundo morre · **NÃO** — Todo mundo vive
+>
+> _Votação atual: SIM 43,2% · NÃO 56,8%_
+
+Era a maior porcentagem de SIM que você tinha visto.
+
+A mola estava apertando.
+
+---
+
+> _Fim da Parte XI. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
@@ -1576,6 +1747,89 @@ Ele dobrou os dois juntos. Colocou no bolso interno do paletó. Não na gaveta �
 De pé, segurando a barra, pensou: em doze anos de mesa, nunca tinha levado nada pra casa.
 
 Hoje levou.
+
+---
+
+### Expansões do Capítulo XXXI — A Filha
+
+#### 31.1 — O Tabuleiro 🔎
+
+> _[Estado das forças — onde cada peça está, o que cada uma quer, o que nenhuma sabe sobre as
+> outras]_
+
+```mermaid
+graph TD
+    CAIM["Caim — C. Fundo
+meta: evento final → éxodo
+aposta: SIM há 38 anos"]
+    ADI["ADI Predictstreet
+instrumento de medição e extração"]
+    F1["Família 1 — rastreamento de dívida
+meta: NÃO perpétuo"]
+    F2["Família 2 — execução e testemunho
+meta: NÃO perpétuo"]
+    F3["Família 3 — Casa
+meta: sobreviver
+colateral de Caim"]
+    GOV["Governo
+taxa 25% por evento validado
+posição: ambígua"]
+    OFS["??? — Offshore SIM
+apostas maciças em SIM diariamente
+meta: DESCONHECIDA"]
+    TRADER["Trader — entrada 412
+embarque confirmado
+meta: sair"]
+    TABEL["Tabelião
+opera dentro da Família 1
+posição: acordando"]
+    VOCE["Você
+erro de cálculo
+tem os documentos"]
+
+    CAIM -->|"criou e controla"| ADI
+    CAIM -->|"comprou dívida de"| F3
+    CAIM -.->|"financia? — incerto"| OFS
+    F1 -->|"valida eventos"| ADI
+    F2 -->|"executa eventos"| ADI
+    F3 -->|"vota no Conselho"| ADI
+    GOV -->|"arrecada de"| ADI
+    TRADER -->|"confirmado para porto"| CAIM
+    TABEL -.->|"opera dentro de"| F1
+    VOCE -.->|"tem documentos de"| CAIM
+    OFS -->|"apostas crescentes"| ADI
+```
+
+**O que cada facção sabe — e não sabe:**
+
+**Caim:** Sabe tudo sobre o sistema que construiu. Não sabe que o grupo offshore SIM existe
+independente dele. Não sabe que Você ainda está vivo com o documento CF.
+
+**Famílias 1 e 2:** Querem o NÃO perpétuo — a máquina é mais lucrativa em operação contínua
+do que numa bifurcação única. São adversários funcionais de Caim dentro do Conselho, mas
+acreditam que C. Fundo quer o mesmo que elas. Nunca souberam o objetivo real.
+
+**Família 3 / Casa:** Colateral. Sem escolha. A entrada 433 está vaga. Quem herda a cadeira
+no Conselho — e o que essa pessoa já sabe — ainda não está definido.
+
+**Governo:** Taxa o sistema. Alguns funcionários têm promessa de embarque — mas não estão
+nos 847. Estão numa segunda lista que ninguém encontrou ainda.
+
+**??? — Offshore SIM:** Apostas maciças em SIM desde antes da ADI ter essa escala. Perdem
+intencionalmente todo dia. Não é lucro que buscam — é velocidade. Estão acelerando a
+compressão da mola por conta própria. Se têm relação com Caim, se querem o mesmo evento por
+motivos diferentes, ou se querem o evento pra chegar primeiro ao que ele libera: desconhecido.
+
+**Trader:** Mercenário. Tem embarque garantido, não tem lealdade. É o único dos 847 que sabe
+que está na lista. Os outros 846 não sabem.
+
+**Tabelião:** Está dentro da Família 1 como peça operacional sem saber que a Família 1 existe
+como facção. Tem dois documentos no bolso. É a única pessoa no sistema que tem dados suficientes
+para conectar o irmão ao CLV de 38 anos atrás — mas ainda não conectou.
+
+**Você:** Tem os documentos, as coordenadas, o rosto do assento 0002, o artigo de CF, o
+fichário da filha do faxineiro. Não tem aliados vivos. É a única variável que o experimento de
+Caim não modelou — porque Caim não acreditava que um _Não_ sem preço era possível.
 
 ---
 
