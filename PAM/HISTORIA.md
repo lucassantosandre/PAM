@@ -1781,7 +1781,7 @@ Hoje levou.
 
          ┌──────────────────────────────────────────────────┐
          │       ADI Predictstreet  ·  Governo              │  instrumento + arrecadação
-         │       produto, não experimento                    │  posição ambígua
+         │       produto, não experimento                   │  posição ambígua
          └──────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
