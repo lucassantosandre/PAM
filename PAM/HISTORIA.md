@@ -2,7 +2,7 @@
 
 > _Um mundo onde é possível apostar em tudo — inclusive no próprio fim._
 
-> **Referência:** [PERSONAGENS.md](PERSONAGENS.md) | [FUNDAMENTOS.md](FUNDAMENTOS.md) | [DEMONSTRACAO.md](DEMONSTRACAO.md) | [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md)
+> **Referência:** [ROADMAP.md](ROADMAP.md) | [FUNDAMENTOS.md](FUNDAMENTOS.md) | [DEMONSTRACAO.md](DEMONSTRACAO.md) | [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md)
 
 ---
 
@@ -71,7 +71,7 @@ Esta história é a prova dessa tese, levada ao limite. A versão completa está
 
 ## PERSONAGENS
 
-_Perfis completos em [PERSONAGENS.md](PERSONAGENS.md). Ninguém tem nome — todos por função,
+_Perfis completos em [ROADMAP.md](ROADMAP.md). Ninguém tem nome — todos por função,
 como o sistema os vê. A marca (🩶, 🖤, ⛏️…) aparece **só na primeira entrada** de cada um._
 
 | Marca | Personagem         | Entra em           |

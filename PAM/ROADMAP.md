@@ -100,21 +100,143 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 
 ## Personagens — Posição Atual
 
-| Personagem | Última aparição | Status |
-|---|---|---|
-| 🩶 Você | Cap. 33 | Ativo — foi às coordenadas |
-| 🕯️ O irmão | Cap. 14 | Morto — caso #4471-B |
-| 🖤 A mãe | Cap. 27 | Em casa — ameaçada |
-| ⛏️ O coveiro | Parte II | 🔴 ponta solta |
-| 🚬 A senhora de preto | Parte II | 🔴 ponta solta |
-| 💼 O trader | Cap. 25 (lista) | Entrada 412 — aguardando embarque |
-| 🧹 O faxineiro | Cap. 26 | Morto — Evento Tipo II |
-| 🤍 A mulher da Casa | Cap. 30 | Morta — Evento Tipo IV |
-| 🎲 ADI Predictstreet | Constante | SIM em 43,2% e subindo |
-| ⚙️ Executor / 0002 | Cap. 30 | Ativo — monitorando Você |
-| Caim / C. Fundo | Cap. 32 (documento) | Vivo — aguardando o evento |
-| Tabelião | Cap. 30.1 | Acordando — documentos no bolso |
-| Filha do faxineiro | Cap. 31 | Status: desconhecido |
+| Marca | Personagem | Última aparição | Status |
+|---|---|---|---|
+| 🩶 | Você | Cap. 33 | Ativo — foi às coordenadas |
+| 🕯️ | O irmão | Cap. 14 | Morto — caso #4471-B |
+| 🖤 | A mãe | Cap. 27 | Em casa — ameaçada |
+| ⛏️ | O coveiro | Parte II | 🔴 ponta solta |
+| 🚬 | A senhora de preto | Parte II | 🔴 ponta solta |
+| 💼 | O trader | Cap. 25 (lista) | Entrada 412 — aguardando embarque |
+| 🧹 | O faxineiro | Cap. 26 | Morto — Evento Tipo II |
+| 🤍 | A mulher da Casa | Cap. 30 | Morta — Evento Tipo IV |
+| 🏛️ | A Casa / Caim | Cap. 32 (documento) | Vivo — aguardando o evento |
+| 🎲 | ADI Predictstreet | Constante | SIM em 43,2% e subindo |
+| ⚙️ | Executor / 0002 | Cap. 30 | Ativo — monitorando Você |
+| — | Tabelião | Cap. 30.1 | Acordando — documentos no bolso |
+| — | Filha do faxineiro | Cap. 31 | Status: desconhecido |
+
+---
+
+## Perfis de Personagem
+
+### 🩶 Você (o narrador)
+
+Segunda pessoa invariável. Jovem, classe trabalhadora, mora com a mãe. Votou NÃO no
+primeiro dia (Cap. 3) e carrega isso. Perde o irmão na mesma noite.
+
+**Arco:** Culpa → Entendimento → Recusa → Barulho → Descoberta → Movimento
+
+A única coisa que Você tem que o sistema não consegue precificar: o nome do irmão e a
+voz pra contá-lo. Única variável que o experimento de Caim não modelou — porque Caim
+não acreditava que um _Não_ sem preço era possível.
+
+---
+
+### 🕯️ O irmão
+
+Nome revelado somente no Cap. 14 — deixado em branco porque o sistema o apagou como
+"evento de mercado". Jogador compulsivo, afogado em dívida. Apostou toda a dívida no
+SIM tentando quitar tudo de uma vez. A máquina fechou a conta dele com o dinheiro dele.
+
+Aparece vivo, sem nome, no Aprofundamento 2.4 (4h antes da bala).
+
+---
+
+### 🖤 A mãe
+
+Âncora moral. Tem clareza que não precisa de teoria. Frase central (Cap. 11):
+_"A culpa tem endereço, e não é esse quarto."_
+
+---
+
+### ⛏️ O coveiro
+
+Magro, ~50 anos, debochado e lúcido. Enterrou três, quatro por semana pelo sistema.
+A voz do sistema visto de baixo — sem romantismo, sem ilusão.
+**🔴 Ponta solta desde Parte II.** O que ele viu que liga ao caso #4471-B?
+
+---
+
+### 🚬 A senhora de preto
+
+Aparece uma vez no velório. Cala quem fofoca sobre o valor da aposta na frente do
+caixão. O único gesto de dignidade num ambiente de hipocrisia.
+**🔴 Ponta solta desde Parte II.** Conexão com as Famílias?
+
+---
+
+### 💼 O trader
+
+Profissional numa sala a 18°C. O modelo dele lê milhares de julgamentos por dia e faz
+uma conta: quando a família é pobre, a indignação não tem capital pra sustentar o lado
+certo. Entrada 412 na lista dos 847. **Único dos 847 que sabe que está na lista.**
+_"Emoção não move o preço. Dinheiro move."_
+
+---
+
+### 🧹 O faxineiro
+
+Invisível por design — a Casa esqueceu que quem limpa vê tudo. Trouxe três entregas
+de documentos (Caps. 20–24). Morreu como Evento de Mercado Tipo II.
+Deixou mensagem para a filha: _"o mais importante não é o drive — é o artigo do CF."_
+
+---
+
+### 🤍 A mulher da Casa
+
+Terno claro, voz macia. A emissária. Fez a oferta (Caps. 18–19), foi recusada.
+Revelou que era colateral de Caim — entrada 433, família 3. Morreu como Evento
+Tipo IV (Cap. 30). _"Já compramos o depois."_
+
+---
+
+### 🏛️ A Casa / Caim / C. Fundo
+
+Fundador do CLV (38 anos atrás). Físico. Descobriu o Algoritmo de Baal — que medo
+coletivo é quantidade termodinâmica — e construiu a ADI como instrumento de medição.
+Posição SIM desde antes da ADI existir. Os 847 são sua amostra de controle para
+atravessar a bifurcação. O porto na costa nordeste é a saída.
+_"Eu não destruí nada. Eu encontrei o que já estava aqui."_
+
+---
+
+### 🎲 ADI Predictstreet
+
+A empresa. Instrumento de medição e extração. Dossiê completo em
+[investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md).
+
+---
+
+### ⚙️ Executor — Assento 0002
+
+Cabelos brancos, camisa de botão, rosto de ninguém. Remove nomes da lista e do mundo
+pela mesma caneta. Foto obtida por Você (Cap. 28). Mandou prova de presença (Cap. 30)
+em vez de encerrar. Você está em "monitorar — não encerrar" — ainda tem valor vivo.
+
+---
+
+### Tabelião (sem emoji — personagem Jairo)
+
+Doze anos de mesa, garrafa térmica, metrô às 17h22. Validou o caso #4471-B como
+LIQUIDADO — Evento Tipo IV. Pela primeira vez levou documentos pra casa (Cap. 30.1).
+Está notando padrões que não devia notar. **O aliado inesperado do arco final.**
+
+---
+
+### Filha do faxineiro (sem emoji — status aberto)
+
+Doutoranda em física estatística. Trouxe o artigo de CF de 40 anos atrás e explicou
+o Algoritmo de Baal (Cap. 31). Deu o fichário e foi embora. O 0002 sabe que ela existe?
+
+---
+
+## Regras de Emoji no Texto
+
+1. O emoji aparece **uma vez** — no primeiro momento de peso do personagem na cena
+2. **Nunca a cada menção** — se o coveiro aparece 5 vezes no capítulo, ⛏️ só na entrada
+3. Emojis de notificação (🌍 💀 ⚖️ ⛏️ 🔴 🩸 ⚽) — **somente dentro de blocos `>`** (telas de celular)
+4. Personagem novo: escolher emoji **não listado** na tabela acima
 
 ---
 
