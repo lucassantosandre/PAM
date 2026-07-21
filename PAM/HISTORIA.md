@@ -1103,6 +1103,116 @@ Agora você tinha o rosto.
 
 ---
 
+### PARTE X — A Armadilha
+
+#### Capítulo XXIX — O Experimento Original
+
+> _Dois dias depois — arquivo do cartório central, tarde (BRT)._
+
+Você passou três horas no arquivo. Não foi difícil — foi lento. Registros de consórcios privados
+de 38 anos atrás existiam em papel, indexados por inicial do fundador e data de abertura.
+
+Pediu tudo com inicial C. no período correto.
+
+Dezoito resultados. Dezesseis irrelevantes. Um era uma corretora dissolvida.
+
+O décimo oito: **Consórcio de Liquidez Vital — C. Fundo, fundador.** Data: trinta e oito anos
+atrás, março.
+
+Pediu a pasta completa. A atendente foi buscar sem perguntar nada.
+
+O documento fundador tinha duas páginas. Linguagem técnica, objeto social registrado como
+_gestão de risco em contratos de dívida pessoal de alto risco._ Na época, antes de qualquer
+regulação de apostas existenciais, chamava-se _liquidez emocional_: o credor comprava o risco
+de inadimplência. Se o devedor morria antes de pagar, o consórcio recebia o seguro vinculado.
+Se pagava, recebia a diferença de correção.
+
+Em qualquer resultado, recebia.
+
+Mas a primeira linha do parágrafo de objeto social não era linguagem técnica:
+
+_"O medo é o ativo mais renovável do mundo."_
+
+Na margem do segundo parágrafo, à mão, na mesma tinta de caneta-tinteiro que você tinha visto
+na anotação do fundo da lista:
+
+_"Quando der certo, ir embora."_
+
+Você ficou parado.
+
+Não era plano de fuga. Era expectativa de sucesso. Ele abriu o consórcio achando que ia
+funcionar, ganhar e terminar. Em cinco anos. Dez. Depois iria embora.
+
+Trinta e oito anos depois, o consórcio tinha virado a ADI Predictstreet, a maior plataforma
+de apostas existenciais do mundo, o Conselho de Validade processava doze casos por semana, e o
+experimento não tinha terminado.
+
+Deu certo demais pra ele conseguir sair.
+
+Você devolveu a pasta. Saiu pela porta lateral.
+
+Na calçada, escreveu no caderno:
+
+_ele não construiu uma armadilha pro mundo. construiu uma armadilha pra si mesmo._
+
+---
+
+#### Capítulo XXX — Entrada 433
+
+> _Na manhã seguinte — sua casa (BRT)._
+
+A notificação chegou às sete e trinta. Não era da ADI.
+
+Portal de notícias — um que você tinha configurado pra rastrear endereços específicos. O nome
+dela não estava nos termos. Mas o endereço estava.
+
+_Mulher encontrada em apartamento. Zona sul. Parada cardíaca. Cinquenta e um anos._
+
+Você abriu a foto da matéria.
+
+Era ela.
+
+🤍 O terninho bege estava dobrado numa cadeira. O celular virado pra baixo na mesa — o gesto
+dela, de quem se acostumou a nunca deixar tela pra cima. A foto era do corredor, tirada antes
+do isolamento, mas você reconhecia o corredor.
+
+Cinquenta e um anos. Parada cardíaca. Entrada 433. Família três.
+
+_Monitorar — não encerrar_ tinha prazo. Você não sabia qual era. Agora sabia que tinha passado.
+
+Você foi até a praça mesmo assim. Não sabia por quê — o banco de pedra não tinha nada, ela
+não ia estar lá. Mas foi.
+
+Ficou sentado onde ela tinha sentado. Celular virado pra baixo na pedra entre os dois, que
+agora era só você.
+
+No caderno: _ela tinha medo. é diferente de ser aliada. mas era o que havia._
+
+Ficou um tempo assim.
+
+Quando levantou, uma mensagem tinha chegado. Número desconhecido. Sem texto.
+
+Só uma foto.
+
+Você na praça. Naquele banco. Naquele instante — tirada de longe, de um ângulo alto, qualidade
+que não era de celular.
+
+No canto da imagem, desfocado mas visível no reflexo de uma vitrine do outro lado da rua:
+cabelos brancos. Camisa de botão. Rosto de ninguém.
+
+O assento 0002. Ele estava ali quando você estava. Ele sabia que você sabia. E você sabia agora
+que ele sabia que você sabia.
+
+Ele não mandou ameaça. Não mandou prazo. Mandou prova de presença.
+
+Era pior.
+
+---
+
+> _Fim da Parte X. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
@@ -1384,6 +1494,88 @@ _dentro do previsto._ Porque estava.
 O terceiro nome estava em campo. Visível. Movendo-se.
 
 E ele era paciente.
+
+---
+
+### Expansões do Capítulo XXIX — O Experimento Original
+
+#### 29.1 — O Carimbo de Março 🔎
+
+> _Trinta e oito anos antes — um cartório no centro, tarde de quinta-feira._
+
+A moça do balcão tinha entrado na função dois meses antes. Ainda aprendia o índice dos arquivos.
+
+O homem chegou às 15h40 — fora do horário de pico, quando o atendimento ficava mais tranquilo.
+Terno escuro. Pasta de couro. Falou baixo, sem pressa.
+
+Queria registrar um consórcio privado. Ela conhecia o formulário: objeto social, capital inicial,
+nome do fundador.
+
+— Nome do fundador?
+
+— C. Fundo — ele disse.
+
+Ela parou. Perguntou se era nome jurídico ou alias registrado.
+
+— Alias registrado — ele disse. — Pode verificar no protocolo 7 do cartório regional.
+
+Ela não verificou. Não era incomum — algumas empresas operavam com razão social de alias.
+
+Carimbou. Arquivou. Entregou a segunda via.
+
+Ele agradeceu com uma inclinação de cabeça — não um cumprimento, só um reconhecimento — e
+saiu.
+
+Ela não ficou pensando nele. Tinha mais três registros na fila e a garrafa de água estava
+acabando.
+
+O formulário foi pro arquivo. O consórcio ficou ativo. A moça trocou de emprego dois anos
+depois, se casou, mudou de cidade, teve filhos, viveu uma vida inteira que não tinha nada a ver
+com aquele carimbo de uma quinta-feira à tarde.
+
+O homem pagou a taxa em espécie, pediu que o fundador ficasse listado pelo alias, e foi embora.
+
+Ela nunca soube o nome de verdade dele. O formulário não perguntava.
+
+---
+
+### Expansões do Capítulo XXX — Entrada 433
+
+#### 30.1 — A Certidão 📍
+
+> _A mesma semana — a sala sem identificação, segunda-feira (BRT)._
+
+O caso estava no segundo lugar da lista.
+
+Evento de Mercado Tipo IV — o mais grave da tabela. Em doze anos de mesa, o tabelião tinha
+visto oito casos Tipo IV. Não era rotina. Era exceção dentro da rotina.
+
+O nome no caso ele não reconheceu. Mas o endereço sim.
+
+Zona sul. O bairro que tinha anotado pra si mesmo semanas atrás, quando processou o formulário
+com a nota _"Entrega concluída. Encerrar rastreamento."_
+
+Olhou de novo. Credor: _C. Fundo — representação permanente._
+
+O mesmo.
+
+Válido. Válido. Válido. Válido. Carimbou.
+
+No intervalo, abriu a gaveta pequena no canto da sala — a que era só sua. Tirou a folha que
+tinha guardado semanas atrás. A cópia do formulário com a nota estranha.
+
+Colocou os dois na frente. O formulário antigo. A certidão nova. Credor igual. Tipo igual.
+Endereço que cruzava. Padrão que ninguém tinha pedido que ele notasse.
+
+Não era prova de nada. Era coincidência demais pra ser só coincidência.
+
+Ele dobrou os dois juntos. Colocou no bolso interno do paletó. Não na gaveta — no bolso.
+
+Às 10h30 a mesa encerrou. Ele pegou o metrô.
+
+De pé, segurando a barra, pensou: em doze anos de mesa, nunca tinha levado nada pra casa.
+
+Hoje levou.
 
 ---
 
