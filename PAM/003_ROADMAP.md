@@ -19,7 +19,8 @@
 | **IX** | A Caça | 26–28 | Por que Você está em "monitorar"? | 🔴 arco vivo |
 | **X** | A Armadilha | 29–30 | A saída existe? Caim preso pelo próprio sistema | 🔴 aberto |
 | **XI** | O Físico | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal | 🔴 aberto — mitologia na borda |
-| **XII** | O Movimento | 33–? | Você toma a primeira ação ofensiva | 🔵 iniciado |
+| **XII** | O Movimento | 33 | Você toma a primeira ação ofensiva | ✅ fechado — abre XIII |
+| **XIII** | O Limiar | 34–36 | O preço de cada assento no porto | 🔵 iniciado |
 
 ---
 
@@ -41,10 +42,10 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 ## Pontas Soltas
 
 ### 🔴 Urgentes
-- [ ] **🚬 Senhora de preto** — apareceu nos velórios quando Você começou a falar. Sumiu.
-      É da Família 2? Monitora por conta própria? Nunca voltou.
-- [ ] **⛏️ O coveiro** — sabe algo sobre o caso do irmão. Plantado em Parte II, nunca
-      revisitado depois. O que ele viu?
+- [x] **🚬 Senhora de preto** — ✅ Cap. 35. Era da lista B (servidores com promessa de embarque).
+      Perdeu o assento há 6 semanas. Tem o documento "Pré-evento — 1".
+- [x] **⛏️ O coveiro** — ✅ Cap. 34. Viu o corpo antes da polícia. Chamado feito às 22h09,
+      morte só às 22h47. Guardou o cartão com ampulheta que o executor deixou cair.
 - [ ] **Assento 433 vago** — mulher da Casa morta. Quem assume a cadeira no Conselho?
       O que a nova pessoa já sabe?
 - [ ] **A filha do faxineiro** — deu o fichário e foi. Está segura? O 0002 sabe que ela existe?
@@ -54,8 +55,7 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
       Uma quarta força? Estão acelerando a mola por conta própria.
 - [ ] **A segunda lista** — funcionários do governo com embarque prometido, em lista
       separada que ninguém encontrou ainda.
-- [ ] **O tabelião** — dois documentos no bolso. Primeira vez que levou algo pra casa.
-      Quando e como cruza com Você?
+- [x] **O tabelião** — ✅ Cap. 36.
 - [ ] **O símbolo da ampulheta** — apareceu no cartão deixado na casa da mãe (Cap. 27)
       e na pedra marcadora da costa (Cap. 33). É mais antigo que Caim. O que é?
 
@@ -102,18 +102,18 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 
 | Marca | Personagem | Última aparição | Status |
 |---|---|---|---|
-| 🩶 | Você | Cap. 33 | Ativo — foi às coordenadas |
+| 🩶 | Você | Cap. 36 | Ativo |
 | 🕯️ | O irmão | Cap. 14 | Morto — caso #4471-B |
 | 🖤 | A mãe | Cap. 27 | Em casa — ameaçada |
-| ⛏️ | O coveiro | Parte II | 🔴 ponta solta |
-| 🚬 | A senhora de preto | Parte II | 🔴 ponta solta |
+| ⛏️ | O coveiro | Cap. 34 | ✅ Fechado — deu o cartão com a ampulheta |
+| 🚬 | A senhora de preto | Cap. 35 | ✅ Fechada — tem doc "Pré-evento — 1" |
 | 💼 | O trader | Cap. 25 (lista) | Entrada 412 — aguardando embarque |
 | 🧹 | O faxineiro | Cap. 26 | Morto — Evento Tipo II |
 | 🤍 | A mulher da Casa | Cap. 30 | Morta — Evento Tipo IV |
 | 🏛️ | A Casa / Caim | Cap. 32 (documento) | Vivo — aguardando o evento |
 | 🎲 | ADI Predictstreet | Constante | SIM em 43,2% e subindo |
 | ⚙️ | Executor / 0002 | Cap. 30 | Ativo — monitorando Você |
-| — | Tabelião | Cap. 30.1 | Acordando — documentos no bolso |
+| — | Tabelião | Cap. 36 | ✅ Cap. 36 |
 | — | Filha do faxineiro | Cap. 31 | Status: desconhecido |
 
 ---

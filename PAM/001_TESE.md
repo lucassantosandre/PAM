@@ -2,7 +2,7 @@
 
 ### Proibição, legalização e a renda sobre o desespero das classes trabalhadoras
 
-> **Documentação de referência:** [HISTORIA.md](HISTORIA.md) | [ENTROPIA.md](ENTROPIA.md) | [CALCULO-MARXISTA.md](CALCULO-MARXISTA.md) | [METODO.md](METODO.md) | [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md) | [DEMONSTRACAO.md](DEMONSTRACAO.md)
+> **Documentação de referência:** [002_HISTORIA.md](002_HISTORIA.md) | [006_ENTROPIA.md](006_ENTROPIA.md) | [007_CALCULO-MARXISTA.md](007_CALCULO-MARXISTA.md) | [008_METODO.md](008_METODO.md) | [investigacoes/MAP/MAP.md](investigacoes/MAP/MAP.md) | [005_DEMONSTRACAO.md](005_DEMONSTRACAO.md)
 
 ---
 

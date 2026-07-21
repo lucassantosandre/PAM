@@ -2,7 +2,7 @@
 
 > _Um mundo onde é possível apostar em tudo — inclusive no próprio fim._
 
-> **Referência:** [ROADMAP.md](ROADMAP.md) | [FUNDAMENTOS.md](FUNDAMENTOS.md) | [DEMONSTRACAO.md](DEMONSTRACAO.md) | [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md)
+> **Referência:** [003_ROADMAP.md](003_ROADMAP.md) | [004_FUNDAMENTOS.md](004_FUNDAMENTOS.md) | [005_DEMONSTRACAO.md](005_DEMONSTRACAO.md) | [investigacoes/ADI/ADI.md](investigacoes/ADI/ADI.md)
 
 ---
 
@@ -1453,6 +1453,153 @@ A ampulheta mede o tempo que falta. Mas não diz quem colocou a pedra.
 ---
 
 > _Fim da Parte XII. Continua._
+
+---
+
+### PARTE XIII — O Limiar
+
+#### Capítulo 34 — O Coveiro
+
+> _Dois dias depois do litoral — final de tarde (BRT)._
+
+Você chegou com areia ainda na sola do tênis.
+
+Ele estava na calçada em frente ao prédio. Sentado no meio-fio, braços sobre os joelhos, olhando pro chão. Sem a pá. Parecia menor sem ela.
+
+Você parou. ⛏️ Ele levantou o olhar.
+
+— Sabia que você ia voltar hoje.
+
+Não disse como sabia. Você não perguntou.
+
+Subiram. Ele ficou de pé no meio da sala, sem sentar — a postura de quem não quer criar intimidade com um lugar.
+
+— Eu vi o seu irmão, — ele disse. — Antes da polícia.
+
+A funerária recebeu o chamado às 22h09. Ele foi o primeiro a chegar. O corpo estava no chão do quarto. Marca no pescoço que ele reconheceu — trinta anos de cova ensinaram a diferença entre marcas. Não era overdose. Não era o que o laudo ia dizer.
+
+O relógio de parede do quarto marcava 22h47. O médico-legista ia datar a morte entre 22h40 e 23h00.
+
+O chamado da funerária tinha sido feito às 22h09.
+
+Alguém ligou antes da hora.
+
+Você ficou parado. Ele continuou.
+
+— Tinha um homem no corredor quando eu cheguei. Saindo. Não olhou pra mim. Só deixou cair alguma coisa na escada.
+
+O coveiro tirou do bolso um cartão dobrado — desgastado de meses de bolso. Pôs na mesa.
+
+Branco. Sem texto. No centro, em relevo seco: uma ampulheta.
+
+Você olhou pro cartão por um longo tempo.
+
+— Por que você ficou com isso?
+
+Ele foi pra porta.
+
+— Porque o cara não parecia que ia sentir falta.
+
+---
+
+#### Capítulo 35 — A Senhora de Preto
+
+> _No dia seguinte — manhã cedo (BRT)._
+
+Você ainda não tinha dormido quando ela bateu.
+
+🚬 Os mesmos cabelos brancos, o mesmo casaco escuro. Mas a postura era outra — sem a rigidez que ela carregava nos velórios. Era a postura de quem esperou tempo demais pra bater numa porta.
+
+— Eu sei quem você é. Sabia antes de você saber.
+
+Entrou sem esperar convite. Foi direto à janela e ficou de costas.
+
+Trabalhava em licitações municipais por vinte e dois anos. Processava contratos com o CLV desde o início — ela não sabia o que era o CLV além de "fundo credor com autorização federal." Oito anos atrás, um funcionário a chamou numa sala sem identificação e apresentou um documento.
+
+A lista B. Para quem operava o sistema por dentro — cartorários, peritos, médicos-legistas, servidores de validação. Não para quem apostava. Para quem tornava o resultado da aposta oficial. A garantia era "assento em evento de fase" — a expressão do contrato, que ela pesquisou por meses e não encontrou em dicionário nenhum.
+
+Por cinco anos recebeu uma transferência mensal. Discreta. O equivalente a um salário extra.
+
+Seis semanas atrás, a transferência parou. Uma semana depois: notificação da ADI — _"Contrato encerrado. Razão: atualização de critério de perfil."_
+
+Ela não era mais critério.
+
+— Eu vim nos velórios porque reconheci você. — Ela se virou. — Você tinha o olhar de quem acabou de entender pra que serve o sistema. Eu tinha esse olhar oito anos atrás.
+
+Tirou um envelope do casaco. Pôs na mesa — ao lado do cartão com a ampulheta, que ainda estava onde o coveiro tinha deixado. Ela não olhou pro cartão.
+
+Dentro do envelope: fotocópia de um documento interno. Tabela de classificação do CLV. Três colunas: Família 1, Família 2, Família 3. E acima das três, em linha separada:
+
+**Pré-evento — 1.**
+
+— Eu nunca soube quem era o número um. O contrato não dizia. Mas eu sei o que significa: o slot dele está fora da lista. Fora da fila. Fora do sistema que ele mesmo construiu.
+
+Você olhou pro número.
+
+Caim nunca estava entre os 847.
+
+Caim nunca precisou estar.
+
+---
+
+#### Capítulo 36 — O Tabelião
+
+> _Dois dias depois — fim de tarde (BRT)._
+
+O telefonema veio de ramal de cartório — aquele prefixo que parece governo mas não é.
+
+A voz era de homem de meia-idade. Cuidadosa. Cada palavra escolhida antes de ser dita.
+
+— Eu tenho dois documentos que não devia ter. E acho que você está procurando algo que eu encontrei sem querer.
+
+Você marcou o cartório.
+
+Ele estava na mesa de sempre, mas os documentos estavam no paletó, não na pasta. Pôs os dois na frente de Você sem cerimônia — o caso #4471-B e a entrada 433 — e depois pôs um terceiro.
+
+— Esse é anterior. Caso #4471-A. Três meses antes do seu irmão. Mesmo credor. Mesmo código. A observação do campo: "Entrega concluída."
+
+Pausa.
+
+— Eu fui pro arquivo. Procurei a série 4471. Não é uma série — é um sequencial que vai até o início do CLV. Contei.
+
+Abriu uma folha dobrada. Uma coluna de números à mão, densa, na caligrafia de quem carimba pra sempre.
+
+— Oitocentos e quarenta e sete casos. Todos "Entrega concluída." Todos Tipo IV. Todos o mesmo credor. Distribuídos ao longo de trinta e oito anos.
+
+Você ficou parado.
+
+— Cada caso encerrava uma dívida. Mas a dívida não era quitada pelo devedor — era transferida pro fundo. E o fundo, ao encerrar, registrava entrada de ativo novo. O ativo era um assento. Cada Tipo IV liberou um assento numa estrutura que o mandato chama de "saída de fase."
+
+Oitocentos e quarenta e sete mortes. Oitocentos e quarenta e sete assentos. Um a um, trinta e oito anos, carimbo e tudo. O porto não era uma construção — era um arquivo. O maior arquivo de cartório que ninguém ia abrir.
+
+Você escreveu no caderno:
+
+_o irmão não morreu porque apostou._
+_morreu porque alguém precisava de um lugar na fila._
+
+O tabelião dobrou os papéis de volta no paletó.
+
+— Eu não sei o que fazer com isso. Eu carimbo. Esse é o meu trabalho.
+
+— Mas você trouxe.
+
+— Trouxe. — Uma pausa. — Porque em doze anos nunca vi a palavra "Entrega" e agora vi oitocentas e quarenta e sete vezes. E porque eu sei o nome do credor. O nome real — não o código CLV.
+
+Ele escreveu numa folha em branco. Passou pra Você.
+
+Você leu.
+
+Ficou parado mais tempo do que o necessário pra ler um nome.
+
+— O CPF é de um homem morto há vinte anos. — A voz do tabelião era igual. — Mas é o nome que assinou os primeiros contratos. O nome do sistema.
+
+Você dobrou o papel. Guardou no caderno.
+
+Saiu do cartório com o sol baixo na rua e uma certeza que ainda não tinha palavras: de que aquele nome não era novo pra você. Não porque você o conhecia do sistema. Mas porque você já tinha gritado ele num quarto vazio até a voz falhar.
+
+---
+
+> _Fim da Parte XIII. Continua._
 
 ---
 
