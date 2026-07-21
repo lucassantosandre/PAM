@@ -216,11 +216,11 @@ em vez de encerrar. Você está em "monitorar — não encerrar" — ainda tem v
 
 ---
 
-### Tabelião (sem emoji — personagem Jairo)
+### Tabelião
 
 Doze anos de mesa, garrafa térmica, metrô às 17h22. Validou o caso #4471-B como
 LIQUIDADO — Evento Tipo IV. Pela primeira vez levou documentos pra casa (Cap. 30.1).
-Está notando padrões que não devia notar. **O aliado inesperado do arco final.**
+Está notando padrões que não devia notar.
 
 ---
 
