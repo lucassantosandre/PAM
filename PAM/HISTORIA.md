@@ -953,6 +953,156 @@ E o mundo, com medo de acabar, não deixava nem uma coisa nem outra acontecer.
 
 ---
 
+### PARTE IX — A Caça
+
+#### Capítulo XXVI — O Faxineiro Não Voltou
+
+> _Três semanas depois — fim de tarde (BRT)._
+
+Três semanas. Onze vezes que você chegou no prédio da limpeza da cidade e o posto dele estava
+com outro funcionário. Na terceira semana você perguntou diretamente.
+
+— Pediu demissão. Não deixou endereço.
+
+Você foi ao cartório. Nome, CPF que você tinha anotado no caderno uma vez sem saber que ia
+precisar. Nenhum registro de mudança de endereço. Nenhum contrato novo.
+
+Puxou as contas de utilidade pelo número do apartamento. Energia, água: última leitura havia
+dezoito dias. Cortadas por falta de pagamento.
+
+Você foi até o conjunto popular na zona norte. Quatro andares, sem elevador. Porta do 3B
+trancada mas sem lacre. A síndica abriu quando você disse que era colega de trabalho.
+
+A sala estava em ordem. Uma xícara na pia, lavada. Uma cadeira na frente da janela que dava
+pro muro. No banheiro, nada fora do lugar.
+
+Mas no armário da cozinha, na prateleira de baixo, embaixo de um pano de prato dobrado, um
+envelope.
+
+Dentro: uma folha cortada à mão. Letra de quem não estava acostumado a escrever devagar.
+
+_Já esperei o suficiente. Fiz o que pude. Não me procure mais — o custo passou do que posso
+pagar. Se quiser continuar: assento 0002 na lista. Não é o fundador. É o que toma conta da
+fila._
+
+Sem data. Sem nome.
+
+Você dobrou a folha, saiu, tirou o chip do celular na rua e jogou num bueiro.
+
+Duas semanas depois, numa pesquisa de rotina nos registros de óbito públicos, você ia encontrar
+o nome dele. Causa: parada cardíaca. Cinquenta e dois anos.
+
+O formulário automático já estava preenchido. Evento de Mercado Tipo II. Prêmio liberado.
+Credor: _C. Fundo — representação permanente._
+
+O caso tinha número.
+
+---
+
+#### Capítulo XXVII — A Mãe Recebeu Visita
+
+> _Quatro dias depois — sua casa, tarde da noite (BRT)._
+
+Sua mãe estava sentada na cozinha sem acender a luz.
+
+Você nunca tinha visto isso. Ela cozinhava com a porta aberta mesmo à noite, rádio baixo, o
+barulho de panela como prova de que a casa ainda funcionava. A escuridão foi a primeira coisa
+que você viu quando entrou.
+
+Ela disse que um homem tinha aparecido de tarde. Gravata. Mãos grandes. Não ameaçou — e foi
+isso que a assustou mais. Falou como quem explica uma conta de luz. Disse que você tinha algo
+que não era seu. Que havia um prazo pra devolução voluntária. Deixou um cartão.
+
+O cartão estava na mesa. Sem nome. Sem número. Só um símbolo pequeno no canto direito: uma
+ampulheta.
+
+— Eu disse que não sabia do que ele tava falando — sua mãe disse. — Ele disse que sabia que
+eu não sabia.
+
+Você foi pro quarto. O caderno físico, com as coordenadas e os números escritos num código que
+só você decifrava — estava lá. O drive estava escondido num lugar que você não ia mencionar
+nem pra si mesmo.
+
+Mas os impressos — as listas, as pastas, as categorias — você queimou tudo no tanque de lavar,
+um por um, esperando cada folha virar cinza antes de colocar a próxima.
+
+Sua mãe ficou na porta do banheiro assistindo sem falar nada.
+
+Quando você terminou, ela disse:
+
+— Vai ter que acabar de um jeito ou de outro.
+
+Você não respondeu porque ela tinha razão.
+
+A ampulheta não tinha hora marcada. Mas ela só serve enquanto a areia ainda está caindo.
+
+---
+
+#### Capítulo XXVIII — Dois Nomes a Menos
+
+> _Uma semana depois — praça aberta, meio-dia (BRT)._
+
+A mensagem chegou às sete da manhã. Sem saudação.
+
+> _A lista encolheu. Dois nomes removidos esta semana. Um era da família 2. O outro
+> trabalhava comigo._
+
+Endereço de encontro. Praça pública, banco de pedra, meio-dia. Sem carro, sem acompanhante.
+
+🤍 A mulher da Casa chegou antes. Terninho bege, mais neutro que da última vez. Os óculos
+escuros eram novos. Você pensou que os outros tinham quebrado — ou sumido.
+
+Ela colocou o celular virado pra baixo na pedra entre vocês.
+
+— Dois nomes removidos não é purga — ela disse. — É aviso. O Caim está acelerando.
+
+Você perguntou o que mudou.
+
+— Alguém encontrou o apartamento do faxineiro — ela disse. — Alguém soube que ele tinha
+entregado mais do que devia.
+
+Silêncio.
+
+— Seu nome ainda está na lista — ela disse. — Não no setor pessoal. Numa lista menor, que não
+estava no drive. Categoria: _risco de vazamento._
+
+Ela abriu o envelope que estava no colo. Deslizou na sua direção.
+
+Uma fotografia impressa. Um homem de uns cinquenta anos, cabelos brancos, rosto comum. Camisa
+de botão. Poderia ser gerente de banco, poderia ser professor de faculdade. Estava de costas
+pra câmera numa calçada, mas o rosto pegou num reflexo de vitrine.
+
+— Esse é o executor — ela disse. — Não o da tabela de método. O executor de nomes. O que
+remove pessoas da lista e do mundo ao mesmo tempo. Ele tem um assento na mesa do Conselho:
+_0002._
+
+Você olhou pra foto.
+
+— Você está me ajudando agora?
+
+— Estou com medo — ela disse. — É diferente.
+
+Ela pegou de volta o envelope, mas deixou a foto.
+
+— Meu nome está no setor pessoal. Entrada 433. Eu não escolhi estar lá — Caim comprou a
+dívida da minha família há vinte anos. Nós somos colateral. Não somos aliados.
+
+Ela foi embora sem olhar pra trás.
+
+Você ficou com a foto na mão. Um homem comum. Rosto de ninguém.
+
+Assento 0002. O segundo nome numa lista onde Caim era o primeiro.
+
+O faxineiro tinha dito: _é o que toma conta da fila._
+
+Agora você tinha o rosto.
+
+---
+
+> _Fim da Parte IX. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
@@ -1117,6 +1267,123 @@ pago. Em algum lugar, num quarto que o tabelião nunca saberia descrever, algué
 caderno o nome do morto.
 
 O tabelião nunca soube o nome. O caso tinha número.
+
+---
+
+### Expansões do Capítulo XXVI — O Faxineiro Não Voltou
+
+#### 26.1 — A Última Ronda 🔎
+
+> _Três semanas antes — noite de sábado, apartamento 3B (BRT)._
+
+O faxineiro tinha uma regra: nunca guardar mais do que podia carregar. Vinte anos em prédios
+onde as pessoas deixavam coisas pra trás — ele tinha aprendido o peso do que sobra.
+
+Então quando decidiu parar, foi fácil.
+
+Dobrou a roupa de trabalho e deixou dobrada — não porque ia ser usada, mas porque pertencia ao
+posto e ele nunca tinha devolvido nada que não era seu. Lavou a xícara. Não porque ia voltar,
+mas porque xícara suja é descaso, e descuido chama atenção, e atenção era o que ele não podia
+mais ter.
+
+A carta levou quinze minutos. Ele escrevia devagar — sempre escreveu. A professora primária
+dizia que letra lenta é letra que pensa. Ele acreditava nisso.
+
+_Assento 0002. Não é o fundador. É o que toma conta da fila._
+
+Era o que sabia. Era o que valia. Colocou no envelope, escondeu embaixo do pano de prato.
+
+Pegou só o que era dele: uma foto plastificada — sobrinha no aniversário de sete anos —, uma
+caneta que tinha achado numa escada de serviço no centro, e dinheiro em espécie, o equivalente
+a dois meses de aluguel.
+
+Fechou a porta. Não olhou pra trás.
+
+No ônibus, passou pelo prédio onde tinha entregado os drives. A janela embaçava do lado de
+dentro. Ele não limpou. Deixou embaçar.
+
+Ele não estava fugindo. Estava saindo antes. É diferente.
+
+---
+
+#### 26.2 — O Formulário 📍
+
+> _Uma segunda-feira, 09h20 (BRT) — a mesma sala sem identificação._
+
+A mesa tinha cinco cadeiras dessa vez. A família dois mandou só um representante.
+
+O tabelião anotou — não no papel, só pra si mesmo. Uma ausência que nunca tinha acontecido
+antes.
+
+O caso estava no quarto lugar da lista. Evento de Mercado Tipo II. Dívida documentada,
+método dentro da tabela, testemunha: câmera de esquina, identificação plena.
+
+Válido. Válido. Válido. Válido.
+
+Mas no campo de observações — um campo que quase nunca tinha nada — havia uma nota impressa
+em itálico:
+
+_Entrega concluída. Encerrar rastreamento._
+
+O tabelião parou.
+
+"Entrega" não era terminologia da mesa. A mesa usava _liquidação, evento, crédito recuperado._
+Nunca "entrega."
+
+Ele olhou pros lados. Ninguém tinha notado — ou, se tinham, não mostraram.
+
+Carimbou.
+
+No intervalo, lavando a garrafa térmica no banheiro do corredor, ficou pensando na nota. Entrega
+de quê. Pra quem. O formulário já ia pro arquivo morto — ninguém mais ia abrir.
+
+Mas ele era o tipo de pessoa que memoriza o que não devia.
+
+No metrô de volta, de pé, segurando a barra, pensou: em doze anos de mesa, nunca tinha visto
+aquela palavra. Uma nota de uma linha. Um campo que quase nunca tinha nada.
+
+Chegou em casa. Aqueceu o almoço. Não falou nada pra ninguém.
+
+Mas lembrava.
+
+---
+
+### Expansões do Capítulo XXVIII — Dois Nomes a Menos
+
+#### 28.1 — O Assento 0002 🔎
+
+> _Uma quarta-feira, manhã (BRT) — escritório sem placa._
+
+A lista chegou às oito da manhã, como sempre. Três nomes.
+
+O homem do assento 0002 leu os três. Verificou os critérios — não porque duvidava, mas porque
+era o protocolo. Para cada nome: flag de risco, nível de exposição, status do contato.
+
+Os dois primeiros: _encerrar._
+
+Ele preencheu os formulários correspondentes. Não é trabalho de uma hora — tem etapas. Primeiro,
+a notificação financeira: o sistema de crédito trava automaticamente, ativando dívidas latentes.
+Depois, o acionamento do credor habilitado. Depois, o evento. Depois, o registro na mesa.
+
+Removido da lista. Removido do mundo. Pela mesma caneta.
+
+O terceiro nome tinha uma flag diferente: _monitorar — não encerrar._
+
+Ele leu duas vezes. Não porque não entendeu — mas porque monitorar sem encerrar é instrução
+rara. Significa que o nome tem valor enquanto vivo. Significa que alguém acima do assento 0002
+quer ver o que esse nome faz antes de decidir.
+
+Ele arquivou o terceiro. Fechou o notebook.
+
+Almoço às 12h30, restaurante por quilo a duas quadras. Sempre o mesmo prato — não por hábito,
+por eficiência. Comer é combustível.
+
+Às 14h ia ter uma reunião com a família três. Ela ia perguntar sobre o calendário. Ele ia dizer:
+_dentro do previsto._ Porque estava.
+
+O terceiro nome estava em campo. Visível. Movendo-se.
+
+E ele era paciente.
 
 ---
 
