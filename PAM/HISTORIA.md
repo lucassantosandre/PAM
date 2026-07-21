@@ -794,6 +794,165 @@ onde a Casa não precisa mais de você.
 
 ---
 
+### PARTE VIII — O Porto
+
+#### Capítulo XXIII — O Conselho
+
+> _Semanas depois — seu quarto, noite._
+
+O faxineiro não voltou por quatro semanas. Você foi ao endereço do prédio dele duas vezes
+— só pra verificar se o sinal não tinha sumido de vez. Estava tudo no lugar. Mas não havia
+movimento. Você voltou.
+
+Na quinta semana, ele apareceu à sua porta às onze da noite. Não bateu — ficou parado no
+corredor até você sentir e abrir.
+
+Entrou, deu uma olhada rápida no quarto, largou uma folha em cima da mesa e ficou de pé.
+Uma folha só.
+
+Era uma lista. Três colunas: nome, empresa de fachada, função no conselho. Doze entradas.
+Três famílias de quatro nomes cada. As empresas eram legíveis: logística, segurança
+patrimonial, consultoria de risco. O tipo de empresa que existe em qualquer junta comercial
+e nunca tem um cliente que você consiga nomear.
+
+A décima terceira entrada não tinha quatro linhas. Tinha uma.
+
+_C. Fundo — representação permanente — presença dispensada por protocolo interno._
+
+Você olhou pro faxineiro.
+
+— Quem é esse?
+
+Ele ficou quieto por tempo demais.
+
+— A cadeira existe — ele disse. — Fica vazia toda semana. O outro representante da família
+vota pelos dois.
+
+— Quem é o outro representante?
+
+Ele olhou pro corredor.
+
+— A mulher — ele disse. E saiu.
+
+Você ficou com a folha na mão. A mulher da Casa não era a cabeça — era a voz de quem nunca
+precisava aparecer. C. Fundo. Uma letra e um sobrenome que não apontavam pra nenhuma pessoa
+em nenhum registro.
+
+Três famílias. Doze nomes. E um assento vazio que todo mundo sabia não estava vazio.
+
+---
+
+#### Capítulo XXIV — O Apostador Mais Antigo
+
+> _Doze dias depois — seu quarto, madrugada._
+
+O faxineiro voltou. Desta vez entrou e se sentou na beira da cama — a cama que havia sido do
+seu irmão. Não disse nada enquanto você abria o envelope.
+
+Fotocópias de um livro-caixa. Posições abertas em SIM, de longo prazo. Datas, valores, notas
+de renovação anual. A maioria dos últimos cinco anos — contas offshore, volumes de fundo
+institucional.
+
+Você foi descendo a lista pelo critério mais simples: data de abertura.
+
+A posição mais antiga ficava no final da última página. A nota de transferência dizia que havia
+sido aberta trinta e oito anos antes — num sistema privado, analógico, antes da ADI existir
+como empresa, antes de qualquer celular mundial. Transferida por cláusula de continuidade
+automática quando a plataforma surgiu.
+
+Nome: _C. Fundo._
+
+E abaixo, numa caixa separada:
+
+_Instrução de liquidação: executar no evento final. Transferir ao porto._
+
+Porto. Não a uma conta. Não a um banco. Você leu de novo três vezes pra ter certeza que era
+isso que dizia.
+
+— Você sabe o que é o porto? — você perguntou.
+
+O faxineiro continuou olhando pro chão.
+
+— Sei que existe um lugar na costa — ele disse. — Sei que tem construção há anos. Que o
+material que entra lá não é de obra comum.
+
+— O que é?
+
+— O tipo que vai mais longe do que construção — ele disse.
+
+Você colocou as fotocópias de volta no envelope. Ele levantou. Parou na porta.
+
+— Não vou conseguir mais nada — ele disse. — Esse foi o limite.
+
+Você olhou pra ele.
+
+— Fica aqui com isso — ele disse. E foi embora.
+
+Você ficou com a posição aberta há trinta e oito anos. A mais velha aposta no fim do mundo
+que existia. E o relógio dela ainda estava correndo.
+
+---
+
+#### Capítulo XXV — O Porto
+
+> _A mesma noite, antes do amanhecer._
+
+Você não dormiu. Abriu o drive de novo. Pasta doze.
+
+Topografia costeira. Coordenadas que você copiou no caderno, comparando com o que conhecia de
+mapa. Uma região remota — fora de qualquer rota comercial, fora de qualquer mapa turístico.
+As marcações numeradas ao longo da orla não eram pontos de acesso.
+
+Eram pontos de saída.
+
+Pasta treze. Listas.
+
+Categorias: _biomédico, estrutural, logístico, pessoal._ A última era a mais longa.
+
+Oitocentos e quarenta e sete nomes.
+
+Você foi procurando referências. Na entrada 412 havia uma nota: _"posição de hedge encerrada,
+evento 4471-B, confirmado para embarque."_ O trader. Estava na lista.
+
+Você desceu até o fim. As últimas entradas eram só função e código. E no fundo, fora da ordem
+numérica, uma entrada diferente de todas:
+
+_0001 — C.F. — fundador._
+
+Abaixo da lista havia uma anotação à mão. Tinta de caneta-tinteiro, traço de alguém que escrevia
+antes de a folha impressa ao redor existir.
+
+_Revisado e aprovado — Caim._
+
+Você ficou parado.
+
+Oitocentos e quarenta e sete nomes na lista das pessoas que iam sobrar. E antes do número um,
+a assinatura de quem aprovou a lista inteira. Não havia título. Não havia cargo. Não havia
+sobrenome.
+
+Só _Caim_.
+
+Você fechou o drive e olhou pro celular. A votação do dia ainda estava aberta — o mundo a ser
+destruído em 24 horas, SIM ou NÃO, como todo dia.
+
+Pela primeira vez, você entendeu o que o NÃO protegia.
+
+Não a humanidade. A lista.
+
+Enquanto o mundo votava NÃO com medo de morrer, oitocentos e quarenta e sete nomes esperavam.
+Um porto na costa esperava. E Caim esperava com eles — há trinta e oito anos, a aposta mais velha
+e mais paciente do mundo.
+
+O NÃO os mantinha ricos. O SIM os tornava livres.
+
+E o mundo, com medo de acabar, não deixava nem uma coisa nem outra acontecer.
+
+---
+
+> _Fim da Parte VIII. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
@@ -906,6 +1065,58 @@ cifrão, e enviou às 03h02, quando os mercados asiáticos abriam e o ruído dom
 Voltou a dormir. Era a décima oitava posição que abria naquela semana.
 
 Lá embaixo, no Brasil, num quarto que ele nunca saberia descrever, um celular acendeu sozinho.
+
+---
+
+### Expansões do Capítulo XX — Quem Aposta no Fim
+
+#### 20.5 — A Mesa de Validade 📍
+
+> _Segunda-feira, 09h00 (BRT) — uma sala sem identificação, num bairro comercial._
+
+O tabelião chega sempre às oito e quarenta. Detesta esperar no corredor. O café ele traz de
+casa numa garrafa térmica que já não conserva. A gravata, sempre a mesma — cinza-chumbo,
+presente de sobrinha.
+
+A mesa tem seis cadeiras. Três famílias, dois representantes cada. Ele representa a mais velha
+— a que tem os contratos de rastreamento de dívida, a que sabe antes de qualquer plataforma
+quando uma dívida vai ser executada. A lista da semana tem doze casos. Ele começa a ler em voz
+alta.
+
+Para cada morte, quatro critérios:
+
+_Dívida documentada._ (WhatsApp, áudio, papel de caderno conta.)
+_Método aprovado._ (A tabela interna tem dezessete. Improvisado vai pra revisão.)
+_Credor habilitado._ (Terceiros sem relação invalidam o caso inteiro.)
+_Testemunha técnica._ (Sem testemunha, o prêmio fica em escrow noventa dias.)
+
+Válido. Válido. Revisão. Válido.
+
+Um dos representantes da segunda família levanta a mão:
+
+— O 4471-B. O prêmio ainda tá em escrow.
+
+O tabelião olha a ficha. Dívida: WhatsApp, áudio preservado. Método: calibre da tabela.
+Credor: cessão em segunda ordem, procuração registrada. Testemunha: câmera do estacionamento,
+ângulo frontal, identificação plena.
+
+— Válido — ele diz, e carimba.
+
+O carimbo é vermelho. Letra miúda, burocrática: **LIQUIDADO — Evento de Mercado Tipo IV.**
+
+O prêmio sai do escrow. O Estado retém a parte dele. A mesa continua.
+
+No intervalo do café, ele liga pra sobrinha. Ela pergunta como foi o dia. Ele diz: _tranquilo,
+reunião de rotina._ E é verdade. Em doze anos de mesa, nunca houve uma reunião que não fosse
+de rotina. A rotina é o produto. O produto é a rotina.
+
+Às 10h30 a mesa encerra. Ele pega o metrô.
+
+O caso do seu irmão fechou naquele dia no balanço — prêmio liberado, imposto retido, credor
+pago. Em algum lugar, num quarto que o tabelião nunca saberia descrever, alguém escrevia num
+caderno o nome do morto.
+
+O tabelião nunca soube o nome. O caso tinha número.
 
 ---
 
