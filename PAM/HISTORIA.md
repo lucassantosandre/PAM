@@ -1390,6 +1390,72 @@ A mola estava apertando.
 
 ---
 
+### PARTE XII — O Movimento
+
+#### Capítulo 33 — As Coordenadas
+
+> _Três semanas depois — ônibus noturno, litoral nordeste (BRT)._
+
+Você saiu antes do amanhecer.
+
+Não avisou ninguém. Deixou o celular com o chip antigo em casa — o chip que eles já tinham
+número. Comprou uma passagem em espécie na rodoviária, destino a um município a oitenta
+quilômetros das coordenadas. Do município, pegou outro ônibus. Do terminal, andou.
+
+Seis horas de viagem pra ver se o porto era real.
+
+Era.
+
+Você o viu de longe, de um morro de vegetação baixa, antes do sol entrar inteiro. Não era
+um porto convencional. Não havia guindastes nem embarcações comerciais. O que havia era uma
+plataforma de concreto que avançava sobre o mar em ângulo calculado, e ao redor dela, galpões
+baixos sem janela. Material que você não sabia nomear empilhado em sequência regular. Trabalhadores
+com capacete laranja se movendo no ritmo de quem faz isso todos os dias há muito tempo.
+
+Você ficou parado no morro por quarenta minutos.
+
+Não era construção de porto. Era construção de saída.
+
+Desceu pela lateral da vegetação, longe de qualquer linha de visão do canteiro. A faixa de
+praia antes da plataforma estava deserta — não havia cerca, não havia segurança visível. A
+segurança estava na distância e no mapa em branco.
+
+Na beira da água, onde a areia terminava e começava a rocha, havia uma pedra fora do lugar.
+Não grande — do tamanho de um tijolo, mais escura que o granito ao redor. Fincada no solo em
+ângulo de quem plantou intencionalmente.
+
+Você se abaixou.
+
+Na face voltada pro mar, gravado fundo o suficiente pra sobreviver à maré: uma ampulheta.
+
+O mesmo símbolo do cartão que o homem tinha deixado na casa da sua mãe.
+
+Você ficou olhando pra pedra por um tempo que não soube medir. A gravação não era nova. O
+desgaste nas bordas, a cor do interior da marca — aquilo tinha décadas. Talvez mais.
+
+Tirou o caderno. Anotou o que via. Anotou a posição exata da pedra em relação à plataforma.
+Anotou o ângulo da ampulheta em relação ao norte — estava orientada para o oceano aberto,
+não pra terra.
+
+Depois escreveu:
+
+_o símbolo no cartão não é de Caim. ele encontrou o símbolo já existindo._
+_o porto não é o plano de um homem._
+_é a continuação de algo que começou antes do CLV. antes do nome._
+_antes de 38 anos._
+
+O sol estava alto quando você saiu pela mesma rota que tinha chegado.
+
+No ônibus de volta, com o caderno no colo, olhou pela janela o litoral desaparecer.
+
+A ampulheta mede o tempo que falta. Mas não diz quem colocou a pedra.
+
+---
+
+> _Fim da Parte XII. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
@@ -1781,7 +1847,7 @@ Hoje levou.
 
          ┌──────────────────────────────────────────────────┐
          │       ADI Predictstreet  ·  Governo              │  instrumento + arrecadação
-         │       produto, não experimento                   │  posição ambígua
+         │       produto, não experimento                    │  posição ambígua
          └──────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────────┐
