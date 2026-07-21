@@ -2037,6 +2037,140 @@ Caim não modelou — porque Caim não acreditava que um _Não_ sem preço era p
 
 ---
 
+### Expansões do Capítulo 32 — O Documento CF
+
+#### 32.1 — A Mala 🔎
+
+> _1953 — sul do Brasil. Interior do Rio Grande do Sul. Tarde de inverno._
+
+O pai morreu num sábado sem chuva, que era o tipo de coisa que ele teria anotado.
+
+O menino tinha quinze anos. Passou os três dias do velório sem entrar no quarto do pai — não por luto, mas porque ainda não sabia o que fazer com a arrumação de um morto. No quarto dia, entrou.
+
+Embaixo da cama: uma mala de couro marrom. A ferrugem das dobradiças grudada na madeira do piso.
+
+Dentro: papéis. Alemão. Uma letra pequena e densa, diferente da caligrafia que ele conhecia das cartas que o pai recebia dos poucos amigos que ainda respondiam. Era a letra de quando o pai era jovem — antes de embarcar, antes de chegar no porto de Santos sem falar uma palavra de português, antes de ensinar física em escola de cidade pequena que nunca soube o que tinha.
+
+Ele não entendia as equações. Não as de verdade. Mas entendeu o diagrama: uma curva ascendente que de repente bifurcava. E no canto inferior direito de uma das páginas, seu pai tinha desenhado uma ampulheta — pequena, à tinta azul, como quem rabisca enquanto pensa.
+
+Em baixo da ampulheta: uma data. _1931._
+
+E uma frase em alemão que ele só foi conseguir traduzir três anos depois: _"O medo é o ativo mais renovável do mundo."_
+
+Ele dobrou o papel de volta na dobra original. Fechou a mala. Empurrou de volta pra baixo da cama.
+
+Levou mais vinte anos pra entender que ele era o único herdeiro de uma descoberta que ninguém no mundo sabia que existia.
+
+---
+
+#### 32.2 — O Prédio Sem Janelas 🔎
+
+> _1969 — Porto Alegre. Universidade Federal. Outubro._
+
+O Henrique tinha sumido numa terça-feira.
+
+Não sumido no sentido dramático — sumido no sentido que acontecia: pasta entregue ao departamento, armário esvaziado, matrícula cancelada. O cartão na porta da sala de pesquisa: removido. Nenhum professor mencionou o nome. O silêncio era administrativo — processado, arquivado, encerrado.
+
+Caim foi ao departamento. Perguntou sobre o caso. A secretária olhou pro formulário na mesa dela e disse que não havia registro de nenhum Henrique no quadro de pesquisadores.
+
+Ele voltou pro laboratório. Não ficou com raiva. Não ficou com medo.
+
+Ficou curioso.
+
+Pegou um caderno em branco — não o caderno de física, o outro, que ele guardava na gaveta — e começou a escrever. Não sobre o Henrique. Sobre o mecanismo. Como o estado convertia um nome em ausência sem nenhum evento visível. Nenhuma violência pública. Só processamento.
+
+Era eficiente, pensou. Muito eficiente.
+
+A equação da mala do pai voltou pra ele naquela noite — a curva de bifurcação, a ampulheta desenhada à margem. Ele a copiou no caderno novo e ficou olhando pra ela por um longo tempo.
+
+Não era uma fórmula de física. Era uma fórmula de Estado.
+
+O Henrique, ele percebeu, tinha sido convertido em dado. O dado entrou numa planilha de risco que o próprio Henrique nunca ia ver. E o dado fechou negativo. Simples assim.
+
+Caim passou a noite escrevendo. Não sobre o Henrique. Sobre como construir a planilha.
+
+Não porque queria usar o Henrique. Porque queria entender o sistema que tinha usado o Henrique — e o que acontecia se você colocasse o medo de uma nação inteira numa única coluna de cálculo.
+
+Ele não dormiu. Quando o sol entrou pelo laboratório, o caderno tinha dezoito páginas.
+
+> _Essa noite foi o capítulo negro de Caim. Não houve decisão dramática. Não houve crueldade. Houve apenas o momento em que ele olhou para a dor do mundo e, em vez de sentir, mediu._
+
+---
+
+#### 32.3 — O Nome 🔎
+
+> _1988 — São Paulo. Cartório do 5º Ofício. Quinta-feira de manhã._
+
+A funcionária tinha o carimbo na mão e olhava pro formulário.
+
+— Nome do operador?
+
+Ele tinha pensado nisso. Tinha uma lista de opções — iniciais, um sobrenome composto, um nome de empresa. Mas na hora, com o formulário na frente, todas as opções pareceram pequenas. Pequenas demais para o que estava registrando.
+
+Disse um nome.
+
+Ela ergueu os olhos. Reconhecimento nenhum no rosto — ela não sabia que era bíblico, não sabia que era o nome do primeiro assassino, não sabia que ele estava nomeando a si mesmo com precisão cirúrgica. Era só um nome.
+
+— Como se escreve?
+
+Ele soletrou. Ela escreveu devagar, letra por letra. Sete letras. Depois carimbou.
+
+O registro ficou pronto em quinze minutos. Ele saiu do cartório com a cópia dobrada no bolso do paletó. Parou na calçada. Olhou pro papel por um segundo.
+
+O pai tinha fugido do regime que destruiu Göttingen porque acreditava que a física deveria ser neutra. Que o dado não tinha ideologia. Que a fórmula era mais honesta que o homem.
+
+O filho tinha acabado de registrar o fundo que ia operar a mesma lógica que o regime — não com violência, com planilha.
+
+Ele sabia disso. Era o único que sabia.
+
+Por isso escolheu o nome.
+
+Não como desculpa. Como anotação de laboratório: _esta é a natureza do experimento e eu sou o Caim deste mundo._
+
+Dobrou o papel de volta. Continuou andando.
+
+---
+
+#### 32.4 — O Caderno do Pai 🔎
+
+> _Presente — o porto. Antes do amanhecer._
+
+Ele guardava o original numa pasta de couro dentro do cofre da casa. Não o xerox — o original, em alemão, com a letra do pai, as margens cobertas de cálculo à tinta azul. Oitenta e três páginas. Algumas rasgadas na borda pela viagem de navio.
+
+Essa noite, ele tinha aberto a pasta.
+
+Não releu tudo. Só a última página — a que ele tinha memorizado aos quinze anos sem entender, e entendido aos trinta e cinco sem acreditar.
+
+A conclusão do pai era simples: _o sistema se estabiliza no medo porque o medo é o único ativo que não deprecia com o uso. Quanto mais você o consome, mais ele produz. A bifurcação só ocorre quando alguém de fora do modelo perturba o equilíbrio sem custo próprio._
+
+_Sem custo próprio._ O pai sublinhara três vezes.
+
+Caim tinha lido isso em 1986 e construído um sistema que tornava o custo próprio impossível. Ninguém podia perturbar o equilíbrio sem pagar o preço do barulho. Ele tinha fechado a única brecha que o pai identificou.
+
+Ou achava que tinha.
+
+Agora, trinta e oito anos depois da primeira aposta, havia alguém que tinha dito Não sem preço.
+
+Não por heroísmo. Por acidente de caráter — ou por algo que o modelo não sabia nomear.
+
+Ele fechou a pasta. Colocou de volta no cofre.
+
+Na última linha da última página do caderno do pai havia uma frase que ele nunca citava — nem no documento que a filha do faxineiro tinha encontrado, nem em nenhuma planilha. Uma frase que o pai escrevera em português, não em alemão, como se tivesse mudado de idioma pra se esconder de si mesmo:
+
+_"Quando der certo, ir embora."_
+
+O pai tinha ido embora do único jeito que conseguiu.
+
+Caim olhou pela janela pro mar.
+
+Trinta e oito anos. O experimento funcionou. A mola estava prestes a soltar.
+
+E ele ainda estava aqui.
+
+> _A ironia do físico: construiu a saída. Não conseguiu usá-la. Não porque falhou — porque o experimento ainda não acabou. Sempre tem mais dado pra anotar._
+
+---
+
 ## FUNDAMENTAÇÃO
 
 > Versão completa e standalone em **[FUNDAMENTOS.md](FUNDAMENTOS.md)**.

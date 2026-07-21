@@ -193,11 +193,21 @@ Tipo IV (Cap. 30). _"Já compramos o depois."_
 
 ### 🏛️ A Casa / Caim / C. Fundo
 
-Fundador do CLV (38 anos atrás). Físico. Descobriu o Algoritmo de Baal — que medo
-coletivo é quantidade termodinâmica — e construiu a ADI como instrumento de medição.
-Posição SIM desde antes da ADI existir. Os 847 são sua amostra de controle para
-atravessar a bifurcação. O porto na costa nordeste é a saída.
+Fundador do CLV (38 anos atrás). Físico. Filho de um dos pesquisadores de Göttingen
+que nomearam o Algoritmo de Baal em 1931. O pai fugiu dos nazistas em 1933, veio ao
+Brasil, morreu no início dos anos 1950 deixando uma mala de papéis. Caim cresceu no
+sul do Brasil como filho de refugiado, estudou física em Porto Alegre, viu a ditadura
+militar operar o medo — e em vez de se horrorizar, mediu. A noite de 1969 em que um
+colega desapareceu sem rastro foi o momento em que ele parou de ser testemunha e
+começou a ser arquiteto. Em 1986 finalmente entendeu os papéis do pai. Em 1988
+registrou o CLV e escolheu o próprio codinome com precisão: sabia o que Caim fez,
+sabia o que ele estava prestes a fazer, nomeou-se honestamente.
+Posição SIM desde antes da ADI existir. Os 847 são amostra de controle para
+atravessar a bifurcação. O porto = laboratório de observação fora da zona de impacto.
 _"Eu não destruí nada. Eu encontrei o que já estava aqui."_
+_"Quando der certo, ir embora."_ — frase do pai. Caim construiu a saída. Não consegue usar.
+
+**Aprofundamentos:** 32.1 (a mala, 1953) · 32.2 (o capítulo negro, 1969) · 32.3 (o nome, 1988) · 32.4 (o caderno do pai, presente)
 
 ---
 
