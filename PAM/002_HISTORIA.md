@@ -1934,6 +1934,203 @@ Você dobrou o caderno.
 
 ---
 
+### PARTE XVII — O Encontro
+
+#### Capítulo 45 — 5h47
+
+> _No dia seguinte — porto costeiro, litoral nordeste. 5h47 (BRT)._
+
+Você chegou cinco minutos antes.
+
+O porto estava vazio — sem capacetes laranjas, sem trabalhadores, sem os movimentos ritmados que você tinha visto da vegetação da primeira vez. A plataforma de concreto sobre o mar com o silêncio de algo que esperava, não de algo que descansava.
+
+Você desceu até a faixa de praia. A pedra com a ampulheta ainda estava fincada na rocha. Você passou por ela sem parar.
+
+Na extremidade da plataforma, de costas pra terra, havia um homem sentado no parapeito de concreto olhando pro mar. Sem casaco. Camisa de botão branca, mangas dobradas até o cotovelo. Caderno aberto no colo. Caneta na mão — não escrevendo, só segurando.
+
+🏛️ Ele não se virou quando você chegou.
+
+— Você levou mais tempo do que eu tinha calculado, — ele disse. Tom de quem nota um dado discrepante, não de quem reclama.
+
+— Precisei de certeza, — você respondeu.
+
+— Certeza é cara. — Ele fechou o caderno. — Sente.
+
+Você sentou no parapeito ao lado dele. O mar estava quieto. O sol ainda não tinha entrado.
+
+Caim olhou pro horizonte como se estivesse lendo alguma coisa escrita lá.
+
+---
+
+#### Capítulo 46 — A Conversa
+
+> _Continuação. 5h49–7h12 (BRT)._
+
+Ele foi direto.
+
+— O offshore quer este porto. Não o SIM — o porto. — Uma pausa. — A diferença importa. Se o SIM ganhar com o porto vazio, eles tomam a plataforma antes da bifurcação completar. O experimento fica sem o ponto de observação externo. Os dados do cruzamento se perdem.
+
+— O senhor construiu isso pra observar, — você disse. — Não pra escapar.
+
+— Escapar pressupõe que eu tenho algo a fugir. Eu tenho um experimento a concluir. — Ele olhou pra você pela primeira vez. Olhos claros, expressão que não era nem fria nem quente — era analítica. — Você é a variável que eu não modelei.
+
+— O irmão.
+
+Uma pausa real — a primeira desde que você tinha chegado.
+
+— Caso 4471-B. — Ele devolveu o olhar pro mar. — Eu sei quem ele era. Eu sei o que o slot 412 custou. — Pausa mais longa. — Algumas das escolhas que eu fiz eram necessárias. Outras eram elegantes. Eu não distingo mais a diferença entre os dois.
+
+Você ficou parado. Não era confissão — era observação clínica de si mesmo. Era mais perturbador do que confissão.
+
+— Por que me chamou?
+
+— Porque você é a única pessoa que entende o que vai acontecer e que não tem interesse no porto. — Ele abriu o caderno de novo. — Todos os outros têm posição. O offshore quer o ponto de observação. As Famílias querem o NÃO permanente. Eu quero o experimento completo. Você é o único que quer só uma coisa que não está na lista de ninguém.
+
+— Qual?
+
+Ele não respondeu de imediato. Escreveu algo no caderno. Depois:
+
+— O nome. Você quer que o nome do seu irmão não seja apagado pelo próximo ciclo.
+
+Você não disse nada.
+
+— Eu posso garantir isso, — ele disse. — Não como ato de redenção. Como dado. Se o ciclo for registrado com nome e endereço, o próximo Caim começa com memória. É a única coisa que quebra o padrão.
+
+Você perguntou o nome dele. O nome real.
+
+Ele te olhou por um tempo que você não soube medir.
+
+Depois devolveu o olhar pro mar sem responder.
+
+Mas você já sabia.
+
+---
+
+#### Capítulo 47 — A Decisão
+
+> _Tarde do mesmo dia — apartamento (BRT)._
+
+Você contou pra célula.
+
+O tabelião foi o primeiro a falar.
+
+— Ele admitiu alguma coisa?
+
+— Não em palavras.
+
+— Então não prova nada juridicamente.
+
+— Não estou pensando juridicamente, — você disse.
+
+A senhora de preto ficou olhando pro diagrama dela na mesa por um tempo.
+
+— Trabalhar com ele não é confiar nele. — Ela dobrou os braços. — Eu trabalhei pro CLV por 22 anos sem confiar. Funciona.
+
+A filha do faxineiro não disse nada por um tempo longo. Depois:
+
+— Meu pai passou 20 anos coletando os documentos dele sem entender o que eram. Caim nunca soube que ele existia. — Pausa. — Mas ele estava coletando mesmo assim. Algumas coisas acontecem sem que alguém precise saber.
+
+Ninguém respondeu.
+
+A decisão não foi dita em voz alta — foi tomada em silêncio, como as decisões que não têm volta costumam ser.
+
+---
+
+> _Fim da Parte XVII. Continua._
+
+---
+
+### PARTE XVIII — O Cruzamento
+
+#### Capítulo 48 — SIM
+
+> _Oito dias depois — 3h04 (BRT)._
+
+Você acordou com o celular vibrando.
+
+Não era alarme. Era a filha do faxineiro, em chamada de vídeo, a tela dela mostrando o display da ADI em tela cheia.
+
+> 🌍 **SIM: 51,3% · NÃO: 48,7%**
+
+Você ficou parado. Esperou.
+
+Um minuto. Dois. Cinco.
+
+Nenhum `CORRECTION_EVENT`.
+
+Às 3h19, o número subiu.
+
+> 🌍 **SIM: 51,8%**
+
+— Está esperando corrigir, — você disse.
+
+— Não vai corrigir, — ela respondeu. A voz dela era quieta do jeito que fica quando alguém está processando algo grande demais pra ser dito alto. — O protocolo de correção requer quórum de validação do Conselho. A Família 1 está tentando acionar. Mas o assento 433 está bloqueando.
+
+O offshore.
+
+— Eles não querem que corrija, — você entendeu. — Eles querem o porto vazio antes de corrigir.
+
+— Eles estão esperando o SIM chegar alto o suficiente pra desestabilizar o sistema inteiro. — Pausa. — Daí tomam o porto no caos.
+
+Às 4h47, todos os celulares do mundo receberam uma segunda notificação — não a votação diária. Algo que nunca tinha aparecido antes:
+
+> 🌍 **LIMIAR HISTÓRICO ATINGIDO**
+> _Primeira maioria SIM em registro global._
+> _Protocolo de estabilização ativo._
+
+O "protocolo de estabilização" não estava em nenhum documento público da ADI.
+
+Às 6h03, o NÃO não tinha recuperado a maioria.
+
+O mundo estava destruído há três horas e ainda estava aqui.
+
+---
+
+#### Capítulo 49 — O Que o Modelo Não Lê
+
+> _Mesmo dia — 9h41 (BRT)._
+
+A filha do faxineiro ligou de novo às 9h41.
+
+A voz dela era diferente — não assustada, mas com a textura de quem viu alguma coisa que não consegue classificar ainda.
+
+— Eu estava analisando os logs do servidor desde o cruzamento. O algoritmo da ADI está produzindo outputs que não existiam no modelo. Não são erros — o modelo está lendo variáveis que não estavam no treinamento.
+
+— O que são essas variáveis?
+
+— Não sei ainda. — Uma pausa. — Mas tem um padrão de votação que apareceu nos logs às 3h04, exatamente no momento do cruzamento. Um padrão idêntico ao do dia 847 — mas de um nó de servidor que não existe mais. Foi desativado em 1987.
+
+Silêncio.
+
+— Existe dado de 1987 no sistema atual?
+
+— Não devia existir. — A voz dela ficou mais quieta. — Lucas, o nó que gerou esse padrão foi o primeiro servidor do CLV. O que Caim usou antes da ADI existir. Ele foi desativado quando o sistema migrou. Ele não deveria estar gerando nada.
+
+Você abriu o caderno. Escreveu:
+
+_o modelo não está errando._
+_ele está lendo algo que o treinamento não incluiu._
+_o padrão do ciclo anterior ainda está no sistema._
+_não apagou. esperou._
+
+Ela continuou:
+
+— Tem mais uma coisa. — Pausa longa. — No campo de comentários da votação desta manhã, em servidores de seis países diferentes, usuários que não se conhecem escreveram a mesma coisa. Palavra por palavra. Sem combinação detectável.
+
+— O quê?
+
+Ela leu:
+
+_"Já passou aqui antes."_
+
+Você ficou parado por um longo tempo.
+
+Depois fechou o caderno.
+
+> _A partir deste ponto, a história continua em_ [MITOLOGIA.md](MITOLOGIA.md).
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que

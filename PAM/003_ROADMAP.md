@@ -22,23 +22,26 @@
 | **XII**  | O Movimento     | 33    | Você toma a primeira ação ofensiva                 | ✅ fechado — abre XIII      |
 | **XIII** | O Limiar        | 34–36 | O preço de cada assento no porto                   | ✅ fechado — abre XIV       |
 | **XIV**  | A Célula        | 37–38 | A resistência se forma. O offshore compra assentos | ✅ fechado — abre XV        |
-| **XV**   | O Desequilíbrio | 39–41 | Offshore no Conselho. O SIM já ganhou uma vez      | ✅ fechado — abre XVI        |
-| **XVI**  | A Vêspera       | 42–44 | 0002 avisa. SIM toca 50%. Caim chama o encontro    | 🔵 iniciado                 |
+| **XV**   | O Desequilíbrio | 39–41 | Offshore no Conselho. O SIM já ganhou uma vez      | ✅ fechado — abre XVI       |
+| **XVI**  | A Vêspera       | 42–44 | 0002 avisa. SIM toca 50%. Caim chama o encontro    | ✅ fechado — abre XVII       |
+| **XVII** | O Encontro     | 45–47 | Encontro com Caim. A conversão. A decisão         | ✅ fechado — abre XVIII      |
+| **XVIII**| O Cruzamento   | 48–49 | SIM permanente. Padrão do ciclo anterior ativo    | ✅ fechado — mitologia inicia |
 
 ---
 
 ## Contador de Mitologia
 
 ```
-[═══════════════════════░░░░░░░] 55%
+[══════════════════════════░░░░░] 70%
 ```
 
-**Onde estamos:** SIM tocou 50,1% por 3h47m e foi corrigido. A correção demorou 3h47m
-vs. instante no dia 847 — a máquina está mais lenta. Caim colocou uma coordenada no
-metadado da votação: o porto, amanhã, 5h47. Você vai sozinho. O offshore quer o porto
-vazio, não o SIM — aviso de 0002.
+**Onde estamos:** SIM permanentemente em 51,8%. Primeira maioria SIM na história.
+Servidor desativado em 1987 (primeiro CLV) gerando output. Seis países reportam
+a mesma frase sem combinação: _"Já passou aqui antes."_
+Historia principal encerrada. **Continua em MITOLOGIA.md.**
 
-**O que falta para a mitologia vazar de vez:** o encontro com Caim. Estimativa: Parte XVII.
+**O que falta para 100%:** identidade do offshore X., o que acontece no cruzamento,
+o nome de Caim confirmado, a lista pública, o porto abre.
 
 ---
 
@@ -109,20 +112,21 @@ vazio, não o SIM — aviso de 0002.
 
 | Marca | Personagem         | Última aparição     | Status                                    |
 | ----- | ------------------ | ------------------- | ----------------------------------------- |
-| 🩶    | Você               | Cap. 44             | Indo ao porto — encontro com Caim          |
-| 🕯️    | O irmão            | Cap. 14             | Morto — escolhido antes da ADI existir    |
-| 🖤    | A mãe              | Cap. 40             | Em casa — guardou o cartão do irmão       |
+| 🩶    | Você               | Cap. 49             | Na célula — aguardando o cruzamento        |
+| 🕯️    | O irmão            | Cap. 14             | Morto — nome será o registro final          |
+| 🖤    | A mãe              | Cap. 40             | Em casa — posição desconhecida após SIM     |
+| 🏡️    | A Casa / Caim      | Cap. 46             | No porto — observando o cruzamento          |
 | ⛏️    | O coveiro          | Cap. 34             | ✅ Fechado — deu o cartão com a ampulheta |
 | 🚬    | A senhora de preto | Cap. 37–38          | Na célula — mapas internos do CLV         |
 | 💼    | O trader           | Cap. 25 (lista)     | Entrada 412 — aguardando embarque         |
 | 🧹    | O faxineiro        | Cap. 26             | Morto — Evento Tipo II                    |
 | 🤍    | A mulher da Casa   | Cap. 30             | Morta — Evento Tipo IV                    |
 | 🏛️    | A Casa / Caim      | Cap. 32 (documento) | Vivo — no porto, aguardando               |
-| 😬    | ADI Predictstreet  | Cap. 43             | SIM tocou 50,1% por 3h47m — corrigido      |
-| ⚙️    | Executor / 0002    | Cap. 42             | Avisou: offshore quer porto vazio          |
-| —     | Tabelião           | Cap. 43             | Na célula — ouviu a correção ao vivo      |
-| —     | Filha do faxineiro | Cap. 44             | Encontrou o sinal de Caim nos metadados    |
-| —     | Offshore X.        | Cap. 42             | Quer porto vazio, não o SIM (aviso 0002)  |
+| 😬    | ADI Predictstreet  | Cap. 48             | SIM 51,8% permanente — sem correção       |
+| ⚙️    | Executor / 0002    | Cap. 42             | Posição desconhecida pós-cruzamento       |
+| —     | Tabelião           | Cap. 47             | Na célula — acordo firmado                |
+| —     | Filha do faxineiro | Cap. 49             | Encontrou o padrão do ciclo anterior      |
+| —     | Offshore X.        | Cap. 48             | Tentando tomar porto no caos              |
 
 ---
 
