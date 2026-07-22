@@ -60,13 +60,13 @@ desse mecanismo ao medo existencial — mas a lógica subjacente existe e é men
 
 ### Os índices de medo
 
-| Instrumento | O que mede | Como é calculado |
-|---|---|---|
-| **VIX** (CBOE) | Medo de queda do S&P 500 | Preço das opções de proteção: mais demanda por seguro → VIX sobe |
-| **OVX** | Volatilidade do petróleo | Mesmo mecanismo, aplicado ao barril de Brent/WTI |
-| **MOVE Index** | Medo no mercado de títulos públicos | Volatilidade implícita dos treasuries americanos |
-| **CDS** (Credit Default Swap) | Risco de calote de país ou empresa | Prêmio pago por "seguro contra default" — sobe quando o risco sobe |
-| **Fear & Greed Index** | Sentimento geral do mercado | Composite de 7 indicadores: momentum, força, volume, opções, demanda por bonds |
+| Instrumento                   | O que mede                          | Como é calculado                                                               |
+| ----------------------------- | ----------------------------------- | ------------------------------------------------------------------------------ |
+| **VIX** (CBOE)                | Medo de queda do S&P 500            | Preço das opções de proteção: mais demanda por seguro → VIX sobe               |
+| **OVX**                       | Volatilidade do petróleo            | Mesmo mecanismo, aplicado ao barril de Brent/WTI                               |
+| **MOVE Index**                | Medo no mercado de títulos públicos | Volatilidade implícita dos treasuries americanos                               |
+| **CDS** (Credit Default Swap) | Risco de calote de país ou empresa  | Prêmio pago por "seguro contra default" — sobe quando o risco sobe             |
+| **Fear & Greed Index**        | Sentimento geral do mercado         | Composite de 7 indicadores: momentum, força, volume, opções, demanda por bonds |
 
 O VIX acima de 20 indica tensão; acima de 30, pânico; acima de 40, crise sistêmica. Em
 todos os casos, o instrumento **não mede o evento** — mede a **ansiedade sobre o evento**.
@@ -97,8 +97,8 @@ O Algoritmo de Baal da ficção é a operacionalização desta lógica em escala
 
 $$H_{\text{medo}}(t) = -k \sum_{i=1}^{N} p_i(t) \ln p_i(t)$$
 
-Em vez de medir medo de queda do S&P 500 → **medo do fim do mundo**.  
-Em vez de CDS sobre dívida soberana → **apostas sobre a morte de indivíduos específicos**.  
+Em vez de medir medo de queda do S&P 500 → **medo do fim do mundo**.
+Em vez de CDS sobre dívida soberana → **apostas sobre a morte de indivíduos específicos**.
 Em vez de OVX (volatilidade do barril) → **volatilidade da existência humana coletiva**.
 
 O mecanismo é idêntico. A diferença é a escala do ativo subjacente.

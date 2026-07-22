@@ -22,23 +22,23 @@
 | **XII**  | O Movimento     | 33    | Você toma a primeira ação ofensiva                 | ✅ fechado — abre XIII      |
 | **XIII** | O Limiar        | 34–36 | O preço de cada assento no porto                   | ✅ fechado — abre XIV       |
 | **XIV**  | A Célula        | 37–38 | A resistência se forma. O offshore compra assentos | ✅ fechado — abre XV        |
-| **XV**   | O Desequilíbrio | 39–41 | Offshore no Conselho. O SIM já ganhou uma vez      | 🔵 iniciado                 |
+| **XV**   | O Desequilíbrio | 39–41 | Offshore no Conselho. O SIM já ganhou uma vez      | ✅ fechado — abre XVI        |
+| **XVI**  | A Vêspera       | 42–44 | 0002 avisa. SIM toca 50%. Caim chama o encontro    | 🔵 iniciado                 |
 
 ---
 
 ## Contador de Mitologia
 
 ```
-[══════════════════░░░░░░░░░░░░] 42%
+[═══════════════════════░░░░░░░] 55%
 ```
 
-**Onde estamos:** SIM em 47,1% — a 3 pontos do limiar. O SIM já ganhou uma vez (dia 847)
-e as 3 Famílias suprimiram o resultado. O offshore X. comprou assento 433 no Conselho.
-O irmão já estava na lista antes da ADI existir publicamente.
+**Onde estamos:** SIM tocou 50,1% por 3h47m e foi corrigido. A correção demorou 3h47m
+vs. instante no dia 847 — a máquina está mais lenta. Caim colocou uma coordenada no
+metadado da votação: o porto, amanhã, 5h47. Você vai sozinho. O offshore quer o porto
+vazio, não o SIM — aviso de 0002.
 
-**O que falta para a mitologia vazar:** SIM cruzar 50% sem correção. Estimativa: ~1–2 partes.
-**O que já vazou:** o nome Baal, a física de Prigogine, o porto real (Cap. 33), o símbolo
-pre-Caim, dia 847 suprimido, o irmão escolhido antes da ADI, offshore dentro do Conselho.
+**O que falta para a mitologia vazar de vez:** o encontro com Caim. Estimativa: Parte XVII.
 
 ---
 
@@ -109,7 +109,7 @@ pre-Caim, dia 847 suprimido, o irmão escolhido antes da ADI, offshore dentro do
 
 | Marca | Personagem         | Última aparição     | Status                                    |
 | ----- | ------------------ | ------------------- | ----------------------------------------- |
-| 🩶    | Você               | Cap. 41             | Ativo — sabe do dia 847                   |
+| 🩶    | Você               | Cap. 44             | Indo ao porto — encontro com Caim          |
 | 🕯️    | O irmão            | Cap. 14             | Morto — escolhido antes da ADI existir    |
 | 🖤    | A mãe              | Cap. 40             | Em casa — guardou o cartão do irmão       |
 | ⛏️    | O coveiro          | Cap. 34             | ✅ Fechado — deu o cartão com a ampulheta |
@@ -118,11 +118,11 @@ pre-Caim, dia 847 suprimido, o irmão escolhido antes da ADI, offshore dentro do
 | 🧹    | O faxineiro        | Cap. 26             | Morto — Evento Tipo II                    |
 | 🤍    | A mulher da Casa   | Cap. 30             | Morta — Evento Tipo IV                    |
 | 🏛️    | A Casa / Caim      | Cap. 32 (documento) | Vivo — no porto, aguardando               |
-| 😬    | ADI Predictstreet  | Cap. 41             | SIM em 47,1% e subindo                    |
-| ⚙️    | Executor / 0002    | Cap. 30             | Ativo — sem instrução — perigo            |
-| —     | Tabelião           | Cap. 37–38          | Na célula — trilha legal dos 847          |
-| —     | Filha do faxineiro | Cap. 41             | Na célula — encontrou o dia 847           |
-| —     | Offshore X.        | Cap. 39             | Assento 433 no Conselho — quarta Família  |
+| 😬    | ADI Predictstreet  | Cap. 43             | SIM tocou 50,1% por 3h47m — corrigido      |
+| ⚙️    | Executor / 0002    | Cap. 42             | Avisou: offshore quer porto vazio          |
+| —     | Tabelião           | Cap. 43             | Na célula — ouviu a correção ao vivo      |
+| —     | Filha do faxineiro | Cap. 44             | Encontrou o sinal de Caim nos metadados    |
+| —     | Offshore X.        | Cap. 42             | Quer porto vazio, não o SIM (aviso 0002)  |
 
 ---
 

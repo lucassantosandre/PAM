@@ -1824,6 +1824,116 @@ Dois pontos a mais que ontem.
 
 ---
 
+### PARTE XVI — A Véspera
+
+#### Capítulo 42 — O Papel
+
+> _Quatro dias depois — tarde, café próximo ao apartamento (BRT)._
+
+Você estava sozinho. Era a primeira vez em dias que estava sozinho de verdade — sem o caderno aberto, sem o diagrama, sem a lista.
+
+Pediu um café. Ficou olhando pela janela.
+
+Quando voltou a olhar pra mesa, tinha um papel dobrado embaixo da xícara.
+
+Você não tinha visto ninguém sentar. Não tinha ouvido cadeira. O café estava do mesmo jeito que o garçom tinha deixado — só o papel era novo, dobrado em quatro, branco, sem envelope.
+
+Abriu devagar.
+
+Uma linha. Letra de caneta esferográfica, regular, sem traço de pressa:
+
+_"O offshore não quer o SIM. Quer o porto vazio."_
+
+Sem assinatura. Sem número. Sem instrução.
+
+Você olhou pro salão. Havia sete pessoas. Uma mulher idosa com sacola de compras. Dois estudantes com notebook. Um homem de meia-idade de frente pra janela, costas pra você — de camisa de botão, cabelo branco.
+
+Quando você se levantou, ele já não estava mais lá.
+
+A cadeira estava no lugar exato como se ninguém tivesse sentado nela.
+
+---
+
+#### Capítulo 43 — 49%
+
+> _Três dias depois — noite (BRT)._
+
+A notícia saiu às 19h04.
+
+Não era um vazamento — era o próprio display da ADI, público, visível em qualquer celular do mundo. Pela primeira vez desde o primeiro dia, a porcentagem do SIM tinha ultrapassado 49%.
+
+> 🌍 **SIM: 49,3% · NÃO: 50,7%**
+
+Em menos de duas horas, a hashtag estava nos trending de dezesseis países. Canais de notícia mostrando o número ao vivo. Economistas sendo entrevistados. Um porta-voz do governo brasileiro emitiu nota: _"Os indicadores de estabilidade sistêmica encontram-se dentro dos parâmetros normais."_ Ninguém acreditou, e ninguém disse que não acreditou.
+
+A filha do faxineiro mandou mensagem às 23h12: _"fica acordado."_
+
+Às 2h38 da manhã, o display mudou.
+
+> 🌍 **SIM: 50,1%**
+
+Você ficou olhando pra tela sem piscar. A célula inteira estava em chamada silenciosa — ninguém falou nada por um tempo que pareceu muito mais longo do que foi.
+
+A filha do faxineiro, finalmente:
+
+— Cronometrando.
+
+Às 6h25, o display corrigiu.
+
+> 🌍 **SIM: 48,6% · NÃO: 51,4%**
+
+Ela falou de novo:
+
+— Três horas, quarenta e sete minutos. No dia 847, a correção foi instantânea. Menos de um segundo.
+
+Silêncio na chamada.
+
+— A máquina está mais lenta, — o tabelião disse. Não era pergunta.
+
+— A máquina está com mais dados pra processar, — ela corrigiu. — Tem muita coisa acontecendo que o modelo não consegue classificar. — Pausa. — Inclusive nós.
+
+---
+
+#### Capítulo 44 — O Sinal
+
+> _No dia seguinte — manhã cedo (BRT)._
+
+Ela encontrou às 7h19.
+
+Estava nos metadados da votação do dia — não no resultado público, nos campos de sistema que nenhum usuário comum vê, onde ficam timestamps de validação e identificadores de nó. Um campo chamado `OBSERVER_NOTE` que não constava na documentação pública da ADI e que estava vazio em todos os dias anteriores que ela tinha analisado.
+
+Naquele dia, tinha conteúdo.
+
+Uma string em hexadecimal. Ela converteu.
+
+Eram duas coisas: uma coordenada costeira — a mesma que você tinha anotado no caderno no Cap. 33, fração de grau de diferença — e um horário. Amanhã. 5h47.
+
+E um caractere no final que ela não precisou converter.
+
+Era a ampulheta.
+
+Você olhou pro caderno. A coordenada era do porto. O horário — 5h47 — era o mesmo que você tinha chegado lá da primeira vez, antes do sol entrar.
+
+Alguém sabia que você tinha ido.
+
+Alguém sabia a hora exata.
+
+E esse alguém tinha acesso à arquitetura interna da ADI num nível que não era nem das 3 Famílias, nem do offshore. Era de quem tinha construído o sistema.
+
+A filha do faxineiro leu o que você estava pensando.
+
+— Se for armadilha, ele já podia ter mandado o 0002 há duas semanas.
+
+Você dobrou o caderno.
+
+— Eu vou sozinho.
+
+---
+
+> _Fim da Parte XVI. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
