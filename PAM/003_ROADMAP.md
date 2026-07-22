@@ -6,26 +6,26 @@
 
 ## Status dos Arcos
 
-| Parte    | Arco            | Caps  | Tensão central                                     | Status                      |
-| -------- | --------------- | ----- | -------------------------------------------------- | --------------------------- |
-| **I**    | O Primeiro Dia  | 1–5   | O que é a ADI? O voto é real?                      | ✅ fechado                  |
-| **II**   | O Luto          | 6–11  | Quem lucra com a morte do irmão?                   | ✅ fechado                  |
-| **III**  | A Rotina        | 12–14 | Sobreviver sabendo o que sabe                      | ✅ fechado                  |
-| **IV**   | O Júri          | 15    | O que vale a absolvição que não muda nada?         | ✅ fechado                  |
-| **V**    | O Barulho       | 16–17 | Resistência tem preço?                             | ✅ fechado                  |
-| **VI**   | A Casa          | 18–19 | Todo mundo tem um preço — e o seu?                 | ✅ fechado — o Não foi dito |
-| **VII**  | O Fio           | 20–22 | O que é o porto? Quem está por trás?               | ✅ fechado — abre VIII      |
-| **VIII** | O Porto         | 23–25 | Quem é Caim? O que é o evento final?               | 🟡 base estabelecida        |
-| **IX**   | A Caça          | 26–28 | Por que Você está em "monitorar"?                  | ✅ fechado                  |
-| **X**    | A Armadilha     | 29–30 | A saída existe? Caim preso pelo próprio sistema    | ✅ fechado                  |
-| **XI**   | O Físico        | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal       | ✅ fechado — abre XII       |
-| **XII**  | O Movimento     | 33    | Você toma a primeira ação ofensiva                 | ✅ fechado — abre XIII      |
-| **XIII** | O Limiar        | 34–36 | O preço de cada assento no porto                   | ✅ fechado — abre XIV       |
-| **XIV**  | A Célula        | 37–38 | A resistência se forma. O offshore compra assentos | ✅ fechado — abre XV        |
-| **XV**   | O Desequilíbrio | 39–41 | Offshore no Conselho. O SIM já ganhou uma vez      | ✅ fechado — abre XVI       |
-| **XVI**  | A Vêspera       | 42–44 | 0002 avisa. SIM toca 50%. Caim chama o encontro    | ✅ fechado — abre XVII       |
-| **XVII** | O Encontro     | 45–47 | Encontro com Caim. A conversão. A decisão         | ✅ fechado — abre XVIII      |
-| **XVIII**| O Cruzamento   | 48–49 | SIM permanente. Padrão do ciclo anterior ativo    | ✅ fechado — mitologia inicia |
+| Parte     | Arco            | Caps  | Tensão central                                     | Status                        |
+| --------- | --------------- | ----- | -------------------------------------------------- | ----------------------------- |
+| **I**     | O Primeiro Dia  | 1–5   | O que é a ADI? O voto é real?                      | ✅ fechado                    |
+| **II**    | O Luto          | 6–11  | Quem lucra com a morte do irmão?                   | ✅ fechado                    |
+| **III**   | A Rotina        | 12–14 | Sobreviver sabendo o que sabe                      | ✅ fechado                    |
+| **IV**    | O Júri          | 15    | O que vale a absolvição que não muda nada?         | ✅ fechado                    |
+| **V**     | O Barulho       | 16–17 | Resistência tem preço?                             | ✅ fechado                    |
+| **VI**    | A Casa          | 18–19 | Todo mundo tem um preço — e o seu?                 | ✅ fechado — o Não foi dito   |
+| **VII**   | O Fio           | 20–22 | O que é o porto? Quem está por trás?               | ✅ fechado — abre VIII        |
+| **VIII**  | O Porto         | 23–25 | Quem é Caim? O que é o evento final?               | 🟡 base estabelecida          |
+| **IX**    | A Caça          | 26–28 | Por que Você está em "monitorar"?                  | ✅ fechado                    |
+| **X**     | A Armadilha     | 29–30 | A saída existe? Caim preso pelo próprio sistema    | ✅ fechado                    |
+| **XI**    | O Físico        | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal       | ✅ fechado — abre XII         |
+| **XII**   | O Movimento     | 33    | Você toma a primeira ação ofensiva                 | ✅ fechado — abre XIII        |
+| **XIII**  | O Limiar        | 34–36 | O preço de cada assento no porto                   | ✅ fechado — abre XIV         |
+| **XIV**   | A Célula        | 37–38 | A resistência se forma. O offshore compra assentos | ✅ fechado — abre XV          |
+| **XV**    | O Desequilíbrio | 39–41 | Offshore no Conselho. O SIM já ganhou uma vez      | ✅ fechado — abre XVI         |
+| **XVI**   | A Vêspera       | 42–44 | 0002 avisa. SIM toca 50%. Caim chama o encontro    | ✅ fechado — abre XVII        |
+| **XVII**  | O Encontro      | 45–47 | Encontro com Caim. A conversão. A decisão          | ✅ fechado — abre XVIII       |
+| **XVIII** | O Cruzamento    | 48–49 | SIM permanente. Padrão do ciclo anterior ativo     | ✅ fechado — mitologia inicia |
 
 ---
 
@@ -112,10 +112,10 @@ o nome de Caim confirmado, a lista pública, o porto abre.
 
 | Marca | Personagem         | Última aparição     | Status                                    |
 | ----- | ------------------ | ------------------- | ----------------------------------------- |
-| 🩶    | Você               | Cap. 49             | Na célula — aguardando o cruzamento        |
-| 🕯️    | O irmão            | Cap. 14             | Morto — nome será o registro final          |
-| 🖤    | A mãe              | Cap. 40             | Em casa — posição desconhecida após SIM     |
-| 🏡️    | A Casa / Caim      | Cap. 46             | No porto — observando o cruzamento          |
+| 🩶    | Você               | Cap. 49             | Na célula — aguardando o cruzamento       |
+| 🕯️    | O irmão            | Cap. 14             | Morto — nome será o registro final        |
+| 🖤    | A mãe              | Cap. 40             | Em casa — posição desconhecida após SIM   |
+| 🏡️    | A Casa / Caim      | Cap. 46             | No porto — observando o cruzamento        |
 | ⛏️    | O coveiro          | Cap. 34             | ✅ Fechado — deu o cartão com a ampulheta |
 | 🚬    | A senhora de preto | Cap. 37–38          | Na célula — mapas internos do CLV         |
 | 💼    | O trader           | Cap. 25 (lista)     | Entrada 412 — aguardando embarque         |

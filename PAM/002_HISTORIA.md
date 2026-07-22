@@ -2699,6 +2699,148 @@ E ele ainda estava aqui.
 
 ---
 
+### Expansões do Capítulo 49 — O Que o Modelo Não Lê
+
+#### 49.1 — A Linha Zerada 🔎
+
+> _Segunda-feira seguinte ao cruzamento — 09h14 (BRT). Brasília, Secretaria do Tesouro Nacional._
+
+A receita de dividendo entrópico entrava todo dia útil às 09h00.
+
+Às 09h14, a analista ainda estava esperando a confirmação automática no sistema. Onze anos no mesmo posto — ela sabia que o delay normal era de dois a três minutos. Sete a oito quando o servidor do CLV estava em manutenção programada. Nunca mais de doze.
+
+Eram 09h14.
+
+Ela abriu a interface de reconciliação e rodou a consulta manual. O campo voltou:
+
+```
+RECEITA_ENTROPICA_DIARIA: R$ 0,00
+STATUS_CONTRATO: EM_LIQUIDAÇÃO
+REFERENCIA_CLV: 4471-SYSTEMATICUS
+CONTRAPARTE_LIQUIDANTE: [INDEFINIDA]
+PRAZO_RESOLUCAO: [NULL]
+```
+
+Ela ficou olhando para a tela.
+
+Em onze anos, o status `[INDEFINIDA]` nunca tinha aparecido. O campo `PRAZO_RESOLUCAO: [NULL]` ela nunca tinha visto documentado em nenhum manual de integração.
+
+Rodou de novo. Mesmo resultado.
+
+Mandou email pro supervisor: _"Anomalia na receita entrópica — linha zerada desde 09h00. Status de contrato retornou INDEFINIDA. Aguardando retorno do CLV para reconciliação."_
+
+Assunto: `RE: PROTOCOLO_ESTABILIZAÇÃO — linha 4471`.
+
+O supervisor não respondeu naquele dia.
+
+A linha continuou zerada no dia seguinte. E no seguinte.
+
+Na quinta-feira, um memo circular chegou pelo sistema interno. Assunto: _"Receita de dividendo entrópico — suspensão temporária — prazo a definir."_ Assinado por uma diretoria que ela nunca tinha visto emitir comunicados sobre receita.
+
+Ela arquivou o memo. Rodou a reconciliação de novo. Zerada.
+
+O orçamento federal tinha uma dependência de 2,3% sobre a linha de dividendo entrópico. Eram R$ 47 bilhões anuais. A linha tinha sido criada em 2019, quando o CLV expandiu para o mercado brasileiro. Nos primeiros três anos, a receita foi classificada como _"experimental"_. Depois foi absorvida no planejamento plurianual como receita recorrente.
+
+Ninguém tinha escrito um plano de contingência para o caso de ela parar.
+
+Ninguém tinha imaginado que ela fosse parar.
+
+A analista tinha 38 anos, dois filhos, e uma planilha que exibia zero num campo que sempre tinha exibido um número. Ela não sabia o que era um derivativo entropy-linked. Não sabia que existia o SIM ou o NÃO. Não tinha votado na ADI nenhuma vez — o aplicativo nunca tinha chegado no seu celular de governo, que rodava uma versão desatualizada do sistema operacional.
+
+Ela só sabia que o número estava zerado.
+
+Na sexta-feira, ela enviou um segundo email. Mesmo assunto. Sem resposta.
+
+Na segunda seguinte, chegou um novo memo: _"Receita de dividendo entrópico — reclassificação contábil em andamento. Manter linha em aberto até nova instrução."_
+
+Ela reclassificou a linha. Deixou em aberto.
+
+Entrou no fim de semana sem saber que estava olhando pra primeira rachadura visível de 2,7 trilhões parados ao mesmo tempo.
+
+---
+
+### Expansões do Capítulo 50 — Sete Horas e Catorze Minutos
+
+#### 50.1 — O Modelo Sem Resposta 🔎
+
+> _Seis dias após o cruzamento — 16h51 (BRT). São Paulo, mesa de operações._
+
+O 💼 trader tinha 22 anos de mesa.
+
+Conhecia crashes. Conhecia spreads que se abriam como feridas durante a madrugada, posições que viravam o avesso entre o pregão de Nova York e a abertura de Tóquio. Conhecia o cheiro de uma liquidação forçada antes de os números mostrarem. Tinha sobrevivido a 2008 com perda controlada. Tinha transformado 2020 num trimestre lucrativo vendendo volatilidade na crise errada.
+
+Mas nos últimos seis dias, o campo `MARK_TO_MARKET` da planilha principal exibia `#N/A` em 34 posições correlacionadas com a série 4471.
+
+`#N/A` não era vermelho. Não era prejuízo. Era ausência de resposta.
+
+O modelo não tinha preço de referência para calcular. O benchmark do qual os instrumentos dependiam — o `IMPACTO_ESTIMADO` da CLV — havia retornado `[SEM_REFERÊNCIA]` na segunda-feira. Sem benchmark, sem mark-to-market. Sem mark-to-market, sem P&L diário. Sem P&L diário, sem relatório de risco para o compliance.
+
+Tinha ligado para o gestor de risco na terça.
+
+— Aguarda orientação da CLV.
+
+Na quarta, de novo.
+
+— Ainda aguardando.
+
+Na quinta, a CLV emitiu uma nota de dois parágrafos que não dizia nada além de _"em processo de estabilização."_ O compliance aceitou como resposta provisória. O campo `#N/A` continuava lá.
+
+Ele rodou os cenários manualmente: se o benchmark fosse marcado a zero, a perda teórica era R$ 2,3 bilhões na carteira dele. Se fosse marcado ao último valor conhecido — sexta antes do cruzamento — as 34 posições estavam levemente positivas. A diferença entre os dois cenários era R$ 2,3 bilhões.
+
+O problema era que nenhum dos dois cenários era real. O benchmark não era zero e não era o último valor. Era `[INDEFINIDO]`.
+
+Não havia precedente para isso nos 22 anos de mesa.
+
+Passou a tarde de quinta revisando os contratos originais da série 4471. Página 12, cláusula 8.3: _"Em caso de ativação do evento sistêmico, o preço de liquidação será determinado pelo Conselho de Referência da CLV no prazo de 30 dias úteis."_
+
+30 dias úteis.
+
+Tinha mais 24 dias de `#N/A` antes de ter um número.
+
+Fechou o laptop às 19h30. No elevador, percebeu que estava com o estômago fechado desde segunda. Não era perda — era a ausência de resposta onde sempre houve resposta.
+
+Em 22 anos de mesa, o risco sempre tinha um número.
+
+O campo `#N/A` era a primeira coisa na planilha que não era risco.
+
+Era outra coisa que ele ainda não tinha nome para dar.
+
+---
+
+### Expansões do Capítulo 51 — O Ofício
+
+#### 51.1 — O Artigo 47 🔎
+
+> _Outubro de 1988 — Brasília, Cartório do 3º Registro de Pessoas Jurídicas._
+
+O processo de registro chegou numa quinta-feira, protocolo 4471-C.
+
+Quarenta e sete páginas. Denominação: _Autoridade de Continuidade de Infraestrutura Sistêmica — ACIS._ Natureza: autarquia especial de direito público. Finalidade: administração de instalações portuárias e de infraestrutura crítica classificadas antes de 1990.
+
+O escrevente tinha 31 anos e estava há quatro no cartório. O procedimento de registro de autarquias era o mesmo há décadas: verificar assinaturas, conferir CNPJ provisório, identificar o objeto social na página 1, carimbar, rubricar cada página, arquivar.
+
+Ele abriu na página 1. Leu o objeto social. Carimbo.
+
+Página 2, parágrafo 4, subitem c:
+
+_"Em caso de decretação de instabilidade sistêmica nos termos do Decreto-Lei 7.821/1987, a ACIS fica autorizada a assumir controle provisório de qualquer instalação portuária classificada como infraestrutura crítica, independentemente de autorização do Conselho Nacional, mediante notificação prévia de 72 horas ao responsável pela instalação."_
+
+Seis linhas. Linguagem de decreto. Ele rubricou sem parar para ler duas vezes — não era função do escrevente interpretar, era registrar.
+
+Páginas 3 a 47: cláusulas administrativas padrão. Organograma. Dotação orçamentária. Quadro de servidores. Nada que se distinguia de qualquer outra autarquia.
+
+Última página. Assinatura do Ministro de Estado da Infraestrutura. Data: 14 de outubro de 1988.
+
+Carimbo. Arquivo.
+
+O processo foi para a pasta de registros do trimestre. Em 1993, os registros foram microfilmados. Em 2004, os microfilmes foram digitalizados em baixa resolução. O PDF do processo 4471-C tinha 47 páginas e 8,3 MB. Disponível para consulta pública no portal do cartório, categoria _Autarquias Especiais 1980–1990_, sem indexação por palavras-chave.
+
+Nessas 37 anos, nenhuma consulta ao processo havia sido registrada.
+
+Até a manhã em que um advogado em Porto Alegre — depois de uma ligação de um tabelião que tinha estado acordado durante a noite inteira — abriu o portal, localizou o processo pelo número de protocolo e imprimiu a página 2.
+
+---
+
 ## FUNDAMENTAÇÃO
 
 > Versão completa e standalone em **[FUNDAMENTOS.md](FUNDAMENTOS.md)**.
