@@ -11,14 +11,14 @@
 
 ## Onde estamos ao entrar aqui
 
-| Estado | Valor |
-|---|---|
-| SIM | 51,8% e subindo — sem correção |
-| Mitologia | 70% — padrão ativo, ciclo anterior visível nos dados |
-| Caim | No porto — esperando os dados do cruzamento |
-| Offshore X. | Tentando tomar o porto no caos da estabilização |
-| Célula | Unida — acordo com Caim firmado em silêncio |
-| Executor 0002 | Posição desconhecida — última instrução: monitorar |
+| Estado        | Valor                                                |
+| ------------- | ---------------------------------------------------- |
+| SIM           | 51,8% e subindo — sem correção                       |
+| Mitologia     | 70% — padrão ativo, ciclo anterior visível nos dados |
+| Caim          | No porto — esperando os dados do cruzamento          |
+| Offshore X.   | Tentando tomar o porto no caos da estabilização      |
+| Célula        | Unida — acordo com Caim firmado em silêncio          |
+| Executor 0002 | Posição desconhecida — última instrução: monitorar   |
 
 ---
 
