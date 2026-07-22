@@ -6,37 +6,39 @@
 
 ## Status dos Arcos
 
-| Parte    | Arco           | Caps  | Tensão central                                  | Status                         |
-| -------- | -------------- | ----- | ----------------------------------------------- | ------------------------------ |
-| **I**    | O Primeiro Dia | 1–5   | O que é a ADI? O voto é real?                   | ✅ fechado                     |
-| **II**   | O Luto         | 6–11  | Quem lucra com a morte do irmão?                | ✅ fechado                     |
-| **III**  | A Rotina       | 12–14 | Sobreviver sabendo o que sabe                   | ✅ fechado                     |
-| **IV**   | O Júri         | 15    | O que vale a absolvição que não muda nada?      | ✅ fechado                     |
-| **V**    | O Barulho      | 16–17 | Resistência tem preço?                          | ✅ fechado                     |
-| **VI**   | A Casa         | 18–19 | Todo mundo tem um preço — e o seu?              | ✅ fechado — o Não foi dito    |
-| **VII**  | O Fio          | 20–22 | O que é o porto? Quem está por trás?            | ✅ fechado — abre VIII         |
-| **VIII** | O Porto        | 23–25 | Quem é Caim? O que é o evento final?            | 🟡 base estabelecida           |
-| **IX**   | A Caça         | 26–28 | Por que Você está em "monitorar"?               | 🔴 arco vivo                   |
-| **X**    | A Armadilha    | 29–30 | A saída existe? Caim preso pelo próprio sistema | 🔴 aberto                      |
-| **XI**   | O Físico       | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal    | 🔴 aberto — mitologia na borda |
-| **XII**  | O Movimento    | 33    | Você toma a primeira ação ofensiva              | ✅ fechado — abre XIII         |
-| **XIII** | O Limiar       | 34–36 | O preço de cada assento no porto                | ✅ fechado — abre XIV          |
-| **XIV**  | A Célula       | 37–38 | A resistência se forma. O offshore compra assentos | 🔵 iniciado                 |
+| Parte    | Arco           | Caps  | Tensão central                                     | Status                         |
+| -------- | -------------- | ----- | -------------------------------------------------- | ------------------------------ |
+| **I**    | O Primeiro Dia | 1–5   | O que é a ADI? O voto é real?                      | ✅ fechado                     |
+| **II**   | O Luto         | 6–11  | Quem lucra com a morte do irmão?                   | ✅ fechado                     |
+| **III**  | A Rotina       | 12–14 | Sobreviver sabendo o que sabe                      | ✅ fechado                     |
+| **IV**   | O Júri         | 15    | O que vale a absolvição que não muda nada?         | ✅ fechado                     |
+| **V**    | O Barulho      | 16–17 | Resistência tem preço?                             | ✅ fechado                     |
+| **VI**   | A Casa         | 18–19 | Todo mundo tem um preço — e o seu?                 | ✅ fechado — o Não foi dito    |
+| **VII**  | O Fio          | 20–22 | O que é o porto? Quem está por trás?               | ✅ fechado — abre VIII         |
+| **VIII** | O Porto        | 23–25 | Quem é Caim? O que é o evento final?               | 🟡 base estabelecida           |
+| **IX**   | A Caça         | 26–28 | Por que Você está em "monitorar"?                  | ✅ fechado                      |
+| **X**    | A Armadilha    | 29–30 | A saída existe? Caim preso pelo próprio sistema    | ✅ fechado                      |
+| **XI**   | O Físico       | 31–32 | Quando o SIM passa de 50%? Algoritmo de Baal       | ✅ fechado — abre XII            |
+| **XII**  | O Movimento    | 33    | Você toma a primeira ação ofensiva                 | ✅ fechado — abre XIII         |
+| **XIII** | O Limiar       | 34–36 | O preço de cada assento no porto                   | ✅ fechado — abre XIV          |
+| **XIV**  | A Célula       | 37–38 | A resistência se forma. O offshore compra assentos | ✅ fechado — abre XV             |
+| **XV**   | O Desequilíbrio| 39–41 | Offshore no Conselho. O SIM já ganhou uma vez     | 🔵 iniciado                    |
 
 ---
 
 ## Contador de Mitologia
 
 ```
-[════════════░░░░░░░░░░░░░░░░░░] 30%
+[══════════════════░░░░░░░░░░░░] 42%
 ```
 
-**Onde estamos:** O algoritmo tem nome (Baal). A física confirma que a bifurcação é inevitável.
-SIM em 43,2% — maior porcentagem já registrada.
+**Onde estamos:** SIM em 47,1% — a 3 pontos do limiar. O SIM já ganhou uma vez (dia 847)
+e as 3 Famílias suprimiram o resultado. O offshore X. comprou assento 433 no Conselho.
+O irmão já estava na lista antes da ADI existir publicamente.
 
-**O que falta para a mitologia vazar:** SIM cruzar 50%. Estimativa: ~3–4 partes.
-**O que já vazou:** o nome Baal, a física de Prigogine, o porto com "material que vai mais
-longe que construção", um símbolo mais antigo que Caim no Cap. 33.
+**O que falta para a mitologia vazar:** SIM cruzar 50% sem correção. Estimativa: ~1–2 partes.
+**O que já vazou:** o nome Baal, a física de Prigogine, o porto real (Cap. 33), o símbolo
+pre-Caim, dia 847 suprimido, o irmão escolhido antes da ADI, offshore dentro do Conselho.
 
 ---
 
@@ -105,22 +107,22 @@ longe que construção", um símbolo mais antigo que Caim no Cap. 33.
 
 ## Personagens — Posição Atual
 
-| Marca | Personagem         | Última aparição     | Status                                    |
-| ----- | ------------------ | ------------------- | ----------------------------------------- |
-| 🩶    | Você               | Cap. 38             | Ativo — lidera a célula                   |
-| 🕯️    | O irmão            | Cap. 14             | Morto — caso #4471-B                      |
-| 🖤    | A mãe              | Cap. 27             | Em casa — ameaçada                        |
-| ⛏️    | O coveiro          | Cap. 34             | ✅ Fechado — deu o cartão com a ampulheta |
-| 🚬    | A senhora de preto | Cap. 37–38          | Na célula — mapas internos do CLV         |
-| 💼    | O trader           | Cap. 25 (lista)     | Entrada 412 — aguardando embarque         |
-| 🧹    | O faxineiro        | Cap. 26             | Morto — Evento Tipo II                    |
-| 🤍    | A mulher da Casa   | Cap. 30             | Morta — Evento Tipo IV                    |
-| 🏛️    | A Casa / Caim      | Cap. 32 (documento) | Vivo — no porto, aguardando               |
-| 🎲    | ADI Predictstreet  | Cap. 38             | SIM em 45%+ e subindo                     |
-| ⚙️    | Executor / 0002    | Cap. 30             | Ativo — sem instrução atualizada          |
+| Marca | Personagem         | Última aparição     | Status                                     |
+| ----- | ------------------ | ------------------- | ------------------------------------------ |
+| 🩶    | Você               | Cap. 41             | Ativo — sabe do dia 847                    |
+| 🕯️    | O irmão            | Cap. 14             | Morto — escolhido antes da ADI existir     |
+| 🖤    | A mãe              | Cap. 40             | Em casa — guardou o cartão do irmão       |
+| ⛏️    | O coveiro          | Cap. 34             | ✅ Fechado — deu o cartão com a ampulheta  |
+| 🚬    | A senhora de preto | Cap. 37–38          | Na célula — mapas internos do CLV          |
+| 💼    | O trader           | Cap. 25 (lista)     | Entrada 412 — aguardando embarque          |
+| 🧹    | O faxineiro        | Cap. 26             | Morto — Evento Tipo II                     |
+| 🤍    | A mulher da Casa   | Cap. 30             | Morta — Evento Tipo IV                     |
+| 🏛️    | A Casa / Caim      | Cap. 32 (documento) | Vivo — no porto, aguardando                |
+| 😬    | ADI Predictstreet  | Cap. 41             | SIM em 47,1% e subindo                    |
+| ⚙️    | Executor / 0002    | Cap. 30             | Ativo — sem instrução — perigo           |
 | —     | Tabelião           | Cap. 37–38          | Na célula — trilha legal dos 847          |
-| —     | Filha do faxineiro | Cap. 37–38          | Na célula — física + diagrama             |
-| —     | Offshore X.        | Cap. 38             | 89 assentos comprados — terceiro interesse|
+| —     | Filha do faxineiro | Cap. 41             | Na célula — encontrou o dia 847           |
+| —     | Offshore X.        | Cap. 39             | Assento 433 no Conselho — quarta Família  |
 
 ---
 

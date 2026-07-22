@@ -1690,6 +1690,140 @@ _e não é Caim._
 
 ---
 
+### PARTE XV — O Desequilíbrio
+
+#### Capítulo 39 — Assento 0433
+
+> _Uma semana depois — tarde (BRT)._
+
+A senhora de preto reconheceu o nome antes de qualquer um.
+
+Ela tinha passado 22 anos processando contratos com o CLV. Sabia como as contas do fundo eram estruturadas — o prefixo, o sufixo, o código de câmara. Quando o tabelião mostrou o documento que confirmava o novo representante da Família 3 no Conselho de Validade, ela leu o código de câmara uma vez e ficou parada.
+
+— Esse é o mesmo prefixo das contas que compraram os 89 assentos.
+
+O tabelião releu. Você releu.
+
+— O offshore comprou a cadeira 433.
+
+Não era metáfora. Era transação. A Família 3, sem a mulher da Casa, tinha um assento vacante e dívida acumulada — o mesmo mecanismo que usavam nos outros. O offshore X. comprou a dívida, tomou o assento, entrou no Conselho.
+
+A filha do faxineiro abriu o diagrama que tinha desenhado no fichário. Apontou pro nó central — o Conselho de Validade, as três Famílias em torno.
+
+— Se o offshore controla um assento, eles podem bloquear qualquer validação Tipo IV que quiserem. — Pausa. — Ou aprovar.
+
+Você entendeu o que isso significava.
+
+O offshore não estava só acelerando a mola por fora. Estava entrando na sala do mecanismo. Não pra destruir — pra pilotar.
+
+O tabelião colocou os documentos na pasta. Fechou devagar.
+
+— Eles não são inimigos das 3 Famílias, — ele disse. — Eles são a quarta Família.
+
+---
+
+#### Capítulo 40 — A Mãe
+
+> _No dia seguinte — noite (BRT)._
+
+Você foi de ônibus. Chip antigo em casa. Rota diferente.
+
+🖤 Ela estava na cozinha quando você entrou. Não se virou de imediato — terminou o que estava fazendo, a panela no fogão, o pano de prato dobrado no ombro. A rotina de sempre. A armadura de sempre.
+
+Você sentou à mesa. Ela trouxe dois copos.
+
+Ficaram um tempo em silêncio — o silêncio que eles tinham aprendido a dividir depois que o irmão morreu, quando as palavras tinham ficado grandes demais pra maioria das coisas.
+
+Você foi direto.
+
+— Mãe. Antes da votação aparecer. O irmão trouxe alguma coisa pra casa?
+
+Ela ficou parada.
+
+Não foi a pausa de quem não lembra. Foi a pausa de quem lembrava e tinha decidido não dizer, e estava relendo a decisão.
+
+— Trouxe um cartão. — Ela foi à gaveta da cômoda do corredor — a mesma onde guardava documentos velhos e fotos. Voltou com um cartão branco, pequeno, sem texto. — Uns seis meses antes da votação aparecer no celular. Ele disse que tinha achado na rua perto do serviço. Mas o jeito que ele falou eu sabia que não era verdade.
+
+Você olhou pro cartão.
+
+No centro: uma ampulheta. Em relevo. Idêntica ao cartão que o executor tinha deixado cair na escada do prédio do irmão. Idêntica ao símbolo gravado na pedra do porto.
+
+— Por que você não disse antes?
+
+Ela pôs o cartão na mesa.
+
+— Porque quando a votação apareceu e o seu irmão morreu, eu achei que esse cartão era parte disso. E eu sabia que se você soubesse, você ia atrás. — Uma pausa. — Eu tinha razão.
+
+Você ficou olhando pro cartão.
+
+O irmão tinha recebido o cartão seis meses antes da ADI existir publicamente. Antes do primeiro voto. Antes do primeiro alerta global. O irmão já estava na lista antes de qualquer coisa aparecer na tela de qualquer celular.
+
+Eles não tinham apostado na morte dele depois da votação. Tinham escolhido o nome antes do jogo começar.
+
+Você guardou o cartão no caderno. Sem falar mais nada.
+
+A mãe ficou na cozinha enquanto você saía. Não disse _cuida-se_ — nunca dizia. Só desligou a luz do corredor depois que a porta fechou.
+
+---
+
+#### Capítulo 41 — Dia 847
+
+> _Dois dias depois — madrugada (BRT)._
+
+A filha do faxineiro ligou às 2h17.
+
+Não disse nada. Mandou um arquivo comprimido pelo número que não aparecia na agenda de ninguém. Dentro: um trecho de log de servidor da ADI — dados brutos de votação, com timestamp de validação. Ela tinha passado 48 horas nos arquivos que o pai tinha coletado durante 20 anos sem entender o que eram.
+
+Você abriu no notebook. Ela entrou em chamada.
+
+— Dia 847 da votação global. Você vai ver o timestamp.
+
+Você viu.
+
+Durante 6 horas e 11 minutos, no dia 847 do ciclo de votação, o SIM tinha atingido 51,3%. A linha era clara nos dados brutos — ascensão regular, cruzamento do limiar, plateau acima de 50%.
+
+Depois havia um campo que não aparecia nos dados públicos: `CORRECTION_EVENT — REASON: SYSTEMIC_ANOMALY`. E o número voltava pra 44,8%.
+
+— Eles falsificaram.
+
+— Não falsificaram, — ela corrigiu. — Reclassificaram. O campo de correção está dentro do protocolo — é uma função legítima do sistema pra quando detecta manipulação externa. Eles usaram o mecanismo anti-fraude pra encobrir o resultado real.
+
+Você ficou parado.
+
+— O SIM já ganhou uma vez.
+
+— Há 847 dias.
+
+Você ficou olhando pros números. Depois abriu o caderno. A lista de Caim: 847 nomes.
+
+— Ele sabia, — você disse.
+
+— Ele não só sabia. — A voz dela era quieta. — Ele construiu a lista com esse número porque sabia a data do primeiro cruzamento. Ele estava esperando o segundo. A lista é a contagem regressiva, não o plano de saída.
+
+Você escreveu no caderno:
+
+_o SIM já ganhou._
+_no dia 847._
+_eles não deixaram contar._
+_caim sabia._
+_a lista é a data._
+
+A chamada fechou. A tela ficou escura.
+
+Você ficou sentado no escuro por um tempo que não soube medir.
+
+Lá fora, o celular acendeu com a votação do dia. A mesma notificação de sempre. O mesmo mundo a ser destruído em 24 horas.
+
+> 🌍 **SIM: 47,1% · NÃO: 52,9%**
+
+Dois pontos a mais que ontem.
+
+---
+
+> _Fim da Parte XV. Continua._
+
+---
+
 ## APROFUNDAMENTOS
 
 _POVs paralelos que expandem a espinha central — **opcionais**. Numerados pelo capítulo que
