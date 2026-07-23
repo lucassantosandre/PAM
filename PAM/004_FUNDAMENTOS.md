@@ -90,15 +90,15 @@ O agronegócio do tabaco gera ~US$ 1 bilhão em exportações anuais (MAPA, 2024
 
 ### O mapa completo: sete casos e o que determina o desfecho
 
-| Substância/Atividade | Quando proibida | Quem lucrava antes | Por que foi proibida | Por que foi (ou será) legalizada |
-|---|---|---|---|---|
-| **Álcool** | 1920 (EUA) | Destiladores, cervejarias | Coalizão moral + anti-germanismo WWI + sufragismo | Crise fiscal de 1929–33; New Deal precisava da receita |
-| **Ópio/Heroína** | 1914 (Harrison Act), EUA | Farmacêuticas (Bayer vendeu heroína 1898–1910); importadores | Racismo anti-chinês; reforma moral progressista | Parcialmente revertido via OxyContin/fentanyl legal — mesma droga, outro capital |
-| **Cocaína** | 1914 (Harrison), plena 1970 | Farmacêuticas; importadores | 1914: raça (associação com afro-americanos no Sul); 1970: Nixon para criminalizar antiwar left e Black people (confessado pelo próprio assessor Ehrlichman em 2016) | Não legalizada — mas descriminalizada no Oregon (2020, revertida 2024), Portugal (2001) |
-| **Cannabis** | 1937 (EUA) | Ninguém ainda organizara extração legal | Lobby de Hearst (hemp competia com papel de madeira) + DuPont (nylon vs fibra de cânhamo) + Anslinger (propaganda racista "reefer madness") | Quando private equity organizou o mercado (2010s); estado precisava de receita |
-| **Tabaco** | Nunca federalmente | Big Tobacco (Philip Morris, RJ Reynolds) já organizada | Nunca proibida — capital estava entrincheirado antes da evidência científica | Não aplicável — nunca saiu |
-| **Apostas** | PASPA 1992 (EUA) | Ligas esportivas (temiam corrupção) | As próprias ligas pressionaram; moral religiosa | Quando as ligas perceberam que podiam monetizar dados e patrocínios (viraram defensoras em 2018) |
-| **Apostas (Brasil)** | Dec-Lei 3.688/1941 | Nenhum capital organizado legalmente | Moralism pós-Estado Novo; inércia | Capital organizado (Grupo Globo, Caixa, multinacionais) + necessidade fiscal (R$ 4,7 bi licenças 2024) |
+| Substância/Atividade | Quando proibida             | Quem lucrava antes                                           | Por que foi proibida                                                                                                                                                | Por que foi (ou será) legalizada                                                                       |
+| -------------------- | --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Álcool**           | 1920 (EUA)                  | Destiladores, cervejarias                                    | Coalizão moral + anti-germanismo WWI + sufragismo                                                                                                                   | Crise fiscal de 1929–33; New Deal precisava da receita                                                 |
+| **Ópio/Heroína**     | 1914 (Harrison Act), EUA    | Farmacêuticas (Bayer vendeu heroína 1898–1910); importadores | Racismo anti-chinês; reforma moral progressista                                                                                                                     | Parcialmente revertido via OxyContin/fentanyl legal — mesma droga, outro capital                       |
+| **Cocaína**          | 1914 (Harrison), plena 1970 | Farmacêuticas; importadores                                  | 1914: raça (associação com afro-americanos no Sul); 1970: Nixon para criminalizar antiwar left e Black people (confessado pelo próprio assessor Ehrlichman em 2016) | Não legalizada — mas descriminalizada no Oregon (2020, revertida 2024), Portugal (2001)                |
+| **Cannabis**         | 1937 (EUA)                  | Ninguém ainda organizara extração legal                      | Lobby de Hearst (hemp competia com papel de madeira) + DuPont (nylon vs fibra de cânhamo) + Anslinger (propaganda racista "reefer madness")                         | Quando private equity organizou o mercado (2010s); estado precisava de receita                         |
+| **Tabaco**           | Nunca federalmente          | Big Tobacco (Philip Morris, RJ Reynolds) já organizada       | Nunca proibida — capital estava entrincheirado antes da evidência científica                                                                                        | Não aplicável — nunca saiu                                                                             |
+| **Apostas**          | PASPA 1992 (EUA)            | Ligas esportivas (temiam corrupção)                          | As próprias ligas pressionaram; moral religiosa                                                                                                                     | Quando as ligas perceberam que podiam monetizar dados e patrocínios (viraram defensoras em 2018)       |
+| **Apostas (Brasil)** | Dec-Lei 3.688/1941          | Nenhum capital organizado legalmente                         | Moralism pós-Estado Novo; inércia                                                                                                                                   | Capital organizado (Grupo Globo, Caixa, multinacionais) + necessidade fiscal (R$ 4,7 bi licenças 2024) |
 
 ---
 
@@ -109,7 +109,7 @@ resposta simultânea a três perguntas:
 
 **1. O capital já organizou extração legal?**
 Se sim → proibição é inviável politicamente (tabaco, álcool pós-1933, apostas pós-2018).
-Se não → proibição é possível; pode até servir a interesses de capital *concorrente*
+Se não → proibição é possível; pode até servir a interesses de capital _concorrente_
 (cannabis proibida para proteger papel/nylon/farmacêuticas).
 
 **2. O Estado pode extrair renda da legalização?**
@@ -136,13 +136,13 @@ o Estado muda o enquadramento: de caso de polícia para "crise de saúde públic
 
 O ciclo dos opioides americanos (1996–2024) é a versão mais documentada e recente:
 
-| Fase | Anos | Capital organizador | Mecanismo |
-|---|---|---|---|
-| **Introdução** | 1996–2000 | Purdue Pharma (família Sackler) | OxyContin lançado com alegação falsa de "baixo risco de dependência"; FDA aprovado |
-| **Expansão** | 2001–2010 | Farmacêuticas + distribuidores + farmácias | Médicos incentivados a prescrever; 300.000 mortes por overdose até 2016 |
-| **Crise declarada** | 2011–2017 | Governo federal (DEA, FDA) | CDC publica diretrizes restritivas; estados processam Purdue |
-| **Acordo judicial** | 2021–2024 | Attorneys General estaduais | Purdue faliu; Sacklers pagaram US$ 6 bi; estados recebem ~US$ 26 bi em acordos |
-| **Nova crise** | 2016–hoje | Cartéis mexicanos (fentanyl) | Proibição do legal criou demanda pelo ilegal — 80.000+ mortes/ano desde 2021 |
+| Fase                | Anos      | Capital organizador                        | Mecanismo                                                                          |
+| ------------------- | --------- | ------------------------------------------ | ---------------------------------------------------------------------------------- |
+| **Introdução**      | 1996–2000 | Purdue Pharma (família Sackler)            | OxyContin lançado com alegação falsa de "baixo risco de dependência"; FDA aprovado |
+| **Expansão**        | 2001–2010 | Farmacêuticas + distribuidores + farmácias | Médicos incentivados a prescrever; 300.000 mortes por overdose até 2016            |
+| **Crise declarada** | 2011–2017 | Governo federal (DEA, FDA)                 | CDC publica diretrizes restritivas; estados processam Purdue                       |
+| **Acordo judicial** | 2021–2024 | Attorneys General estaduais                | Purdue faliu; Sacklers pagaram US$ 6 bi; estados recebem ~US$ 26 bi em acordos     |
+| **Nova crise**      | 2016–hoje | Cartéis mexicanos (fentanyl)               | Proibição do legal criou demanda pelo ilegal — 80.000+ mortes/ano desde 2021       |
 
 **O que o ciclo prova:** a substância (opioide) não mudou. Mudou quem controlava a
 extração. Quando farmacêuticas lucravam legalmente, era "medicamento." Quando o lucro
@@ -170,9 +170,9 @@ menos organizado para um mais organizado; (3) muda o regulador para um menos pro
 O vício não muda. A arquitetura de captura da renda sobre ele se refina.
 
 **Na ficção:** a ADI é o nó após "mercado de previsão" — o instrumento que não aposta
-em *eventos* mas no *estado do mundo*. O próximo nó que nenhum personagem nomeia ainda
+em _eventos_ mas no _estado do mundo_. O próximo nó que nenhum personagem nomeia ainda
 é o que o offshore X. está construindo no porto: o instrumento que não aposta no estado
-do mundo, mas *escreve o registro do estado do mundo* para que outros apostem nele.
+do mundo, mas _escreve o registro do estado do mundo_ para que outros apostem nele.
 Quem controla o dado de referência controla o mercado — não precisa nem apostar.
 
 ---
@@ -345,12 +345,12 @@ os estados pelos custos de saúde do tabagismo e financiar programas de cessaç�
 
 **O que o CDC documenta anualmente:**
 
-| Ano   | Receita total dos estados (MSA + impostos sobre tabaco) | % gasto em prevenção ao tabaco |
-|-------|--------------------------------------------------------|-------------------------------|
-| 2010  | US$ 25,6 bi                                            | 3,2%                          |
-| 2015  | US$ 26,1 bi                                            | 2,4%                          |
-| 2020  | US$ 27,2 bi                                            | 2,6%                          |
-| 2024  | ~US$ 28 bi (estimado)                                  | ~2,8%                         |
+| Ano  | Receita total dos estados (MSA + impostos sobre tabaco) | % gasto em prevenção ao tabaco |
+| ---- | ------------------------------------------------------- | ------------------------------ |
+| 2010 | US$ 25,6 bi                                             | 3,2%                           |
+| 2015 | US$ 26,1 bi                                             | 2,4%                           |
+| 2020 | US$ 27,2 bi                                             | 2,6%                           |
+| 2024 | ~US$ 28 bi (estimado)                                   | ~2,8%                          |
 
 Fonte: CDC Office on Smoking and Health; Campaign for Tobacco-Free Kids (relatório anual).
 
@@ -381,12 +381,12 @@ tabaco — aplicam menos de 1% do recomendado pelo CDC em prevenção.
 
 O mesmo ciclo em seis anos:
 
-| Ano  | Evento                                                                           |
-|------|---------------------------------------------------------------------------------|
-| 2018 | _Murphy v. NCAA_ — Suprema Corte derruba PASPA; estados podem legalizar         |
+| Ano  | Evento                                                                         |
+| ---- | ------------------------------------------------------------------------------ |
+| 2018 | _Murphy v. NCAA_ — Suprema Corte derruba PASPA; estados podem legalizar        |
 | 2019 | 8 estados operando; lobby intenso das operadoras (DraftKings, FanDuel, BetMGM) |
-| 2021 | 20+ estados; receita fiscal incorporada a orçamentos como "permanente"          |
-| 2023 | 38 estados + DC; US$ 119,8 bi apostados no ano                                  |
+| 2021 | 20+ estados; receita fiscal incorporada a orçamentos como "permanente"         |
+| 2023 | 38 estados + DC; US$ 119,8 bi apostados no ano                                 |
 | 2024 | US$ 149,6 bi apostados; US$ 13,7 bi de hold; US$ 2,8 bi em impostos estaduais  |
 
 **O que acontece com o dinheiro:**
@@ -464,12 +464,12 @@ consumidor — mantendo a mecânica de adição idêntica.
 
 **Os instrumentos atuais:**
 
-| Plataforma    | Regulador      | Categoria legal             | O que se aposta                                      |
-|---------------|----------------|----------------------------|------------------------------------------------------|
-| Kalshi (EUA)  | CFTC           | Contrato de evento         | Eleições, inflação, clima, resultados esportivos     |
-| Polymarket    | Nenhum (cripto)| Token de previsão          | Qualquer evento futuro                               |
-| PredictIt     | CFTC (suspensa)| Pesquisa acadêmica (extinta)| Eleições americanas                                  |
-| Robin Hood    | SEC/FINRA      | Opções / ETFs alavancados  | Ativos financeiros com mecânica de cassino           |
+| Plataforma   | Regulador       | Categoria legal              | O que se aposta                                  |
+| ------------ | --------------- | ---------------------------- | ------------------------------------------------ |
+| Kalshi (EUA) | CFTC            | Contrato de evento           | Eleições, inflação, clima, resultados esportivos |
+| Polymarket   | Nenhum (cripto) | Token de previsão            | Qualquer evento futuro                           |
+| PredictIt    | CFTC (suspensa) | Pesquisa acadêmica (extinta) | Eleições americanas                              |
+| Robin Hood   | SEC/FINRA       | Opções / ETFs alavancados    | Ativos financeiros com mecânica de cassino       |
 
 **O argumento acadêmico de legitimação.** A teoria dos mercados de previsão sustenta que
 esses instrumentos "agregam informação dispersa sobre o futuro" — um apostador que
@@ -499,13 +499,13 @@ que usuários de menor renda perderam proporcionalmente mais do que em cassinos 
 
 **Linhas de ataque à tese (argumentos que precisam ser respondidos):**
 
-| Ataque | Força | Resposta da tese |
-|--------|-------|-----------------|
-| "A Proibição prova que o Estado às vezes proíbe mesmo perdendo receita" | Alta | O Estado proibiu antes de estabelecer dependência fiscal; revogou assim que a equação fiscal mudou (1933). O padrão pós-dependência é zero reversão. |
-| "O tabagismo caiu de 42% para 11% — o Estado pode reduzir consumo" | Alta | Caiu _contra_ o interesse fiscal do Estado, por pressão civil e litígio. Os estados que mais dependem da receita de tabaco são os que menos investem em cessação (dados CDC). |
-| "A legalização esvazia o crime organizado" | Média | Verdade parcial — mas o crime organizado não desaparece; migra para lavagem de dinheiro via plataformas legalizadas (UNODC, 2023) e para nichos não cobertos pela licença. |
-| "Mercados de previsão têm valor epistêmico real" | Média | A literatura existe. Mas o volume de apostas é dominado por comportamento de jogo, não pesquisa epistêmica. O regulador adequado seria diferente em cada caso. A indústria usa o argumento epistêmico para escapar do regulador de jogo. |
-| "A legalização no Brasil foi demanda popular, não imposição" | Baixa | A demanda popular era por acesso ao jogo; a estrutura tributária, o conflito SPA, e a licença da Caixa são decisões do Estado, não mandatos populares. |
+| Ataque                                                                  | Força | Resposta da tese                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "A Proibição prova que o Estado às vezes proíbe mesmo perdendo receita" | Alta  | O Estado proibiu antes de estabelecer dependência fiscal; revogou assim que a equação fiscal mudou (1933). O padrão pós-dependência é zero reversão.                                                                                     |
+| "O tabagismo caiu de 42% para 11% — o Estado pode reduzir consumo"      | Alta  | Caiu _contra_ o interesse fiscal do Estado, por pressão civil e litígio. Os estados que mais dependem da receita de tabaco são os que menos investem em cessação (dados CDC).                                                            |
+| "A legalização esvazia o crime organizado"                              | Média | Verdade parcial — mas o crime organizado não desaparece; migra para lavagem de dinheiro via plataformas legalizadas (UNODC, 2023) e para nichos não cobertos pela licença.                                                               |
+| "Mercados de previsão têm valor epistêmico real"                        | Média | A literatura existe. Mas o volume de apostas é dominado por comportamento de jogo, não pesquisa epistêmica. O regulador adequado seria diferente em cada caso. A indústria usa o argumento epistêmico para escapar do regulador de jogo. |
+| "A legalização no Brasil foi demanda popular, não imposição"            | Baixa | A demanda popular era por acesso ao jogo; a estrutura tributária, o conflito SPA, e a licença da Caixa são decisões do Estado, não mandatos populares.                                                                                   |
 
 **Linhas de defesa da tese (onde ela é mais sólida):**
 
